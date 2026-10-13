@@ -50,6 +50,7 @@
 .section-meta{margin-top:auto!important;font-size:12px}
 .directory-main h2 small{font:13px var(--sans);color:var(--muted)}
 .directory-controls .segments button[aria-pressed=true]{background:#136286;color:#fff;border-color:#76d9f7}
+.directory-controls input::placeholder{color:var(--muted);opacity:1}
 .directory-intro p.muted{max-width:640px}
 .declaration-dialog{color:var(--ink);background:#052440;border:1px solid var(--line);border-radius:9px;width:min(680px,94vw);max-height:88dvh;padding:28px}
 .declaration-dialog::backdrop{background:#000b}.declaration-dialog h2{font-size:28px;margin:6px 0 12px}.declaration-dialog h3{font-size:18px;margin:18px 0 4px;color:var(--cyan)}

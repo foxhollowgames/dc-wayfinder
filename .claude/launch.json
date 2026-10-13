@@ -5,7 +5,8 @@
       "name": "dc-wayfinder",
       "runtimeExecutable": "node",
       "runtimeArgs": ["scripts/serve.mjs"],
-      "port": 4173
+      "port": 4173,
+      "autoPort": true
     }
   ]
 }

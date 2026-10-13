@@ -1,4 +1,4 @@
-import { initMenu, readPreferences, savePreferences } from './settings-menu.js?v=20261012.4';
+import { initMenu, readPreferences, savePreferences } from './settings-menu.js?v=20261013.1';
 // The home page lists every section. The menu sets how each section opens.
 const BOOK = 'doctrine-and-covenants';
 const menu = document.querySelector('#settingsMenu'), preferences = { studyMode: 'read', perspective: 'historical', ...readPreferences() };

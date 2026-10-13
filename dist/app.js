@@ -1,11 +1,11 @@
-import { initChapterPicker } from './chapter-picker.js?v=20261012.4';
-import { people, featurePortraits, wordPortraits, personProfileHtml, personIdForLabel, setPeople, setPortraitMode, webpCopy, webpSourceHtml } from './portraits.js?v=20261012.4';
-import { initMenu, readPreferences, savePreferences } from './settings-menu.js?v=20261012.4';
-import { initModalDragging } from './modal-drag.js?v=20261012.4';
-import { chapterFocus, chapterRoutes, chapterPoints, movementStyle } from './chapter-map.js?v=20261012.4';
+import { initChapterPicker } from './chapter-picker.js?v=20261013.1';
+import { people, featurePortraits, wordPortraits, personProfileHtml, personIdForLabel, setPeople, setPortraitMode, webpCopy, webpSourceHtml } from './portraits.js?v=20261013.1';
+import { initMenu, readPreferences, savePreferences } from './settings-menu.js?v=20261013.1';
+import { initModalDragging } from './modal-drag.js?v=20261013.1';
+import { chapterFocus, chapterRoutes, chapterPoints, movementStyle } from './chapter-map.js?v=20261013.1';
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
-const releaseVersion = '20261012.4';
+const releaseVersion = '20261013.1';
 // One reader serves every book. native-book.js names the book. The book's content file supplies its settings.
 const book = { id: '', name: '', bibleCode: '', chapterCount: 0, chapterDigits: 2, ...globalThis.studyBook };
 const storageKey = `${book.id}-native-study-state`;
@@ -1014,6 +1014,9 @@ function displayedCampaigns() {
   return datedMap() ? data.campaigns.filter(visibleAt) : focusedRoutes();
 }
 function chapterPlaceVisible(p) { return !p.chapterLocation || chapterFocus(data, state.chapter)?.placeIds.includes(p.id); }
+// The stops of each path on the map. A `routeOnly` place shows only as a stop.
+function routeStopIds() { return new Set(state.layers.campaigns ? displayedCampaigns().flatMap(c => c.placeIds || []) : []); }
+function placeShown(p, stops) { return p.routeOnly ? stops.has(p.id) : stops.has(p.id) || (datedMap() ? visibleAt(p) : chapterPlaceVisible(p)); }
 function placeMentionedInChapter(place) { return !!placeVerseInChapter(place, state.chapter); }
 function regionMentionedInChapter(region) {
   const text = (scripture.chapters[state.chapter] || []).map(verse => verse.text).join(' ');
@@ -1066,7 +1069,8 @@ function drawOverlays() {
     feature(`campaign:${c.id}`, () => L.polyline(c.points, { pane:'routes', color, weight: c.chapterRoute && !c.contextRoute ? 5 : 3.5, opacity: 1, dashArray: c.chapterRoute ? style.dash : '10 7', interactive: false, className: 'campaign-overlay' }));
     feature(`hit:${c.id}`, () => L.polyline(c.points, {pane:'routes', color, weight:22, opacity:0, className:'campaign-hit'}), c);
   });
-  if (state.layers.places) data.places.filter(p => datedMap() ? visibleAt(p) : chapterPlaceVisible(p)).forEach(p => {
+  const stops = routeStopIds();
+  if (state.layers.places) data.places.filter(p => placeShown(p, stops)).forEach(p => {
     const mentioned = placeMentionedInChapter(p);
     const layer = feature(`place:${p.id}`, () => L.circleMarker([p.lat,p.lng], {pane:'places',radius:mentioned ? 6 : 4, color:mentioned ? '#fff4dc' : '#9bb2b7', weight:mentioned ? 2.5 : 1.25, fillColor:mentioned ? '#594530' : '#304c55', fillOpacity:mentioned ? 1 : .72}), p);
     layer.setRadius(mentioned ? 6 : 4);
@@ -1146,7 +1150,8 @@ function layoutPlaceLabels() {
     const r = el.getBoundingClientRect();
     if (r.width && r.height) occupied.push({x:r.left-mapRect.left-5,y:r.top-mapRect.top-5,w:r.width+10,h:r.height+10});
   });
-  const places = data.places.filter(p => datedMap() ? visibleAt(p) : chapterPlaceVisible(p)).map(p => ({p, point:map.latLngToContainerPoint([p.lat,p.lng]), priority:placePriority(p)}));
+  const stops = routeStopIds();
+  const places = data.places.filter(p => placeShown(p, stops)).map(p => ({p, point:map.latLngToContainerPoint([p.lat,p.lng]), priority:placePriority(p) || (stops.has(p.id) ? 70 : 0)}));
   places.forEach(({p,point}) => occupied.push({id:p.id,x:point.x-6,y:point.y-6,w:12,h:12}));
   const collides = (r, id) => occupied.some(b => b.id !== id && r.x < b.x+b.w && r.x+r.w > b.x && r.y < b.y+b.h && r.y+r.h > b.y);
   places.sort((a,b) => b.priority-a.priority || a.p.name.localeCompare(b.p.name)).forEach(({p,point,priority}) => {

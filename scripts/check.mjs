@@ -1,5 +1,5 @@
 // Check the built reader data for D&C Wayfinder. Run after `python3 scripts/build.py`.
-import { readFileSync } from 'node:fs';
+import { readFileSync, existsSync } from 'node:fs';
 const read = p => JSON.parse(readFileSync(new URL(`../dist/${p}`, import.meta.url), 'utf8'));
 const id = 'doctrine-and-covenants';
 const content = read(`data/books/${id}-native-content.json`);
@@ -46,11 +46,24 @@ for (let n = 1; n <= book.chapterCount; n++) {
 }
 if (verses !== 3654) fail(`expected 3,654 verses, found ${verses}`);
 for (const pl of content.places) if (!(pl.lat > 24 && pl.lat < 50 && pl.lng > -115 && pl.lng < -65)) fail(`place ${pl.id}: coordinates outside the map`);
-for (const c of content.campaigns) { if (c.points.length < 2) fail(`route ${c.id}: needs two points`); for (const s of c.sourceIds) if (!sources.has(s)) fail(`route ${c.id}: unknown source ${s}`); }
+for (const c of content.campaigns) { if (c.points.length < 2) fail(`route ${c.id}: needs two points`); for (const s of c.sourceIds) if (!sources.has(s)) fail(`route ${c.id}: unknown source ${s}`);
+  // Each stop is a place on the map. The text does not list the stops.
+  if (c.placeIds.length !== c.points.length) fail(`route ${c.id}: each point needs a stop`);
+  for (const pl of c.placeIds) if (!places.has(pl)) fail(`route ${c.id}: stop ${pl} is not a place`);
+  if (/Stops:|→/.test(`${c.summary} ${c.detail}`)) fail(`route ${c.id}: text lists stops`);
+  if (!c.evidence) fail(`route ${c.id}: missing evidence`); }
+for (const pl of content.places) if (pl.routeOnly && !content.campaigns.some(c => c.placeIds.includes(pl.id))) fail(`place ${pl.id}: on no route`);
+for (const s of content.sources) if (s.group === 'jsp-maps' && !/^https:\/\/www\.josephsmithpapers\.org\/.+\.pdf$/.test(s.url)) fail(`source ${s.id}: bad map link`);
 for (const g of content.guides) for (const s of g.steps) if (!verseSet(s.chapter).has(s.verse)) fail(`guide ${g.id}: ${s.chapter}:${s.verse} missing`);
 for (const [pid, p] of Object.entries(people)) {
   for (const k of ['name', 'role', 'life', 'importance', 'connections']) if (!p[k]) fail(`person ${pid}: missing ${k}`);
   if (!p.chapterIds.length) fail(`person ${pid}: appears in no section`);
+}
+const art = read(`data/books/${id}-art.json`);
+for (const [pid, a] of Object.entries(art)) {
+  if (!people[pid]) fail(`art ${pid}: unknown person`);
+  for (const k of ['src', 'sourceUrl', 'credit', 'license', 'licenseUrl']) if (!a[k]) fail(`art ${pid}: missing ${k}`);
+  if (!existsSync(new URL(`../dist/${a.src}`, import.meta.url))) fail(`art ${pid}: image file missing`);
 }
 for (const w of content.words) for (const m of w.matches) if (!Object.values(scripture.chapters).some(vs => vs.some(v => new RegExp(`(?<![\\w-])${m.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(?!\\w)`).test(v.text)))) fail(`glossary ${w.id}: “${m}” never occurs`);
 if (home.filter(h => h.n).length !== 138 || home.filter(h => h.od).length !== 2) fail('home directory must list 138 sections and 2 declarations');

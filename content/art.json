@@ -1,0 +1,554 @@
+{
+ "aaron": {
+  "file": "aaron.jpg",
+  "commonsFile": "El sumo sacerdote Aarón (Museo del Prado).jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_sumo_sacerdote_Aar%C3%B3n_(Museo_del_Prado).jpg",
+  "credit": "Juan de Juanes, about 1545–1550",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "abraham": {
+  "file": "abraham.jpg",
+  "commonsFile": "Abraham depiction in Abraham Serving the Three Angels.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abraham_depiction_in_Abraham_Serving_the_Three_Angels.jpg",
+  "credit": "Rembrandt, 1646 (detail)",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "adam": {
+  "file": "adam.jpg",
+  "commonsFile": "Lucas Cranach d.Ä. - Adam und Eva (Gemäldepaar), Herzog Anton Ulrich-Museum (Adam).jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Adam_und_Eva_(Gem%C3%A4ldepaar),_Herzog_Anton_Ulrich-Museum_(Adam).jpg",
+  "credit": "Lucas Cranach the Elder, 1518 (detail)",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source.",
+  "crop": [
+   0.2,
+   0.036,
+   0.8,
+   0.253
+  ]
+ },
+ "almon-babbitt": {
+  "file": "almon-babbitt.jpg",
+  "commonsFile": "Babbitt.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Babbitt.jpg",
+  "credit": "Unknown maker, before 1856",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "amasa-lyman": {
+  "file": "amasa-lyman.jpg",
+  "commonsFile": "Amasamlyman.png",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amasamlyman.png",
+  "credit": "Unknown photographer, before 1877",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "brigham-young": {
+  "file": "brigham-young.jpg",
+  "commonsFile": "Brigham Young by Charles William Carter.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brigham_Young_by_Charles_William_Carter.jpg",
+  "credit": "Charles W. Carter, about 1866–1877",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "david-whitmer": {
+  "file": "david-whitmer.jpg",
+  "commonsFile": "David Witmer.JPG",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:David_Witmer.JPG",
+  "credit": "Unknown photographer, before 1888",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "edward-partridge": {
+  "file": "edward-partridge.jpg",
+  "commonsFile": "Edward Partridge Sr.gif",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edward_Partridge_Sr.gif",
+  "credit": "Engraving by Charles B. Hall, before 1921",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "elijah": {
+  "file": "elijah.jpg",
+  "commonsFile": "Giovanni Girolamo Savoldo, Elijah Fed by the Raven, c. 1510, NGA 46134.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giovanni_Girolamo_Savoldo,_Elijah_Fed_by_the_Raven,_c._1510,_NGA_46134.jpg",
+  "credit": "Giovanni Girolamo Savoldo, about 1510",
+  "kind": "art",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "emma-smith": {
+  "file": "emma-smith.jpg",
+  "commonsFile": "Emma Hale Smith Bidamon.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Emma_Hale_Smith_Bidamon.jpg",
+  "credit": "Unknown photographer, about 1870",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "enoch": {
+  "file": "enoch.jpg",
+  "commonsFile": "Enoch MET DP830186.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Enoch_MET_DP830186.jpg",
+  "credit": "William Blake, 1806–1807",
+  "kind": "art",
+  "license": "CC0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "erastus-snow": {
+  "file": "erastus-snow.jpg",
+  "commonsFile": "Erastussnow.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erastussnow.jpg",
+  "credit": "Unknown photographer, before 1888",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "eve": {
+  "file": "eve.jpg",
+  "commonsFile": "Lucas Cranach d.Ä. - Adam und Eva (Gemäldepaar), Herzog Anton Ulrich-Museum (Eva).jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Adam_und_Eva_(Gem%C3%A4ldepaar),_Herzog_Anton_Ulrich-Museum_(Eva).jpg",
+  "credit": "Lucas Cranach the Elder, 1518 (detail)",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source.",
+  "crop": [
+   0.22,
+   0.072,
+   0.8,
+   0.282
+  ]
+ },
+ "ezra-t-benson": {
+  "file": "ezra-t-benson.jpg",
+  "commonsFile": "Ezra Taft Benson (1811).jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ezra_Taft_Benson_(1811).jpg",
+  "credit": "Unknown photographer, before 1869",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "frederick-g-williams": {
+  "file": "frederick-g-williams.jpg",
+  "commonsFile": "Frederick G. Williams.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frederick_G._Williams.jpg",
+  "credit": "Journal of History, 1915",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "george-a-smith": {
+  "file": "george-a-smith.jpg",
+  "commonsFile": "Georgeasmith.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Georgeasmith.jpg",
+  "credit": "Unknown photographer, before 1875",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "george-miller": {
+  "file": "george-miller.jpg",
+  "commonsFile": "Bishop George Miller.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bishop_George_Miller.jpg",
+  "credit": "Historical Society of Southern California, 1917",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "heber-c-kimball": {
+  "file": "heber-c-kimball.jpg",
+  "commonsFile": "Heber Chase Kimball-2.png",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heber_Chase_Kimball-2.png",
+  "credit": "Unknown photographer, before 1868",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "hyrum-smith": {
+  "file": "hyrum-smith.jpg",
+  "commonsFile": "Hyrum Smith ca 1880-1920.png",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyrum_Smith_ca_1880-1920.png",
+  "credit": "Copy of a drawing, photographed by George Edward Anderson",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "isaac-galland": {
+  "file": "isaac-galland.jpg",
+  "commonsFile": "Dr Isaac Galland.png",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dr_Isaac_Galland.png",
+  "credit": "Unknown maker, before 1858",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "isaac-morley": {
+  "file": "isaac-morley.jpg",
+  "commonsFile": "Isaac Morley.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isaac_Morley.jpg",
+  "credit": "Unknown maker, before 1865",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "jesus-christ": {
+  "file": "jesus-christ.jpg",
+  "commonsFile": "Christ Icon Sinai 6th century - crop.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Christ_Icon_Sinai_6th_century_-_crop.jpg",
+  "credit": "Icon at Saint Catherine’s Monastery, Sinai, 500s",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "john-c-bennett": {
+  "file": "john-c-bennett.jpg",
+  "commonsFile": "John C. Bennett engraving.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_C._Bennett_engraving.jpg",
+  "credit": "Unknown engraver, about 1867",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "john-murdock": {
+  "file": "john-murdock.jpg",
+  "commonsFile": "John Murdock earl LDS Missionary.png",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Murdock_earl_LDS_Missionary.png",
+  "credit": "Unknown photographer, 1871",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "john-smith": {
+  "file": "john-smith.jpg",
+  "commonsFile": "John Smith (uncle of Joseph Smith).jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Smith_(uncle_of_Joseph_Smith).jpg",
+  "credit": "Unknown photographer, before 1854",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "john-taylor": {
+  "file": "john-taylor.jpg",
+  "commonsFile": "John Taylor seated in chair.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Taylor_seated_in_chair.jpg",
+  "credit": "Unknown photographer, before 1887",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "john-the-baptist": {
+  "file": "john-the-baptist.jpg",
+  "commonsFile": "Saint John the Baptist by Titian. Oil on canvas, Museo Nacional del Prado.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_John_the_Baptist_by_Titian._Oil_on_canvas,_Museo_Nacional_del_Prado.jpg",
+  "credit": "Titian, about 1550–1555",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "john-the-revelator": {
+  "file": "john-the-revelator.jpg",
+  "commonsFile": "El Greco - Saint John the Evangelist, Schorr collection.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:El_Greco_-_Saint_John_the_Evangelist,_Schorr_collection.jpg",
+  "credit": "El Greco, about 1600",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "john-whitmer": {
+  "file": "john-whitmer.jpg",
+  "commonsFile": "John Whitmer.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:John_Whitmer.jpg",
+  "credit": "Unknown photographer, before 1878",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "joseph-f-smith": {
+  "file": "joseph-f-smith.jpg",
+  "commonsFile": "JFS First Presidency 1905 large.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:JFS_First_Presidency_1905_large.jpg",
+  "credit": "Charles R. Savage, 1905",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "joseph-smith": {
+  "file": "joseph-smith.jpg",
+  "commonsFile": "Joseph Smith, Jr. portrait owned by Joseph Smith III.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Joseph_Smith,_Jr._portrait_owned_by_Joseph_Smith_III.jpg",
+  "credit": "Unknown painter, about 1842",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "levi-w-hancock": {
+  "file": "levi-w-hancock.jpg",
+  "commonsFile": "Levi W. Hancock.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Levi_W._Hancock.jpg",
+  "credit": "Unknown photographer, before 1882",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "lucy-mack-smith": {
+  "file": "lucy-mack-smith.jpg",
+  "commonsFile": "Lucy Mack Smith.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lucy_Mack_Smith.jpg",
+  "credit": "Engraving after Frederick Piercy, published 1855",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "luke-johnson": {
+  "file": "luke-johnson.jpg",
+  "commonsFile": "Lukesjohnson.gif",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lukesjohnson.gif",
+  "credit": "Unknown painter, about 1850",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "lyman-johnson": {
+  "file": "lyman-johnson.jpg",
+  "commonsFile": "Lyman E. Johnson.JPG",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lyman_E._Johnson.JPG",
+  "credit": "Unknown maker, before 1859",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "lyman-wight": {
+  "file": "lyman-wight.jpg",
+  "commonsFile": "Lymanwight8.gif",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lymanwight8.gif",
+  "credit": "Unknown photographer, before 1858",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "martin-harris": {
+  "file": "martin-harris.jpg",
+  "commonsFile": "Martinharrisat87.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Martinharrisat87.jpg",
+  "credit": "Unknown photographer, before 1875",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "moroni": {
+  "file": "moroni.jpg",
+  "commonsFile": "Moroni3a07131u.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moroni3a07131u.jpg",
+  "credit": "After C. C. A. Christensen, about 1886",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "moses": {
+  "file": "moses.jpg",
+  "commonsFile": "Philippe de Champaigne - Moses with the Ten Commandments - WGA04717.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philippe_de_Champaigne_-_Moses_with_the_Ten_Commandments_-_WGA04717.jpg",
+  "credit": "Philippe de Champaigne, 1648",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "newel-k-whitney": {
+  "file": "newel-k-whitney.jpg",
+  "commonsFile": "Newel K. Whitney.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Newel_K._Whitney.jpg",
+  "credit": "Published by Andrew Jenson, 1901",
+  "kind": "art",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "oliver-cowdery": {
+  "file": "oliver-cowdery.jpg",
+  "commonsFile": "Olivercowdery-sm.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olivercowdery-sm.jpg",
+  "credit": "James Presley Ball, 1840s",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "orson-hyde": {
+  "file": "orson-hyde.jpg",
+  "commonsFile": "Orson Hyde.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Orson_Hyde.jpg",
+  "credit": "Unknown photographer, before 1878",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "orson-pratt": {
+  "file": "orson-pratt.jpg",
+  "commonsFile": "OrsonPratt.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:OrsonPratt.jpg",
+  "credit": "Unknown photographer, before 1881",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "parley-p-pratt": {
+  "file": "parley-p-pratt.jpg",
+  "commonsFile": "Parley P Pratt.gif",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parley_P_Pratt.gif",
+  "credit": "Unknown maker, before 1857",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "reynolds-cahoon": {
+  "file": "reynolds-cahoon.jpg",
+  "commonsFile": "Reynolds Cahoon.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Reynolds_Cahoon.jpg",
+  "credit": "Unknown photographer, before 1861",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "sidney-rigdon": {
+  "file": "sidney-rigdon.jpg",
+  "commonsFile": "SidneyRigdon.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:SidneyRigdon.jpg",
+  "credit": "Unknown maker, before 1876",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "titus-billings": {
+  "file": "titus-billings.jpg",
+  "commonsFile": "Titus Billings Large.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Titus_Billings_Large.jpg",
+  "credit": "Unknown photographer, before 1866",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "wilford-woodruff": {
+  "file": "wilford-woodruff.jpg",
+  "commonsFile": "Wilford Woodruff 1889.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wilford_Woodruff_1889.jpg",
+  "credit": "Charles R. Savage, 1889",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "willard-richards": {
+  "file": "willard-richards.jpg",
+  "commonsFile": "WillardRichards.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:WillardRichards.jpg",
+  "credit": "Probably Lucian R. Foster, about 1845",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "william-law": {
+  "file": "william-law.jpg",
+  "commonsFile": "William-law-pic.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:William-law-pic.jpg",
+  "credit": "Unknown photographer, before 1892",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "william-marks": {
+  "file": "william-marks.jpg",
+  "commonsFile": "William Marks (Mormon).jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_Marks_(Mormon).jpg",
+  "credit": "Unknown photographer, before 1872",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "william-mclellin": {
+  "file": "william-mclellin.jpg",
+  "commonsFile": "Williamemlellin.gif",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Williamemlellin.gif",
+  "credit": "Unknown photographer, before 1883",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "william-w-phelps": {
+  "file": "william-w-phelps.jpg",
+  "commonsFile": "William W. Phelps.png",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:William_W._Phelps.png",
+  "credit": "Probably Marsena Cannon, 1850s",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ },
+ "zebedee-coltrin": {
+  "file": "zebedee-coltrin.jpg",
+  "commonsFile": "Zebedee Coltrin.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zebedee_Coltrin.jpg",
+  "credit": "Unknown photographer, before 1887",
+  "kind": "photo",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "reviewNote": "License tag and description read from the Wikimedia Commons API on 2026-10-12. The downloaded image was viewed on 2026-10-12 and shows a period image of one person or the named artwork. The date and maker follow the Commons page and were not checked against another source."
+ }
+}

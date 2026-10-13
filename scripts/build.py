@@ -16,7 +16,7 @@ ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 C = lambda *p: os.path.join(ROOT, 'content', *p)
 D = lambda *p: os.path.join(ROOT, 'dist', *p)
 BOOK_ID = 'doctrine-and-covenants'
-VERSION = '20261012.1'
+VERSION = '20261013.1'
 REVIEW_DATE = '2026-10-12'
 OFFICIAL = 'https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/{n}?lang=eng'
 warnings = []
@@ -110,6 +110,17 @@ for c in cfm:
                 'type': 'Church lesson', 'group': 'cfm', 'url': c['url'], 'chapterCoverage': c['sections'],
                 'summary': f'The home and church study lesson for {c["week"]}. It covers {c["coverage"]}.',
                 'limitations': 'Church teaching and study helps, not historical evidence.', 'license': '© Intellectual Reserve, Inc. Linked, not copied.'})
+# Joseph Smith Papers reference maps. Each map is a link. It joins the routes, places, and sections that its entry names.
+JM = load(C('jsp-maps.json'))
+route_maps = {}; place_maps = {}; jsp_maps = []
+for m in JM['maps']:
+    sid = f'jspmap-{m["id"]}'
+    cover = set(m.get('sections', []))
+    if m.get('start'):
+        cover |= {n for n, d in sections.items() if d['receivedAt'] in m.get('places', []) and m['start'] <= d['month'] <= m['end']}
+    for r in m.get('routes', []): route_maps.setdefault(r, []).append(sid)
+    for x in m.get('places', []): place_maps.setdefault(x, []).append(sid)
+    jsp_maps.append((sid, m, cover))
 
 # ---------- people ----------
 profiles = {}
@@ -153,20 +164,37 @@ for g in load(C('glossary.json')):
 
 # ---------- routes ----------
 R = load(C('routes.json'))
-def point(x):
-    if x in places: return [places[x]['lat'], places[x]['lng']]
-    w = R['waypoints'][x]; return [w[1], w[2]]
-def pname(x): return places[x]['name'] if x in places else R['waypoints'][x][0]
+# A waypoint becomes a place that the map shows only with its routes.
+for wid, (wname, wlat, wlng) in R['waypoints'].items():
+    assert wid not in places, wid
+    on = [r['title'] for r in R['routes'] if wid in r['points']]
+    places[wid] = {'id': wid, 'name': wname.split(',')[0], 'fullName': wname, 'lat': wlat, 'lng': wlng, 'waypoint': True,
+                   'summary': f'{wname}. A stop on: {" / ".join(on)}.'}
+def point(x): return [places[x]['lat'], places[x]['lng']]
+def pname(x): return places[x]['name']
 campaigns = []; section_routes = {}
 for r in R['routes']:
     pts = [point(x) for x in r['points']]
     campaigns.append({'id': r['id'], 'title': r['title'], 'kind': r['kind'], 'typeLabel': 'Journey',
                       'start': month_index(r['start']), 'end': month_index(r['end']), 'dateLabel': r['start'][:4] if r['start'][:4] == r['end'][:4] else f'{r["start"][:4]}–{r["end"][:4]}',
-                      'points': pts, 'placeIds': [x for x in r['points'] if x in places], 'stops': [pname(x) for x in r['points']],
-                      'summary': r['summary'], 'detail': 'Stops: ' + ' → '.join(pname(x) for x in r['points']) + '.', 'evidence': r['evidence'],
-                      'uncertainty': r['evidence'], 'sourceIds': [f'dc-{s}' for s in r['sections']] , 'chapter': r['sections'][0], 'verse': 1,
+                      'points': pts, 'placeIds': r['points'], 'stops': [pname(x) for x in r['points']],
+                      'summary': r['summary'], 'detail': '', 'evidence': r['evidence'],
+                      'uncertainty': r['evidence'], 'sourceIds': [f'dc-{s}' for s in r['sections']] + route_maps.get(r['id'], []), 'chapter': r['sections'][0], 'verse': 1,
                       'direction': True})
     for s in r['sections']: section_routes.setdefault(s, []).append(r)
+for r in route_maps:
+    if r not in {x['id'] for x in R['routes']}: warnings.append(f'jsp-maps: unknown route {r}')
+for x in place_maps:
+    if x not in places: warnings.append(f'jsp-maps: unknown place {x}')
+for sid, m, cover in jsp_maps:
+    for r in R['routes']:
+        if sid in route_maps.get(r['id'], []): cover |= set(r['sections'])
+    add_source({'id': sid, 'title': f'Map · {m["title"]}', 'author': 'The Joseph Smith Papers', 'year': 'Church Historian’s Press', 'type': 'Reference map',
+                'group': 'jsp-maps', 'url': JM['base'] + m['file'], 'chapterCoverage': sorted(cover),
+                'summary': f'A reference map from the Joseph Smith Papers map list, under “{m["group"]}”. It opens as a PDF file on the project’s site.',
+                'limitations': 'This map shows places and borders. It draws no travel lines.' if m.get('placesOnly') else 'Our route lines join the main stops with straight lines. They do not copy the roads and rivers on this map.' if m.get('checked') else 'We link this map by its title, region, and period. We did not check our route lines or markers against it.',
+                'license': '© Intellectual Reserve, Inc. Linked, not copied.',
+                **({'reviewed': {'date': m['checked'], 'scope': 'Map opened and read.' + (' Each stop of the linked routes is on it.' if m.get('routes') and m.get('placesOnly') else ' The stops of the linked routes were compared with it.' if m.get('routes') else '')}} if m.get('checked') else {})})
 
 # ---------- regions ----------
 outlines = load(C('state-outlines.json'))
@@ -217,13 +245,15 @@ named_in = {pid: [n for n, d in sections.items() if pid in d['places']] for pid 
 places_out = []
 for pid, p in places.items():
     if not named_in[pid] and not any(pid in r['points'] for r in R['routes']): continue
-    full = f'{p["name"]}, {STATE[pid]}' if pid in STATE and STATE[pid] not in p['name'] else p['name']
+    full = p.get('fullName') or (f'{p["name"]}, {STATE[pid]}' if pid in STATE and STATE[pid] not in p['name'] else p['name'])
     rec = received.get(pid, [])
     detail = (f'Sections received or recorded here: {", ".join(ranges(rec))}.' if rec else '') + \
              (f' Studied with sections {", ".join(ranges([n for n in named_in[pid] if n not in rec]))}.' if [n for n in named_in[pid] if n not in rec] else '')
     places_out.append({'id': pid, 'name': p['name'], 'fullName': full, 'lat': p['lat'], 'lng': p['lng'], 'summary': p['summary'], 'detail': detail.strip(),
-                       'limits': 'Marker for the town or farm, not an exact building.', 'uncertainty': '', 'sourceIds': ['chron'] if rec else [],
-                       'verseScope': {}, 'chapterLocation': pid not in HUBS,
+                       'limits': 'Marker for the town or farm, not an exact building.', 'uncertainty': '',
+                       'sourceIds': (['chron'] if rec else []) + place_maps.get(pid, []) + (sorted({s for r in R['routes'] if pid in r['points'] for s in route_maps.get(r['id'], [])}) if p.get('waypoint') else []),
+                       'verseScope': {str(n): [] for n in range(1, COUNT + 1)} if p.get('waypoint') else {}, 'chapterLocation': pid not in HUBS,
+                       **({'routeOnly': True} if p.get('waypoint') else {}),
                        **({'start': month_index(FOUNDED[pid])} if pid in FOUNDED else {})})
 # Place names that are also people or common words link only where the place is in the section.
 for pl in places_out:
@@ -271,10 +301,13 @@ for g in load(C('guides.json')):
                    'steps': [{'title': tidy(s['title']), 'text': tidy(s['text']), 'chapter': s['chapter'], 'verse': s['verse'],
                               'year': passages[s['chapter'] - 1]['year'], 'sourceIds': [f'dc-{s["chapter"]}']} for s in g['steps']]})
 
+art_ready = [a for a in load(C('art.json')).values() if os.path.exists(D('assets', 'portraits', a['file']))]
+PORTRAIT_NOTE = ('Portraits are old photographs, engravings, and paintings in the public domain. Paintings of scripture figures show an artist’s idea, not a known likeness. Other people appear as initials.'
+                 if art_ready else 'People appear as initials. No portrait art is included yet.')
 book = {'id': BOOK_ID, 'name': 'D&C', 'fullName': 'Doctrine and Covenants', 'bibleCode': 'DC', 'chapterCount': COUNT, 'chapterDigits': 3,
         'unitLabel': 'section', 'verseLinks': 'entities', 'mapLimits': True, 'wordLanguages': False, 'relief': False,
         'scriptureUrl': 'https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/{chapter}?lang=eng&id=p{verse}#p{verse}',
-        'timeline': TIMELINE, 'portraitNote': 'People appear as initials. No portrait art is included yet.',
+        'timeline': TIMELINE, 'portraitNote': PORTRAIT_NOTE,
         'map': {'center': [40.6, -84.5], 'zoom': 5, 'bounds': [[22, -128], [55, -58]], 'minZoom': 4, 'maxZoom': 12},
         'geographyLabels': [['Lake Erie', 42.15, -81.3, 5, -18], ['Lake Ontario', 43.65, -77.9, 5, -5], ['Lake Michigan', 43.6, -87.05, 5, -82],
                             ['Lake Huron', 44.9, -82.5, 6, -55], ['Atlantic Ocean', 36.5, -70.5, 4, 0], ['Mississippi', 38.4, -90.25, 7, -75],
@@ -285,6 +318,7 @@ content = {'book': book, 'sources': sources, 'passages': passages, 'events': eve
            'chapterMaps': chapter_maps, 'textRoutes': [], 'narrativeRegions': [], 'chapterStudies': studies, 'chapterDateBands': bands,
            'sourceGroups': [{'id': 'official', 'title': 'Official Doctrine and Covenants pages', 'description': 'Each section’s page on the Church’s site has its heading, footnotes, and text. Setting notes use the headings’ facts in our own words.'},
                             {'id': 'jsp', 'title': 'The Joseph Smith Papers', 'description': 'The earliest manuscripts of the revelations, with historical introductions by the project’s editors.'},
+                           {'id': 'jsp-maps', 'title': 'Joseph Smith Papers maps', 'description': 'Reference maps of travel routes, towns, and regions from the project’s map list. Each link opens a PDF file on the project’s site.'},
                             {'id': 'cfm', 'title': 'Come, Follow Me 2025', 'description': 'The Church’s 2025 home and church lessons on the Doctrine and Covenants. LDS mode only.'}]}
 
 os.makedirs(D('data', 'books'), exist_ok=True)
@@ -292,7 +326,13 @@ def dump(obj, *p): json.dump(obj, open(D(*p), 'w', encoding='utf-8'), ensure_asc
 dump(content, 'data', 'books', f'{BOOK_ID}-native-content.json')
 dump({'translation': 'Doctrine and Covenants', 'copyright': 'Public-domain text (Scriptures in JSON)', 'chapters': chapters}, 'data', 'books', f'{BOOK_ID}-native-scripture.json')
 dump({'people': people_out, 'featurePeople': {}, 'aliases': {}, 'profileFacts': True}, 'data', 'books', f'{BOOK_ID}-people.json')
-dump({}, 'data', 'books', f'{BOOK_ID}-art.json')
+# Portraits: content/art.json lists each image and its credit. An entry is used only when its image file exists.
+art = {}
+for pid, a in load(C('art.json')).items():
+    if pid not in people_out: warnings.append(f'art: unknown person {pid}'); continue
+    if not os.path.exists(D('assets', 'portraits', a['file'])): warnings.append(f'art: image missing for {pid}'); continue
+    art[pid] = {'src': f'assets/portraits/{a["file"]}', 'sourceUrl': a['sourceUrl'], 'credit': a['credit'], 'license': a['license'], 'licenseUrl': a['licenseUrl']}
+dump(art, 'data', 'books', f'{BOOK_ID}-art.json')
 dump([{'id': BOOK_ID, 'name': 'Doctrine and Covenants', 'status': 'ready', 'url': f'{BOOK_ID}.html'}], 'data', 'books', 'directory.json')
 
 # Home page directory: every section plus the two declarations.

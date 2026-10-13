@@ -1,0 +1,52 @@
+{
+  "indexUrl": "https://www.josephsmithpapers.org/media/maps",
+  "base": "https://www.josephsmithpapers.org/bc-jsp/content/jsp/images/content/library/pdf/",
+  "reviewNote": "Titles, groups, and file links read from the Joseph Smith Papers maps page on 2026-10-13. The seven “Travel and Missions” PDF files were opened and read on 2026-10-13; they carry `checked`. The stops of routes lamanite-mission, missouri-1831, return-1831, missouri-1832, canada-1833, and zions-camp in routes.json were compared with them, and stops were added to five routes. Route zions-camp-michigan was added from the Camp of Israel map (leaders, stops, and the dates 5 May and 8 June 1834). Routes return-1832, canada-1833-return, and recruiting-1834 were then added from the same maps. Five regional maps were also opened and read on 2026-10-13 (Northwest Missouri; Northern Missouri, Western Illinois, and Southern Iowa; Jackson County settlements; Illinois 1844; Hancock County); they carry `placesOnly` because they show places and no travel lines. Each stop of routes jackson-expulsion, to-liberty-jail, missouri-exodus, and to-carthage is on its map (Nauvoo appears as Commerce on the 1839 map). The Far West marker in places-base.json was moved to agree with the grid of the Northwest Missouri map. The dates of route return-1832 (departure 6 May 1832, return by the end of June) were read on 2026-10-13 from the Joseph Smith Papers historical introduction to “Letter to Emma Smith, 6 June 1832”. The other 28 PDF files were not opened. For those maps, the routes, places, sections, and date ranges below are our own links by region and period. They do not claim that a map marks a given town or road. The maps are linked, not copied.",
+  "maps": [
+    {"id": "residences", "group": "Travel and Missions", "title": "Joseph Smith’s Residences", "file": "map3.pdf", "checked": "2026-10-13"},
+    {"id": "mission-1830", "group": "Travel and Missions", "title": "Mission to the Indians, 1830–1831", "file": "HamerIllustration.pdf", "checked": "2026-10-13", "routes": ["lamanite-mission"]},
+    {"id": "travel-1831", "group": "Travel and Missions", "title": "Joseph Smith’s Travel between Ohio and Missouri, 1831", "file": "illustration_1831_trips.pdf", "checked": "2026-10-13", "routes": ["missouri-1831", "return-1831"]},
+    {"id": "travel-1832", "group": "Travel and Missions", "title": "Joseph Smith’s Travel between Ohio and Missouri, 1832", "file": "illustration_1832_trips.pdf", "checked": "2026-10-13", "routes": ["missouri-1832", "return-1832"]},
+    {"id": "mission-1833", "group": "Travel and Missions", "title": "Joseph Smith’s Proselytizing Mission, October–November 1833", "file": "map1.pdf", "checked": "2026-10-13", "routes": ["canada-1833", "canada-1833-return"]},
+    {"id": "recruiting-1834", "group": "Travel and Missions", "title": "Joseph Smith’s Recruiting Mission, February–March 1834", "file": "map2.pdf", "checked": "2026-10-13", "routes": ["recruiting-1834"]},
+    {"id": "camp-of-israel-1834", "group": "Travel and Missions", "title": "Camp of Israel Route, May–June 1834", "file": "D4_Map5_Zions_Camp.pdf", "checked": "2026-10-13", "routes": ["zions-camp", "zions-camp-michigan"]},
+
+    {"id": "us-states-1832", "group": "United States", "title": "States, Territories, and Provinces, 1832–1839", "file": "J1_Map2_States-Territories-Provinces_web.pdf"},
+    {"id": "us-east-1833", "group": "United States", "title": "Eastern United States, 1833–1834", "file": "D3_Map1_%20Overview%201833-1834.pdf"},
+    {"id": "us-northeast-1839", "group": "United States", "title": "Northeastern United States, 1839", "file": "H1_Map1_%20Overview_web.pdf"},
+    {"id": "us-northeast-1843", "group": "United States", "title": "Northeastern United States, 1843", "file": "J2_Map1_Overview.web.pdf"},
+    {"id": "us-1843", "group": "United States", "title": "United States, 1843–1844", "file": "J3_Map1_Volume-Overview-1843-1844.pdf"},
+    {"id": "settlement-sites", "group": "United States", "title": "Maps Exploring Possible Latter-day Saint Settlement Sites", "file": "A1-Council-of-Fifty-Role-in-Seeking-Refuge-for-Mormons.pdf"},
+
+    {"id": "new-york-1832", "group": "New York and Pennsylvania", "title": "New York and Vicinity, 1832–1835", "file": "J1_Map3_NewYork_web.pdf", "places": ["perrysburg", "freedom"], "start": "1832-01", "end": "1835-12"},
+    {"id": "finger-lakes-1828", "group": "New York and Pennsylvania", "title": "Finger Lakes Region and Upper Susquehanna Valley, 1828–1831", "file": "D1_Map2_FingerLakes_web.pdf", "places": ["fayette", "palmyra", "manchester", "harmony", "colesville"], "start": "1828-01", "end": "1831-12"},
+    {"id": "palmyra-1828", "group": "New York and Pennsylvania", "title": "Palmyra, New York, and Vicinity, 1828–1830", "file": "D1_Map3_PalmyraManchester_web.pdf", "places": ["palmyra", "manchester", "hill-cumorah"], "start": "1828-01", "end": "1830-12"},
+    {"id": "harmony-1828", "group": "New York and Pennsylvania", "title": "Western Harmony Township, Susquehanna County, Pennsylvania, 1828–1830", "file": "D1_Map4_Harmony_web.pdf", "places": ["harmony"], "start": "1828-01", "end": "1830-12"},
+
+    {"id": "ohio-1831", "group": "Ohio", "title": "Ohio, 1831–1838", "file": "H1_Map4_Ohio_web.pdf", "places": ["kirtland", "hiram", "thompson", "amherst"], "start": "1831-01", "end": "1838-12"},
+    {"id": "kirtland-nw-1833", "group": "Ohio", "title": "Northwestern Kirtland Township, Ohio, 31 January 1833", "file": "D2_Map4_Kirtland_web.pdf", "places": ["kirtland"], "start": "1831-02", "end": "1833-01"},
+    {"id": "kirtland-1833", "group": "Ohio", "title": "Portion of Kirtland Township, Ohio, 31 December 1833", "file": "D3_Map4_%20Portion%20of%20Kirtland%201833.pdf", "places": ["kirtland"], "start": "1833-02", "end": "1833-12"},
+    {"id": "kirtland-1835", "group": "Ohio", "title": "Portion of Kirtland Township, Ohio, 31 December 1835", "file": "H2_Map4_Kirtland_web.pdf", "places": ["kirtland"], "start": "1834-01", "end": "1835-12"},
+    {"id": "kirtland-1838", "group": "Ohio", "title": "Portion of Kirtland Township, Ohio, 12 January 1838", "file": "J1_Map7_Kirtland-Township-1838_web.pdf", "places": ["kirtland"], "start": "1836-01", "end": "1838-01"},
+    {"id": "kirtland-land-1833", "group": "Ohio", "title": "Church Landholdings in Kirtland, Ohio, circa July 1833", "file": "D3_Map7_%20Church%20Land-Holdings-Kirtland-1833.pdf", "sections": [94, 96]},
+    {"id": "united-firm-1834", "group": "Ohio", "title": "United Firm Stewardships, Kirtland, Ohio, 1834", "file": "D4_Map7_United_Firm_1834_1835.pdf", "sections": [104]},
+    {"id": "hiram-1831", "group": "Ohio", "title": "Hiram Township, Ohio, 1831–1833", "file": "D2_Map5_Hiram_web.pdf", "places": ["hiram"], "start": "1831-01", "end": "1833-12"},
+
+    {"id": "missouri-illinois-iowa-1839", "group": "Missouri", "title": "Northern Missouri, Western Illinois, and Southern Iowa, 1839", "file": "J1_Map9_MO-ILL-IA_web.pdf", "checked": "2026-10-13", "placesOnly": true, "routes": ["missouri-exodus"], "places": ["liberty", "quincy"], "start": "1839-01", "end": "1839-12"},
+    {"id": "nw-missouri-1832", "group": "Missouri", "title": "Northwest Missouri, 1832–1838", "file": "J1_Map8_Missouri_web.pdf", "checked": "2026-10-13", "placesOnly": true, "routes": ["jackson-expulsion", "to-liberty-jail"], "places": ["independence", "liberty", "far-west", "adam-ondi-ahman", "fishing-river"], "start": "1832-01", "end": "1838-12"},
+    {"id": "jackson-settlements-1833", "group": "Missouri", "title": "Church Settlements, Northwest Jackson County, Missouri, 31 January 1833", "file": "D2_Map6_Settlements_web.pdf", "checked": "2026-10-13", "placesOnly": true, "places": ["independence"], "start": "1831-07", "end": "1833-12"},
+    {"id": "western-missouri-1834", "group": "Missouri", "title": "Western Missouri, 1834–1835", "file": "D4_Map6_Western_Missouri_1834_1835.pdf", "places": ["liberty", "fishing-river"], "start": "1834-01", "end": "1835-12"},
+    {"id": "adam-ondi-ahman-claims", "group": "Missouri", "title": "Latter-day Saint Land Claims in the Vicinity of Adam-ondi-Ahman", "file": "D6_Map9__Adam-ondi-Ahman-Land-Claims.pdf", "places": ["adam-ondi-ahman"], "start": "1838-01", "end": "1838-12"},
+
+    {"id": "illinois-area-1843", "group": "Illinois and Iowa Territory", "title": "Illinois and Surrounding Area, 1843–1844", "file": "J3_Map2_Regional-Overview-1843-1844.pdf"},
+    {"id": "illinois-1844", "group": "Illinois and Iowa Territory", "title": "Illinois, 27 June 1844", "file": "J3_Map3_Illinois-1844_V2.pdf", "checked": "2026-10-13", "placesOnly": true, "routes": ["to-carthage"]},
+    {"id": "lee-county-1839", "group": "Illinois and Iowa Territory", "title": "Church Land Purchases, Lee County, Iowa Territory, and Hancock County, Illinois, April–August 1839", "file": "J2_Map4_Land-Purchases-LeeCounty-IA_web.pdf", "places": ["montrose", "zarahemla", "nashville-iowa"], "sections": [125]},
+    {"id": "commerce-1839", "group": "Illinois and Iowa Territory", "title": "Church Land Purchases, Commerce, Illinois, and Vicinity, 1839", "file": "J2_Map5_Land-Purchases-Commerce-IL_web.pdf", "places": ["nauvoo"], "start": "1839-04", "end": "1839-12"},
+    {"id": "hancock-county-1843", "group": "Illinois and Iowa Territory", "title": "Hancock County, Illinois, 1843–1844", "file": "J3_Map4_Hancock-County-IL-1843-1844.pdf", "checked": "2026-10-13", "placesOnly": true, "routes": ["to-carthage"], "places": ["carthage", "ramus", "warsaw"], "start": "1843-01", "end": "1844-12"},
+    {"id": "nauvoo-plats-1842", "group": "Illinois and Iowa Territory", "title": "Nauvoo Plats, Blocks, and Lots, 31 August 1842", "file": "D10_Nauvoo-Plat.pdf", "places": ["nauvoo"], "start": "1841-01", "end": "1842-12"},
+    {"id": "nauvoo-1843", "group": "Illinois and Iowa Territory", "title": "Nauvoo, Illinois, 30 April 1843", "file": "J2_Map9_Nauvoo_web.pdf", "places": ["nauvoo"], "start": "1843-01", "end": "1843-12"},
+    {"id": "nauvoo-area-1843", "group": "Illinois and Iowa Territory", "title": "Nauvoo and Surrounding Area, 1843–1844", "file": "J3_Map5_Nauvoo-and-Surround-1843-1844.pdf", "start": "1843-01", "end": "1844-12"},
+    {"id": "nauvoo-political-wards", "group": "Illinois and Iowa Territory", "title": "Nauvoo Political Wards, 1843–1844", "file": "J3_Map6_Nauvoo-Political-1843-1844.pdf"},
+    {"id": "nauvoo-church-wards", "group": "Illinois and Iowa Territory", "title": "Nauvoo Ecclesiastical Wards, 1843–1844", "file": "J3_Map7_Nauvoo-Ecclesiastical-1843-1844.pdf"}
+  ]
+}

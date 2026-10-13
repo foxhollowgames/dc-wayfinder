@@ -11,7 +11,7 @@ Node.js is required. Nothing needs installing.
 
 ## What is in it
 
-- **All 138 sections** (3,654 verses). The home page lists them by number or by time and place, with a search box.
+- **All 138 sections** (3,654 verses). The home page lists them by number or by date, with a search box.
 - For each section:
   - **Setting:** who, when, where, and why, from the official section heading and the Joseph Smith Papers historical introduction, in our own words.
   - **Summary** of what the section says, in order.
@@ -75,7 +75,8 @@ The Bible books still work with this reader unchanged.
 
 ## Known gaps
 
-- **No portraits or map relief yet.** People show as initials, and the terrain shading layer is off. Images and elevation tiles could not be downloaded while building.
+- **Portraits for 54 of 114 people.** They are public-domain images from Wikimedia Commons, listed with credits in `content/art.json`. The other people show as initials. `scripts/fetch_art.py` downloads the images.
+- **No map relief yet.** The terrain shading layer is off.
 - **Approximate places and journeys.** Coordinates are approximate, and journeys join named stops with straight lines.
 - **People profiles were checked against JSP person pages** where they loaded. Some minor figures have uncertain dates, and their `reviewNote` says so.
 - **Jerusalem is not mapped.** It is named in sections 45, 77, and 133, but it is outside the map.

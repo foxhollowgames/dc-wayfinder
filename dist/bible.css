@@ -55,6 +55,3 @@
 .declaration-dialog{color:var(--ink);background:#052440;border:1px solid var(--line);border-radius:9px;width:min(680px,94vw);max-height:88dvh;padding:28px}
 .declaration-dialog::backdrop{background:#000b}.declaration-dialog h2{font-size:28px;margin:6px 0 12px}.declaration-dialog h3{font-size:18px;margin:18px 0 4px;color:var(--cyan)}
 @media(max-width:650px){.directory-main{padding:24px 16px 60px}.directory-intro h1{font-size:32px}.directory-controls input{width:100%}.directory-controls label{width:100%}.section-grid{grid-template-columns:1fr 1fr}.section-card{min-height:130px;padding:14px}.directory-page .book-card.section-card h3{font-size:16px}}
-
-/* Link from a volume home page to the Wayfinder hub. */
-.hub-link{display:inline-block;margin-bottom:18px;color:var(--muted);text-decoration:none;font:11px/1.6 var(--sans);letter-spacing:2px}.hub-link:hover{color:var(--cyan)}

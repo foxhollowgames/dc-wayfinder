@@ -1,10 +1,11 @@
+import { initBookCrumb } from './breadcrumbs.js?v=20261013.1';
 // Every book opens through this entry. The address names the book.
 // A book page names its book in data-book. The earlier address names it in the query.
 const slug=document.documentElement.dataset.book||new URLSearchParams(location.search).get('book');
 if(!slug)location.replace('./');
 const directory=await fetch('data/books/directory.json',{cache:'no-store'}).then(r=>r.json());
 const book=directory.find(b=>b.id===slug);
-if(book)document.querySelector('#bookTitle').textContent=book.name;
+if(book)initBookCrumb(document.querySelector('#bookCrumb'),directory.filter(b=>b.status==='ready'||b===book),book);
 if(book?.status==='ready'){
   // The page's own title ends with the product name.
   document.title=`${book.name} · ${document.title.split(' · ').pop()||'Bible Wayfinder'}`;

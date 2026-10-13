@@ -1,0 +1,25 @@
+{
+  "id": "john-corrill",
+  "name": "John Corrill",
+  "role": "Missouri bishop’s counselor and early Church historian",
+  "life": "1794–1842",
+  "dateNote": "He was baptized on 10 January 1831 and named in sections 50 and 52 in May and June 1831.",
+  "locations": [
+    "kirtland",
+    "independence",
+    "far-west",
+    "quincy"
+  ],
+  "importance": "John Corrill was baptized at Kirtland in January 1831. Section 50 names him among elders sent to strengthen the churches, and section 52 sends him to Missouri with Lyman Wight. He served as counselor to Bishop Edward Partridge, and in 1838 was a Missouri legislator and Church historian. He testified against Joseph Smith that November, was excommunicated in March 1839, and published a history of the Church.",
+  "connections": "He worked with Edward Partridge and Lyman Wight in Missouri.",
+  "linkNames": [
+    "John Corrill"
+  ],
+  "sources": [
+    {
+      "title": "John Corrill, Joseph Smith Papers biography",
+      "url": "https://www.josephsmithpapers.org/person/john-corrill"
+    }
+  ],
+  "reviewNote": "Dates and roles checked on JSP; death 26 Sept. 1842 read from a cut fragment. His 1839 book is A Brief History of the Church of Christ of Latter Day Saints."
+}

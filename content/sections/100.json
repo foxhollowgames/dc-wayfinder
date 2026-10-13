@@ -1,0 +1,49 @@
+{
+  "section": 100,
+  "title": "God keeps the families while the missionaries speak",
+  "dateLabel": "12 October 1833",
+  "month": "1833-10",
+  "receivedAt": "perrysburg",
+  "setting": "Freeman and Huldah Nickerson of Perrysburg, New York, came to Kirtland in September 1833. They asked Joseph Smith and Sidney Rigdon to preach to their family in New York and Upper Canada. Joseph and Sidney left Kirtland with them on 5 October. They reached the Nickerson home in Perrysburg on 12 October, worried about the families they had left. This revelation was recorded there that day. The two then went on to preach and baptize in Upper Canada.",
+  "summary": "The revelation tells Sidney Rigdon and Joseph Smith that their families are well and in the Lord’s hands. It says the Lord has many people in this region, and an effectual door will open. They are to speak what is put into their hearts, in solemnity and meekness. The Holy Ghost will bear record of what they say. Sidney is called as a spokesman for Joseph, and Joseph is to be a revelator to Sidney. It promises that Zion will be redeemed, though chastened for a season. Orson Hyde and John Gould are in the Lord’s hands. All things will work together for good to the upright.",
+  "contextNote": {
+    "title": "Words given in the moment",
+    "text": "Joseph and Sidney were far from home, about to preach to strangers. Verse 5 tells them to speak the thoughts the Lord will put into their hearts. Verse 6 gives the reason they need not prepare in fear: the words will be given “in the very hour” they are needed. Verse 7 sets the manner, in solemnity of heart and meekness. Verse 8 promises that the Holy Ghost will then bear record of their words. In this passage, being given words depends on speaking in the right spirit."
+  },
+  "studyVerse": 6,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 98–101 uses sections 99–100 to teach that the Lord takes care of people who serve him. According to verses 5–8, what must Joseph and Sidney do so that the Holy Ghost will bear record of their words?",
+  "placeIds": [
+    "perrysburg",
+    "kirtland",
+    "mount-pleasant-upper-canada"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "orson-hyde",
+    "john-gould"
+  ],
+  "newPlaces": [
+    {
+      "id": "mount-pleasant-upper-canada",
+      "name": "Mount Pleasant, Upper Canada",
+      "why": "Setting: the Nickerson family destination, where Joseph and Sidney preached and baptized in October 1833 right after this revelation."
+    }
+  ],
+  "newPeople": [
+    {
+      "id": "john-gould",
+      "name": "John Gould",
+      "why": "Named in v. 14; elder sent with Orson Hyde to Missouri in 1833, who returned with news of the Jackson County violence."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/100?lang=eng",
+    "jsp": {
+      "title": "Revelation, 12 October 1833 [D&C 100]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-12-october-1833-dc-100",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 17 verses. Official heading gives Perrysburg, New York, 12 October 1833, to Joseph Smith and Sidney Rigdon, anxious about their families. JSP historical introduction read for the Nickersons’ request, the 5 October departure, arrival on 12 October, and the Upper Canada mission (Mount Pleasant, Brantford). John Gould’s mission detail is from general knowledge and JSP notes on D&C 101 (Hyde and Gould reported the violence on 25 November); verify the newPeople description. Fact-check 2026-10-12: ldsText adjusted to the lesson’s actual heading for sections 99–100 (the Lord takes care of people who serve him)."
+}

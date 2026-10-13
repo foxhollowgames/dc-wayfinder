@@ -1,0 +1,30 @@
+{
+  "id": "john-the-baptist",
+  "name": "John the Baptist",
+  "role": "New Testament prophet who restored the Aaronic Priesthood",
+  "life": "Dates not known",
+  "dateNote": "The D&C reports his visit near Harmony, Pennsylvania, on 15 May 1829.",
+  "locations": [
+    "harmony"
+  ],
+  "importance": "Section 13 gives the words of an angel who, Joseph Smith reported, conferred the Priesthood of Aaron on him and Oliver Cowdery. The revelation in section 27 says this John, son of Zacharias, was sent to ordain them. Section 35 compares Sidney Rigdon to John, sent to prepare the way. Section 84 says he was ordained by an angel at eight days old to prepare for the Lord’s coming.",
+  "connections": "The D&C names his father Zacharias and links him with Elias. The section 13 heading says he acted under Peter, James, and John.",
+  "linkNames": [
+    "John the son of Zacharias"
+  ],
+  "sources": [
+    {
+      "title": "Doctrine and Covenants 13",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/13?lang=eng"
+    },
+    {
+      "title": "Doctrine and Covenants 27",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=eng"
+    },
+    {
+      "title": "Doctrine and Covenants 84",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng"
+    }
+  ],
+  "reviewNote": "Described only as the D&C presents him. Section 13 text does not name him; the heading does. Bare “John” is not linked because it is ambiguous."
+}

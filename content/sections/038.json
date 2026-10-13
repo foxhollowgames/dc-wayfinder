@@ -1,0 +1,41 @@
+{
+  "section": 38,
+  "title": "Be one, and go to Ohio to receive the law",
+  "dateLabel": "2 January 1831",
+  "month": "1831-01",
+  "receivedAt": "fayette",
+  "setting": "The Church held its third conference at Fayette, New York, on 2 January 1831. Three days earlier a revelation had told members to gather in Ohio. Members at the conference wanted to know more, so Joseph Smith inquired before the congregation. Some were reluctant to move, and John Whitmer recorded that some suspected Joseph of inventing the command for gain. A Waterloo writer reported that property owners resisted at first but agreed after fasting and prayer.",
+  "summary": "The voice speaks as Jesus Christ, the Creator, who took the Zion of Enoch to himself. It warns that the wicked are kept in chains of darkness for judgment. It tells the Saints he is in their midst though unseen, and that some are clean but not all. It reveals that enemies in “secret chambers” plot their destruction. It promises a land of inheritance if they seek it with all their hearts. It commands each person to esteem his brother as himself and gives a parable of a father who favors one son. It then explains the move: in Ohio they will receive the law and be “endowed with power from on high”. Men chosen by the Church will care for the poor and property, and all are to warn neighbors meekly.",
+  "contextNote": {
+    "title": "Why the Saints must be one",
+    "text": "The New York members faced a costly move, and rich and poor stood to lose different things. Verse 16 says “the poor have complained” and the Lord is “no respecter of persons”. Verses 24–25 repeat the command to esteem one’s brother as oneself. Verse 26 then pictures a father who dresses one son in robes and another in rags. Verse 27 draws the line: “if ye are not one ye are not mine”. Verses 34–35 turn that into practice, naming men to keep the poor from suffering. In this passage, being one means sharing the cost of gathering so no one is left in rags."
+  },
+  "studyVerse": 27,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 37–40 uses verses 24–27 to teach that God wants his people to be one. Read the parable in verse 26 beside verses 34–35; what practical steps toward being one does this section require?",
+  "placeIds": [
+    "fayette",
+    "kirtland"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "john-whitmer",
+    "enoch"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "enoch",
+      "name": "Enoch",
+      "why": "Named in v. 4 (“the Zion of Enoch”); the ancient patriarch of Genesis 5 whose city was taken to God."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/38?lang=eng",
+    "jsp": {
+      "title": "Revelation, 2 January 1831 [D&C 38]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-2-january-1831-dc-38",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 42 verses. Official heading gives Fayette, 2 January 1831, at a Church conference. JSP introduction supplied the members’ request, the reluctance and suspicion recorded by John Whitmer, and the Waterloo correspondent’s report (that letter’s year is editor-supplied). Kirtland stands in for “the Ohio”. Fact-check 2026-10-12: no changes"
+}

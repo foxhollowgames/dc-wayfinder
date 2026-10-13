@@ -1,0 +1,86 @@
+[
+ {
+  "id": "lyons",
+  "name": "Lyons",
+  "lat": 43.0642,
+  "lng": -76.9902,
+  "summary": "Seat of Wayne County, New York."
+ },
+ {
+  "id": "seneca-falls",
+  "name": "Seneca Falls",
+  "lat": 42.9106,
+  "lng": -76.7966,
+  "summary": "Mill town in Seneca County, New York."
+ },
+ {
+  "id": "canandaigua",
+  "name": "Canandaigua",
+  "lat": 42.8875,
+  "lng": -77.2817,
+  "summary": "Seat of Ontario County, New York."
+ },
+ {
+  "id": "north-union",
+  "name": "North Union",
+  "lat": 41.4739,
+  "lng": -81.5371,
+  "summary": "Shaker community east of Cleveland, Ohio; now Shaker Heights."
+ },
+ {
+  "id": "detroit",
+  "name": "Detroit",
+  "lat": 42.3314,
+  "lng": -83.0458,
+  "summary": "Town in Michigan Territory on the Detroit River."
+ },
+ {
+  "id": "wayne-county",
+  "name": "Wayne County",
+  "lat": 43.15,
+  "lng": -77.05,
+  "summary": "County in western New York that includes Palmyra."
+ },
+ {
+  "id": "south-carolina",
+  "name": "South Carolina",
+  "lat": 33.9,
+  "lng": -80.9,
+  "summary": "Southern state whose 1832 nullification crisis frames section 87."
+ },
+ {
+  "id": "mount-pleasant-upper-canada",
+  "name": "Mount Pleasant",
+  "lat": 43.08,
+  "lng": -80.32,
+  "summary": "Village in Upper Canada (now Ontario), southwest of Brantford."
+ },
+ {
+  "id": "burlington",
+  "name": "Burlington",
+  "lat": 40.8075,
+  "lng": -91.1129,
+  "summary": "Mississippi River town, capital of Iowa Territory in 1839."
+ },
+ {
+  "id": "fort-madison",
+  "name": "Fort Madison",
+  "lat": 40.6298,
+  "lng": -91.3151,
+  "summary": "Mississippi River town in Lee County, Iowa Territory."
+ },
+ {
+  "id": "zarahemla",
+  "name": "Zarahemla",
+  "lat": 40.54,
+  "lng": -91.39,
+  "summary": "Planned Latter-day Saint settlement near Montrose, Iowa Territory."
+ },
+ {
+  "id": "nashville-iowa",
+  "name": "Nashville",
+  "lat": 40.47,
+  "lng": -91.43,
+  "summary": "Settlement in Lee County, Iowa Territory, later Galland."
+ }
+]

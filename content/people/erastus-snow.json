@@ -1,0 +1,26 @@
+{
+  "id": "erastus-snow",
+  "name": "Erastus Snow",
+  "role": "Pioneer leader and later apostle",
+  "life": "1818–1888",
+  "dateNote": "Section 136 assigned him to organize a company on 14 January 1847; he became an apostle on 12 February 1849.",
+  "locations": [
+    "kirtland",
+    "montrose",
+    "nauvoo",
+    "winter-quarters",
+    "salt-lake-city"
+  ],
+  "importance": "Erastus Snow was baptized in Vermont in 1833, served many missions, and later lived at Montrose, Iowa. Section 136 tells him and Ezra T. Benson to organize a company for the trek west. He entered the Salt Lake Valley with the 1847 pioneer company. He became an apostle in 1849 and founded St. George, Utah, in 1861.",
+  "connections": "Section 136 pairs him with Ezra T. Benson.",
+  "linkNames": [
+    "Erastus Snow"
+  ],
+  "sources": [
+    {
+      "title": "Erastus Snow, Joseph Smith Papers biography",
+      "url": "https://www.josephsmithpapers.org/person/erastus-snow"
+    }
+  ],
+  "reviewNote": "Dates and roles checked on JSP. JSP gives no exact death date; it cites an obituary dated 30 May 1888, so the year is secure."
+}

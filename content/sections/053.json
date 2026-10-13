@@ -1,0 +1,34 @@
+{
+  "section": 53,
+  "title": "Sidney Gilbert is called to leave the world and serve as agent",
+  "dateLabel": "8 June 1831",
+  "month": "1831-06",
+  "receivedAt": "kirtland",
+  "setting": "This revelation came at Kirtland, Ohio, on 8 June 1831. Algernon Sidney Gilbert was a merchant and the business partner of Newel K. Whitney. Two days earlier, a revelation had named elders to go to Missouri, but not Gilbert. He then asked Joseph Smith to inquire about his own role. Gilbert left for Missouri with Joseph and Sidney Rigdon on 18 June.",
+  "summary": "The revelation tells Sidney Gilbert that his prayers about his calling were heard. The voice speaks as the one crucified for the sins of the world. It commands him to forsake the world. He is to be ordained an elder to preach faith, repentance, and remission of sins. He is also to be an agent for the Church where the bishop appoints. He is to travel with Joseph Smith and Sidney Rigdon. More will be made known according to his labor, and only those who endure are saved.",
+  "contextNote": {
+    "title": "What forsaking the world asked of a merchant",
+    "text": "Gilbert asked what his calling in the Church should be. Verse 2 answers first with a command: “forsake the world”. Verse 3 then gives a spiritual office, an elder who preaches. Verse 4 gives a practical one: an agent for the Church. So the call did not discard his business skills; it redirected them. Verse 6 calls these only “the first ordinances” he would receive. In this passage, forsaking the world means changing whom one’s work serves."
+  },
+  "studyVerse": 2,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 51–57 includes this call to Sidney Gilbert. What do verses 2–4 suggest about bringing ordinary skills, like Gilbert’s business work, into the Lord’s service?",
+  "placeIds": [
+    "kirtland"
+  ],
+  "personIds": [
+    "sidney-gilbert",
+    "joseph-smith",
+    "sidney-rigdon"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/53?lang=eng",
+    "jsp": {
+      "title": "Revelation, 8 June 1831 [D&C 53]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-8-june-1831-dc-53",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 7 verses. Official heading gives Kirtland, 8 June 1831, at Gilbert’s request. JSP adds the 18 June departure for Missouri. JSP identifies Gilbert’s partner only in a footnote as Newel K. Whitney; the partnership is well attested but Whitney is not named in the text, so he is not in personIds. Calling Gilbert a merchant reflects the Gilbert and Whitney store. Fact-check 2026-10-12: no changes"
+}

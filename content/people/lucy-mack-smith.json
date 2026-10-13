@@ -1,0 +1,24 @@
+{
+  "id": "lucy-mack-smith",
+  "name": "Lucy Mack Smith",
+  "role": "Mother of Joseph Smith",
+  "life": "1775–1856",
+  "dateNote": "Joseph Smith’s vision of 21 January 1836 places her in the celestial kingdom while she was still living.",
+  "locations": [
+    "palmyra",
+    "manchester",
+    "kirtland",
+    "far-west",
+    "nauvoo"
+  ],
+  "importance": "Lucy Mack Smith is not named in the D&C, but section 137 says Joseph saw “my father and my mother” in the celestial kingdom. She was baptized on 6 April 1830, the day the Church was organized. In May 1831 she led a company of Fayette branch members to Kirtland. She later wrote a history of the Smith family, published in 1853.",
+  "connections": "She married Joseph Smith Sr. in 1796; their children included Alvin, Hyrum, Joseph, and Samuel H. Smith. Section 137 places her beside her husband and her son Alvin.",
+  "linkNames": [],
+  "sources": [
+    {
+      "title": "Lucy Mack Smith, Joseph Smith Papers biography",
+      "url": "https://www.josephsmithpapers.org/person/lucy-mack-smith"
+    }
+  ],
+  "reviewNote": "Dates checked on the JSP page; the death date was partly cut off but read 14 May 1856. Named only indirectly (“my mother”) in 137:5, so no linkNames. The list of children is from general knowledge, not the JSP page."
+}

@@ -1,0 +1,47 @@
+{
+  "section": 94,
+  "title": "Kirtland is laid out as a stake around the Lord’s house",
+  "dateLabel": "2 August 1833",
+  "month": "1833-08",
+  "receivedAt": "kirtland",
+  "setting": "Joseph Smith dictated this revelation in Kirtland, Ohio, on 2 August 1833. Earlier editions dated it 6 May 1833, an error corrected in the 2013 edition. That spring the church had bought Peter French’s farm, where the Lord’s house would stand at the center of the city plat. In the same weeks the presidency drafted plans for Kirtland and for Zion in Missouri. Kirtland leaders did not yet know that a mob in Independence had destroyed the church’s press in July.",
+  "summary": "The revelation commands the Saints to lay out Kirtland as the “city of the stake of Zion,” starting from the Lord’s house. The work must follow the pattern already given. The first lot south is for a house for the presidency, fifty-five by sixty-five feet, with lower and higher courts. It must be kept clean, or the Lord’s glory and presence will not be there. The second lot south is for a house of the same size for printing the scripture translation. Hyrum Smith, Reynolds Cahoon, and Jared Carter receive lots and are named a committee to build the houses. The two houses are not to be built until a later commandment.",
+  "contextNote": {
+    "title": "A holy house at the center of the city",
+    "text": "The Saints were planning a city, and verse 1 says to begin “at my house”. Verses 3 and 10 then place two more buildings beside it, for the presidency and for printing. Verse 8 sets the condition for the presidency’s house: no unclean thing may enter. If that holds, the voice says, “my glory shall be there, and my presence shall be there”. Verse 9 states the reverse: if uncleanness comes in, his presence will not. In this passage, a dedicated house is one kept clean so that God’s presence can remain."
+  },
+  "studyVerse": 8,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 94–97 uses this section to teach that we can be “wholly dedicated unto the Lord.” What do verses 8–9 suggest about keeping a place, or a life, fit for the Lord’s presence?",
+  "placeIds": [
+    "kirtland",
+    "independence"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "hyrum-smith",
+    "reynolds-cahoon",
+    "jared-carter"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "reynolds-cahoon",
+      "name": "Reynolds Cahoon",
+      "why": "Named in v. 14; Kirtland member on the committee to build the Lord’s house."
+    },
+    {
+      "id": "jared-carter",
+      "name": "Jared Carter",
+      "why": "Named in v. 14; Kirtland member on the committee to build the Lord’s house."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/94?lang=eng",
+    "jsp": {
+      "title": "Revelation, 2 August 1833–B [D&C 94]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-2-august-1833-b-dc-94",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 17 verses. Official heading now gives Kirtland, 2 August 1833, and the building committee of Hyrum Smith, Reynolds Cahoon, and Jared Carter. JSP introduction read for the 6 May misdating (fixed in 2013), the French farm purchase, the city plat, and the July 1833 Jackson County violence. JSP adds that neither the presidency house nor the printing house was ever built. Independence is included for the setting’s Missouri events. Fact-check 2026-10-12: ldsText misdescribed the lesson; the CFM lesson uses section 94 to teach being “wholly dedicated unto the Lord.”"
+}

@@ -1,0 +1,43 @@
+{
+  "section": 137,
+  "title": "God judges the dead by the desires of their hearts",
+  "dateLabel": "21 January 1836",
+  "month": "1836-01",
+  "receivedAt": "kirtland",
+  "setting": "On the evening of 21 January 1836, Church leaders met on the top floor of the unfinished Kirtland temple. They were washing and anointing one another in preparation for the temple’s dedication. Joseph Smith’s father anointed him, and Joseph then reported visions of the celestial kingdom. His scribe Warren Parrish wrote the account in Joseph’s journal.",
+  "summary": "This is a vision told in the first person by Joseph Smith. He says the heavens opened and he saw the celestial kingdom, its gate, and the throne of the Father and the Son. He saw Adam, Abraham, his father and mother, and his brother Alvin. He wondered how Alvin was there, since Alvin died before being baptized. The voice of the Lord answered him. Those who died without the gospel, but would have received it, will inherit the celestial kingdom. The Lord will judge all by their works and the desires of their hearts. Joseph also saw that children who die before accountability are saved there.",
+  "contextNote": {
+    "title": "Why Alvin was in the kingdom",
+    "text": "Alvin Smith died in 1823, before the Church existed, and was never baptized. Verse 6 states Joseph’s puzzle: how could Alvin inherit the celestial kingdom? Verse 7 gives the answer: those who “would have received it” if they had lived are heirs. Verse 9 states the reason, that God judges “according to the desire of their hearts”. Verse 10 applies the same mercy to children who die young. In this passage, desire means what a person would have chosen had the chance come."
+  },
+  "studyVerse": 9,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 137–138 uses this vision to teach that God offers salvation to all. What do verses 7–9 suggest about how God will judge someone you love who died without that chance?",
+  "placeIds": [
+    "kirtland"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "alvin-smith",
+    "joseph-smith-sr",
+    "lucy-mack-smith",
+    "adam",
+    "jesus-christ"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "abraham",
+      "name": "Abraham",
+      "why": "named in v. 5 as seen in the celestial kingdom; biblical patriarch (also named in 138:41)"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/137?lang=eng",
+    "jsp": {
+      "title": "Visions, 21 January 1836 [D&C 137]",
+      "url": "https://www.josephsmithpapers.org/paper-summary/visions-21-january-1836-dc-137",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 10 verses. Official heading gives the Kirtland temple, 21 January 1836. JSP historical introduction read: anointing at sunset in the west room on the third floor of the House of the Lord; Joseph Smith's father anointed the presidency; Warren Parrish recorded the account in Joseph's journal. Joseph's parents were still living when he saw them in the vision. Canonization (added to the Pearl of Great Price in 1976, moved to D&C in 1981) is from general knowledge, not the pages read, so it is left out of the prose."
+}

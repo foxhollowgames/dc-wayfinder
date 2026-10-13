@@ -1,0 +1,31 @@
+{
+  "id": "sidney-rigdon",
+  "name": "Sidney Rigdon",
+  "role": "Counselor to Joseph Smith in the First Presidency",
+  "life": "1793–1876",
+  "dateNote": "He was baptized in November 1830 and shared the vision in section 76 on 16 February 1832.",
+  "locations": [
+    "kirtland",
+    "hiram",
+    "far-west",
+    "liberty",
+    "nauvoo"
+  ],
+  "importance": "Sidney Rigdon was a Reformed Baptist preacher in Ohio when he joined in November 1830. Section 35 calls him to be Joseph Smith’s scribe, and section 76 reports that the two saw the vision of the degrees of glory together. He served as counselor in the presidency from 1832 and was jailed with Joseph in Missouri. After Joseph’s death he claimed the right to lead and was excommunicated in 1844.",
+  "connections": "Parley P. Pratt introduced him to the Church and Oliver Cowdery baptized him. He travels with Joseph Smith and Oliver Cowdery in many sections, and section 100 makes him Joseph’s spokesman.",
+  "linkNames": [
+    "Sidney Rigdon",
+    "Sidney"
+  ],
+  "sources": [
+    {
+      "title": "Sidney Rigdon, Joseph Smith Papers biography",
+      "url": "https://www.josephsmithpapers.org/person/sidney-rigdon"
+    },
+    {
+      "title": "Sidney Rigdon, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sidney_Rigdon"
+    }
+  ],
+  "reviewNote": "Birth, baptism, presidency and jail checked on JSP; JSP gives no death date, so 14 July 1876 at Friendship, New York, and excommunication on 8 Sept. 1844 come from Wikipedia. Every bare “Sidney” in the text (35, 49, 100, 112, 115, 124) refers to Rigdon, but “Sidney Gilbert” also occurs, so the linker must prefer the longer name."
+}

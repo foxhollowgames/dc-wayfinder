@@ -1,0 +1,38 @@
+{
+  "section": 74,
+  "title": "Little children are holy through Christ, not through the law",
+  "dateLabel": "1830",
+  "month": "1830-12",
+  "receivedAt": "wayne-county",
+  "setting": "John Whitmer copied this explanation of scripture into Revelation Book 1 and dated it only 1830. He gave the place as Wayne County, New York, so it predates Joseph Smith’s move to Ohio in January 1831. Later histories wrongly placed it in January 1832. It explains 1 Corinthians 7:14, a verse often used to support infant baptism. The official heading ties it to questions about baptism, but the exact occasion is not recorded.",
+  "summary": "The explanation opens by quoting Paul: an unbelieving spouse is sanctified by the believing one. It says that in the apostles’ day unbelieving Jews still kept the law of circumcision. Contention arose when unbelieving husbands wanted their children circumcised under the law of Moses. Those children followed their fathers’ traditions and did not believe the gospel. So Paul wrote, on his own authority, that believers should not marry unbelievers. His aim was to end the tradition that little children are unholy. It concludes that little children are holy, sanctified through the atonement of Jesus Christ.",
+  "contextNote": {
+    "title": "Why Paul’s counsel was about children",
+    "text": "Some readers used Paul’s words about unbelieving spouses to argue that infants need baptism. This text reads the passage against a dispute over circumcision instead. Verse 3 names the problem: unbelieving fathers wanted their children placed under the law of Moses. Verse 4 gives the result: those children grew up rejecting the gospel. Verse 6 states Paul’s aim, to end the idea that little children are unholy. Verse 7 then answers that children are “sanctified through the atonement of Jesus Christ” and so are holy. In this passage, “holy” describes children’s standing before God apart from any rite."
+  },
+  "studyVerse": 7,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 71–75 includes this explanation of a passage from Paul. How does verse 7 compare with Moroni 8 in the Book of Mormon on the state of little children?",
+  "placeIds": [
+    "wayne-county"
+  ],
+  "personIds": [
+    "joseph-smith"
+  ],
+  "newPlaces": [
+    {
+      "id": "wayne-county",
+      "name": "Wayne County, New York",
+      "why": "place John Whitmer recorded for this 1830 explanation; no more precise location is known"
+    }
+  ],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/74?lang=eng",
+    "jsp": {
+      "title": "Explanation of Scripture, 1830 [D&C 74]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/explanation-of-scripture-1830-dc-74",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 7 verses. Official heading gives Wayne County, New York, 1830, and links it to questions about baptism and 1 Corinthians 7:14. JSP (introduction read on the Church Historian’s Press mirror; JSP page loaded for the title): dated only 1830, could be as early as January 1830, must predate the late January 1831 move to Ohio; later histories misdated it to January 1832. Month 1830-12 is a placeholder within 1830, near where Whitmer filed it; the true month is unknown. Wayne County added as a new place. Fact-check 2026-10-12: no changes."
+}

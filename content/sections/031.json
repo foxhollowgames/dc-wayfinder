@@ -1,0 +1,36 @@
+{
+  "section": 31,
+  "title": "Thomas Marsh is sent to preach while God cares for his family",
+  "dateLabel": "September 1830",
+  "month": "1830-09",
+  "receivedAt": "fayette",
+  "setting": "Joseph Smith dictated this revelation for Thomas B. Marsh in September 1830. Joseph’s history ties it to the church conference at Fayette, New York, that began on 26 September. Marsh had first learned of the Book of Mormon in 1829, while it was being printed in Palmyra. He moved his family from Massachusetts to Palmyra in September 1830. Shortly before the conference, David Whitmer baptized him and Oliver Cowdery ordained him an elder.",
+  "summary": "The revelation blesses Thomas Marsh for his faith in the work. It recognizes his afflictions because of his family and promises they will one day believe and join him. It says the hour of his mission has come and his tongue will be loosed. He is to preach what was revealed to Joseph Smith and reap in a field “white already to be burned.” It says his sins are forgiven and his family shall live. He is to leave them only a little while, and the Lord will prepare a place for them. He will establish a church and be a physician to the church, but not to the world. He is told to be patient, govern his house in meekness, pray always, and be faithful to the end.",
+  "contextNote": {
+    "title": "Leaving family for only a little time",
+    "text": "Marsh had just moved his wife and children to Palmyra when this call came. Verse 2 recognizes afflictions he has had “because of your family”. It also promises they will one day “be one with you” in the church. Verse 6 then sets the terms of his mission: he is to go “only for a little time”. The Lord adds, “I will prepare a place for them”. Verse 5 ties his labor to their welfare: “your family shall live”. In this passage the call limits his absence and promises his family’s care."
+  },
+  "studyVerse": 6,
+  "ldsText": "The Come, Follow Me 2025 lesson “Lift Up Your Voices … to Declare My Gospel” includes this call to Thomas B. Marsh. Verse 9 says “revile not against those that revile” and “govern your house in meekness”; what would that look like at home this week?",
+  "placeIds": [
+    "fayette",
+    "palmyra"
+  ],
+  "personIds": [
+    "thomas-b-marsh",
+    "joseph-smith",
+    "david-whitmer",
+    "oliver-cowdery"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/31?lang=eng",
+    "jsp": {
+      "title": "Revelation, September 1830–F [D&C 31]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-september-1830-f-dc-31",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 13 verses. Official heading gives September 1830, to Thomas B. Marsh, right after the conference, but names no place. JSP historical introduction says Joseph’s history places it at the 26 September conference, so receivedAt is Fayette; this is an inference. JSP also supplied Marsh’s 1829 Palmyra visit, move from Charlestown, Massachusetts, and baptism by David Whitmer. Fact-check 2026-10-12: summary now quotes verse 4’s field “white already to be burned” instead of a harvest-ready field."
+}

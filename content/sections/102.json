@@ -1,0 +1,77 @@
+{
+  "section": 102,
+  "title": "A standing council gives the accused a fair hearing",
+  "dateLabel": "17–19 February 1834",
+  "month": "1834-02",
+  "receivedAt": "kirtland",
+  "setting": "On 17 February 1834, twenty-four high priests met at Joseph Smith’s house in Kirtland, Ohio. They organized a standing high council to settle serious disputes the Church or a bishop’s council could not resolve. Clerk Orson Hyde noted that some errors were likely made, and the meeting asked Joseph to correct them. Joseph revised the minutes the next day. On 19 February the council accepted them unanimously as its form and constitution. Verses 30–32, about the Twelve Apostles, were added in 1835.",
+  "summary": "These are minutes, not a revelation in the Lord’s voice. They record the organizing of a high council of twelve high priests, with one or three presidents. Joseph Smith, Sidney Rigdon, and Frederick Williams are acknowledged as presidents. Twelve councilors are chosen, including Joseph Smith’s father, Martin Harris, and Oliver Cowdery. The minutes set a quorum of seven, a way to fill vacancies, and an order for speaking by drawn numbers. Half the council stands for the accused, and the president decides with the council’s vote or a rehearing. Traveling high priests may form councils abroad, with appeal to the high council at the First Presidency’s seat.",
+  "contextNote": {
+    "title": "Half the council for the accused",
+    "text": "The new council needed a way to judge disputes without bias. Verse 15 gives the accused a right to one-half of the council. The stated purpose is to prevent insult or injustice. Verse 17 makes this concrete: councilors drawing even numbers speak for the accused. Verse 18 then lets both accuser and accused speak for themselves. In these minutes, fairness is built into the seating and speaking order, not left to goodwill."
+  },
+  "studyVerse": 15,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 102–105 uses verses 12–23 to ask what membership councils are for. How do verses 15–22 protect both the accused and the truth of the case?",
+  "placeIds": [
+    "kirtland"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "frederick-g-williams",
+    "joseph-smith-sr",
+    "john-smith",
+    "joseph-coe",
+    "john-johnson",
+    "martin-harris",
+    "john-s-carter",
+    "jared-carter",
+    "oliver-cowdery",
+    "samuel-smith",
+    "orson-hyde",
+    "sylvester-smith",
+    "luke-johnson"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "john-smith",
+      "name": "John Smith (1781–1854)",
+      "why": "Named in vv. 3 and 34 as a high councilor; brother of Joseph Smith Sr. and uncle of Joseph Smith Jr."
+    },
+    {
+      "id": "joseph-coe",
+      "name": "Joseph Coe",
+      "why": "Named in vv. 3 and 34 as a member of the first Kirtland high council."
+    },
+    {
+      "id": "john-s-carter",
+      "name": "John S. Carter",
+      "why": "Named in vv. 3 and 34 as a member of the first Kirtland high council."
+    },
+    {
+      "id": "jared-carter",
+      "name": "Jared Carter",
+      "why": "Named in vv. 3 and 34 as a member of the first Kirtland high council."
+    },
+    {
+      "id": "sylvester-smith",
+      "name": "Sylvester Smith",
+      "why": "Named in vv. 3 and 34 as a member of the first Kirtland high council."
+    },
+    {
+      "id": "luke-johnson",
+      "name": "Luke Johnson",
+      "why": "Named in vv. 3 and 34 as a high councilor; son of John Johnson, later one of the Twelve."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/102?lang=eng",
+    "jsp": {
+      "title": "Revised Minutes, 18–19 February 1834 [D&C 102]",
+      "url": "https://www.josephsmithpapers.org/paper-summary/revised-minutes-18-19-february-1834-dc-102/1",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 34 verses. Official heading gives Kirtland, 17 February 1834, revision on the 18th and acceptance on the 19th, recorded by Oliver Cowdery and Orson Hyde, with vv. 30–32 added in 1835. JSP historical introduction read for Hyde’s note about errors, the 62 people present on 19 February, and later high councils. Month set to the meeting month. Six councilors added as newPeople; the id john-smith is for the uncle (1781–1854), not later Church patriarchs of that name. Fact-check 2026-10-12: ldsText claimed the CFM lesson teaches ‘justice and mercy’ from these minutes; the lesson’s heading asks the purpose of membership councils (vv. 12–23). Now states that."
+}

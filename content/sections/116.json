@@ -1,0 +1,32 @@
+{
+  "section": 116,
+  "title": "A Missouri hill is named as the place Adam will return",
+  "dateLabel": "19 May 1838",
+  "month": "1838-05",
+  "receivedAt": "adam-ondi-ahman",
+  "setting": "In mid-May 1838, Joseph Smith, Sidney Rigdon, and others traveled north from Far West into Daviess County, Missouri. On 19 May they went from their camp to Lyman Wight’s ferry on the Grand River to choose land for a new city. Wight had settled near a rise called Spring Hill and urged others to settle there. Joseph’s journal, kept by George W. Robinson, records the new name for the site. The official heading gives the date more loosely as May or June 1838.",
+  "summary": "This section is one sentence from Joseph Smith’s journal, not a full revelation. It reports that the Lord named Spring Hill “Adam-ondi-Ahman”. It then gives the reason for the name. The place is where Adam “shall come to visit his people”. It links the site to the Ancient of Days in the prophet Daniel’s vision.",
+  "contextNote": {
+    "title": "Why a frontier hill got an ancient name",
+    "text": "The Saints needed new places to settle as Far West filled up. Verse 1 explains why this particular hill received a new name. The reason looks ahead: Adam “shall come to visit his people” there. The verse ties that visit to Daniel’s scene of the Ancient of Days sitting in judgment. An earlier revelation, section 107, places a past gathering of Adam’s descendants at Adam-ondi-Ahman. Here the name marks the new settlement as the site of a future meeting as well."
+  },
+  "studyVerse": 1,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 115–120 includes this short entry about Adam-ondi-Ahman. What does verse 1 suggest about why Adam would “visit his people” there, and how does Daniel 7:9–14 help explain it?",
+  "placeIds": [
+    "adam-ondi-ahman",
+    "far-west"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "adam",
+    "sidney-rigdon",
+    "lyman-wight"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/116?lang=eng",
+    "jsp": null
+  },
+  "reviewNote": "Read the single verse. Official heading gives Spring Hill near Wight's Ferry, Daviess County, May or June 1838. There is no separate JSP revelation document; the text is the 19 May 1838 entry in Joseph Smith's journal, Journal, March–September 1838 (Scriptory Book), in the hand of George W. Robinson and James Mulholland. That source and its context (camp at Wight's home, choosing land for a city plat) came from the Church Historian's Press revelations page for D&C 116. Two attempts to load the matching JSP journal page did not reach the entry, so jsp is null. dateLabel uses the journal date; the 19 May date and journal scribe should be verified. Fact-check 2026-10-12: setting no longer says the party left Far West on 19 May; per the journal they were already camped at Wight’s place and went to the ferry site that day. jsp left null; the JSP journal page could not be confirmed to show the entry."
+}

@@ -1,0 +1,36 @@
+{
+  "section": 26,
+  "title": "Church decisions are to be made by common consent",
+  "dateLabel": "July 1830",
+  "month": "1830-07",
+  "receivedAt": "harmony",
+  "setting": "This short revelation came at Harmony, Pennsylvania, in July 1830. It was addressed to Joseph Smith, Oliver Cowdery, and John Whitmer. It came shortly after section 24, which told Joseph to tend his fields and then visit the branches. Joseph’s church work had left him little time for his farm. The Joseph Smith Papers editors supply the month, and no exact day is recorded.",
+  "summary": "The revelation tells the three men how to spend their time until the next conference. They are to study the scriptures and preach. They are to confirm the church at Colesville. They are also to do the work needed on the land. After they go west to hold the conference, further direction will be given. Verse 2 then states a general rule: all things in the church are to be done by common consent, with much prayer and faith.",
+  "contextNote": {
+    "title": "Agreement as the church’s working rule",
+    "text": "The church was only months old, and its ways of making decisions were still taking shape. Verse 2 supplies one: “all things shall be done by common consent”. The verse ties that consent to “much prayer and faith,” not to a bare vote. Verse 1 shows the same patience on a small scale. Even the men’s next assignments will be “made known” only after the coming conference. In this passage common consent means members agreeing together, in faith, to what the church does."
+  },
+  "studyVerse": 2,
+  "ldsText": "The Come, Follow Me 2025 lesson “Seek for the Things of a Better World” includes this revelation’s rule of common consent. Verse 2 joins consent to “much prayer and faith”; how might prayer change the way you sustain a decision in your ward or branch?",
+  "placeIds": [
+    "harmony",
+    "colesville",
+    "fayette"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "oliver-cowdery",
+    "john-whitmer"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/26?lang=eng",
+    "jsp": {
+      "title": "Revelation, July 1830–B [D&C 26]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-july-1830-b-dc-26",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read both verses. Official heading gives Harmony, July 1830, to Joseph Smith, Oliver Cowdery, and John Whitmer. JSP historical introduction read: editors bracket the month and place it shortly after the mid-July revelation (D&C 24). The conference “to the west” is taken to be the late-September 1830 conference at Fayette, so fayette is included in placeIds. Fact-check 2026-10-12: contextNote no longer claims the church had no settled way to approve decisions (section 20 and the April 1830 vote already used member votes)."
+}

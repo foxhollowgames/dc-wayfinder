@@ -1,0 +1,47 @@
+{
+  "section": 61,
+  "title": "Danger on the river brings both a promise and a new route",
+  "dateLabel": "12 August 1831",
+  "month": "1831-08",
+  "receivedAt": "mcilwaines-bend",
+  "setting": "Joseph Smith and about ten elders left Independence by canoe on the Missouri River in August 1831. On the third day they met dangers on the river and camped at McIlwaine’s Bend. Joseph Smith’s history says William W. Phelps saw the destroyer riding on the waters in vision. JSP editors note that this detail likely came from Phelps himself. Joseph Smith dictated this revelation on the riverbank on 12 August 1831.",
+  "summary": "The revelation forgives the assembled elders who confess their sins with humble hearts. It says the whole company need not speed down the river while people on either side perish in unbelief. It says the Lord has decreed many destructions on these waters, but the faithful will not perish. Sidney Gilbert and William Phelps are to hurry ahead on their mission. It says the Lord blessed the waters in the beginning and cursed them in the last days through John. Joseph Smith, Sidney Rigdon, and Oliver Cowdery are to travel only by canal, and Saints bound for Zion are to go by land. The three are not to preach to the wicked until they reach Cincinnati. Reynolds Cahoon and Samuel Smith are to stay together, and the revelation closes with “be of good cheer” and a call to watch and pray.",
+  "contextNote": {
+    "title": "Faith and caution on the water",
+    "text": "The elders had just met real danger on the Missouri River. Verse 5 says the Lord has decreed many destructions upon these waters. Verse 6 answers the fear that follows: “all flesh is in mine hand.” The faithful among them, it says, will not perish by the waters. Yet verses 23–24 still set a safer route, by canal and then by land. In this passage, the promise of verse 6 stands beside practical caution about how to travel."
+  },
+  "studyVerse": 6,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 60–63 stresses the Lord’s presence with His servants. Verse 36 says “be of good cheer” right after warnings of danger; how do verses 6 and 36–37 together describe that presence?",
+  "placeIds": [
+    "mcilwaines-bend",
+    "independence",
+    "cincinnati",
+    "kirtland"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "oliver-cowdery",
+    "sidney-gilbert",
+    "william-w-phelps",
+    "reynolds-cahoon",
+    "samuel-smith"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "reynolds-cahoon",
+      "name": "Reynolds Cahoon",
+      "why": "named in v. 35; elder from Ohio traveling home from Missouri with Samuel H. Smith"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/61?lang=eng",
+    "jsp": {
+      "title": "Revelation, 12 August 1831 [D&C 61]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-12-august-1831-dc-61",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 39 verses. Official heading gives the Missouri River bank at McIlwaine’s Bend, 12 August 1831, the third day of the canoe trip, and Phelps’s vision. The JSP page loaded but its historical introduction body did not come through; facts were taken from its footnotes (location about 40 miles above Chariton, travelers named, Phelps as likely source of the vision detail). Fact-check 2026-10-12: summary attributes the decree and the cursing of the waters to the revelation (historical voice) and adds the Cincinnati instruction of verses 30–31."
+}

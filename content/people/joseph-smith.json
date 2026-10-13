@@ -1,0 +1,31 @@
+{
+ "id": "joseph-smith",
+ "name": "Joseph Smith Jr.",
+ "role": "Prophet and founding leader of the Church",
+ "life": "1805–1844",
+ "dateNote": "He reported the angel’s visit of September 1823, organized the Church on 6 April 1830, and was killed at Carthage on 27 June 1844.",
+ "locations": [
+  "palmyra",
+  "harmony",
+  "kirtland",
+  "nauvoo",
+  "carthage"
+ ],
+ "importance": "Nearly every revelation in the Doctrine and Covenants came through him, from Harmony and Fayette to Kirtland, Missouri, and Nauvoo. He dictated revelations, organized the Church in 1830, and led its moves west. He wrote sections 121–123 as letters from Liberty Jail. Section 135 reports his death with his brother Hyrum at Carthage Jail.",
+ "connections": "He was the son of Joseph Smith Sr. and Lucy Mack Smith and married Emma Hale in 1827. Hyrum Smith, Oliver Cowdery, and Sidney Rigdon worked most closely with him in these sections.",
+ "linkNames": [
+  "Joseph Smith, Jun.",
+  "Joseph Smith"
+ ],
+ "sources": [
+  {
+   "title": "Joseph Smith Jr., Church History Topics",
+   "url": "https://www.churchofjesuschrist.org/study/history/topics/joseph-smith-jr?lang=eng"
+  },
+  {
+   "title": "Joseph Smith, Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Joseph_Smith"
+  }
+ ],
+ "reviewNote": "Exact dates (23 Dec. 1805, Sharon, Vermont; 27 June 1844, Carthage) from Wikipedia; Church History Topics confirms 1805, 1830 organization, Liberty Jail, and Carthage. JSP person page loaded but holds no biography text. linkNames: the plain form “Joseph Smith” also begins “Joseph Smith, Sen.” (90, 102, 124), so a linker must prefer the longer Joseph Smith Sr. form. Bare “Joseph” left out as ambiguous."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "john-smith",
+  "name": "John Smith (1781–1854)",
+  "role": "Uncle of Joseph Smith, high councilor, and later patriarch",
+  "life": "1781–1854",
+  "dateNote": "He was named to the first Kirtland high council in February 1834.",
+  "locations": [
+    "kirtland",
+    "nauvoo",
+    "salt-lake-city"
+  ],
+  "importance": "Section 102 lists him among the twelve high priests chosen as the first standing high council at Kirtland. From 1837 to 1844 he was an assistant counselor in the First Presidency. He later presided over the stake in Lee County, Iowa, and the first Salt Lake Stake. He became Presiding Patriarch in 1849.",
+  "connections": "Brother of Joseph Smith Sr. and uncle of Joseph and Hyrum Smith. Father of the apostle George A. Smith.",
+  "linkNames": [
+    "John Smith"
+  ],
+  "sources": [
+    {
+      "title": "John Smith (uncle of Joseph Smith), Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Smith_(uncle_of_Joseph_Smith)"
+    },
+    {
+      "title": "George A. Smith, Joseph Smith Papers",
+      "url": "https://www.josephsmithpapers.org/person/george-albert-smith"
+    }
+  ],
+  "reviewNote": "Dates (16 July 1781 – 23 May 1854), offices, and son George A. Smith from Wikipedia; JSP page for George A. Smith confirms his father was John Smith. JSP person page for this John Smith did not load. “John Smith” occurs in the D&C only in 102:3 and 102:34."
+}

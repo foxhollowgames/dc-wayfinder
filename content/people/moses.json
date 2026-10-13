@@ -1,0 +1,30 @@
+{
+  "id": "moses",
+  "name": "Moses",
+  "role": "Ancient prophet and lawgiver of Israel",
+  "life": "Dates not known",
+  "dateNote": "Section 110 reports his appearance in the Kirtland temple on 3 April 1836.",
+  "locations": [
+    "kirtland"
+  ],
+  "importance": "The D&C refers to Moses many times as a model prophet; section 28 says Joseph Smith receives revelation “even as Moses.” Section 8 links Oliver Cowdery’s gift to the spirit by which Moses led Israel through the Red Sea. Section 84 says Israel would not endure God’s presence, so Moses and the higher priesthood were taken. Section 110 says Moses appeared in the Kirtland temple and committed the keys of the gathering of Israel.",
+  "connections": "He is named with Jethro and Aaron in section 84, and with Elias and Elijah in section 110. Section 138 lists him among the righteous spirits.",
+  "linkNames": [
+    "Moses"
+  ],
+  "sources": [
+    {
+      "title": "Doctrine and Covenants 110",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=eng"
+    },
+    {
+      "title": "Doctrine and Covenants 84",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/84?lang=eng"
+    },
+    {
+      "title": "Doctrine and Covenants 138",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng"
+    }
+  ],
+  "reviewNote": "Checked D&C 84:6, 19–26, 110:11 and 138:41 on the official pages, and sections 8 and 28 in the local text. Described only as the revelations present him."
+}

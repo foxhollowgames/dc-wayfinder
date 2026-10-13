@@ -1,0 +1,43 @@
+{
+  "section": 54,
+  "title": "A broken covenant sends the Colesville Saints on to Missouri",
+  "dateLabel": "10 June 1831",
+  "month": "1831-06",
+  "receivedAt": "kirtland",
+  "setting": "This revelation came at Kirtland, Ohio, on 10 June 1831. The Colesville members had settled on Leman Copley’s farm in Thompson, Ohio. After the failed Shaker mission, Copley went back on the arrangement and ordered them off his land. The group was also divided over consecration, and some showed selfishness. Newel Knight, who presided over them, went to Kirtland to ask Joseph Smith what to do.",
+  "summary": "The revelation speaks to Newel Knight and tells him to stand fast in his office. If his people want to escape their enemies, they must repent and become humble. It says the covenant they made has been broken and is now void. It pronounces woe on the one by whom the offense came. Those who kept the covenant will obtain mercy. The group is told to flee, choose a leader, and travel west to Missouri. There they are to earn a living until a place is prepared. It ends by urging patience in tribulation and promising rest.",
+  "contextNote": {
+    "title": "When a covenant fails",
+    "text": "The Colesville members had planned to live by consecration on Copley’s land. Verse 4 states the result of the broken agreement: the covenant is “void and of none effect”. Verse 5 places the blame on the one “by whom this offense cometh”. Verse 6 still promises mercy to those who kept the covenant. Verse 7 then turns from blame to action: leave the land and go. In this passage, a void covenant ends the arrangement but not the promise to the faithful."
+  },
+  "studyVerse": 4,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 51–57 includes this counsel to the Colesville Saints. What does verse 10 ask of them during their move, and what does it promise?",
+  "placeIds": [
+    "kirtland",
+    "thompson",
+    "colesville",
+    "independence"
+  ],
+  "personIds": [
+    "newel-knight",
+    "leman-copley",
+    "joseph-smith"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "newel-knight",
+      "name": "Newel Knight",
+      "why": "addressed in 54:2; presiding elder of the Colesville Saints at Thompson"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/54?lang=eng",
+    "jsp": {
+      "title": "Revelation, 10 June 1831 [D&C 54]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-10-june-1831-dc-54",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 10 verses. Official heading gives Kirtland, 10 June 1831, to Newel Knight, with Copley’s broken covenant. JSP adds the eviction, the sixty-dollar payment Joseph Knight Jr. recalled, and Kitchell’s 1856 account. Leman Copley is not named in the text but is the subject of v. 5 per the heading. Independence stands for the Missouri destination of v. 8. Fact-check 2026-10-12: no changes."
+}

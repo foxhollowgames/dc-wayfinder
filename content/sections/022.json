@@ -1,0 +1,33 @@
+{
+  "section": 22,
+  "title": "Earlier baptisms cannot replace the new covenant",
+  "dateLabel": "16 April 1830",
+  "month": "1830-04",
+  "receivedAt": "manchester",
+  "setting": "Ten days after the Church was organized, some believers wanted to join without being baptized again. Orson Pratt later described them as moral Baptists who accepted the Book of Mormon. Joseph Smith asked the Lord and dictated this revelation on 16 April 1830. The official heading places it at Manchester, New York, while the Joseph Smith Papers place it in Fayette Township. Early copyists often attached it to the Articles and Covenants as part of the baptism rules.",
+  "summary": "The revelation says all old covenants have been done away in this thing. It calls baptism into the Church a new and everlasting covenant that was from the beginning. It says a person baptized a hundred times gains nothing by it. No one can enter the strait gate by the law of Moses or by dead works. It says these dead works are why the Lord has built up this last covenant and church. It ends by telling them to enter at the gate as commanded and not to counsel God.",
+  "contextNote": {
+    "title": "Why a sincere baptism was not enough",
+    "text": "These believers had already been baptized and saw no need to repeat it. Verse 2 answers that even a hundred baptisms avail “nothing” if they are dead works. Verse 3 explains the word: dead works are the reason a new covenant and church were needed. Verse 1 says the covenant is new, yet it was “from the beginning” as well. So the issue was not the person’s sincerity but the covenant and authority behind the act. In this passage, “dead works” means rituals done outside the covenant God has just restored."
+  },
+  "studyVerse": 2,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 20–22, “The Rise of the Church of Christ,” teaches that baptism is a covenant requiring proper authority. Verse 4 says “seek not to counsel your God”; how were the believers in verse 2 trying to counsel God?",
+  "placeIds": [
+    "manchester",
+    "fayette"
+  ],
+  "personIds": [
+    "joseph-smith"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/22?lang=eng",
+    "jsp": {
+      "title": "Revelation, 16 April 1830 [D&C 22]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-16-april-1830-dc-22",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 4 verses. Official heading gives Manchester, 16 April 1830, to the Church, about joining without rebaptism. JSP historical introduction read: date from a McLellin manuscript; source note places it in Fayette Township; Orson Pratt’s 1873 description of the inquirers as Baptists. receivedAt follows the official heading; the place conflict is unresolved. Orson Pratt is cited as a later source, not a participant, so not in personIds. Fact-check 2026-10-12: no changes"
+}

@@ -1,0 +1,50 @@
+{
+  "section": 30,
+  "title": "David Whitmer is rebuked while Peter and John are sent to preach",
+  "dateLabel": "September 1830",
+  "month": "1830-09",
+  "receivedAt": "fayette",
+  "setting": "These three revelations came at Fayette, New York, in late September 1830. They followed the church’s second conference, which began on 26 September, before the elders dispersed. Each was addressed to one Whitmer brother: David, Peter Jr., and John. The conference had named David church record keeper, though his revelation does not mention it. The 1835 Doctrine and Covenants first combined the three texts into one section.",
+  "summary": "The revelation first rebukes David Whitmer for fearing man and thinking on earthly things. It says he has been persuaded by people the Lord did not command. He is to stay at his father’s house, ponder, and serve in the church nearby. Peter Whitmer Jr. is told to go with Oliver Cowdery on the mission to the Lamanites. He is to heed Oliver and pray for him in his afflictions. Only Joseph Smith is named as Oliver’s counselor in church matters. John Whitmer is told to begin preaching at once. His labor is to be at Philip Burroughs’ home and the region around it.",
+  "contextNote": {
+    "title": "What went wrong with David",
+    "text": "Verse 1 names David’s first problem: he feared man and did not rely on the Lord. Verse 2 shows where his attention went instead, to “the things of the earth”. He had not heeded the Spirit or “those who were set over” him. He had been persuaded by people the Lord had not commanded. The Joseph Smith Papers editors say it is unclear whether this refers to his support of Hiram Page. Verse 3 states the result: he is “left to inquire” for himself. In this passage being persuaded means following voices outside the church’s order."
+  },
+  "studyVerse": 2,
+  "ldsText": "The Come, Follow Me 2025 lesson “Lift Up Your Voices … to Declare My Gospel” covers these calls to the Whitmer brothers. Verse 1 rebukes fear of man, and verse 11 promises “I am with you”; where could that promise help you speak up about your faith?",
+  "placeIds": [
+    "fayette",
+    "seneca-falls",
+    "indian-lands"
+  ],
+  "personIds": [
+    "david-whitmer",
+    "peter-whitmer-jr",
+    "john-whitmer",
+    "oliver-cowdery",
+    "joseph-smith"
+  ],
+  "newPlaces": [
+    {
+      "id": "seneca-falls",
+      "name": "Seneca Falls",
+      "why": "v. 10 sends John Whitmer to Philip Burroughs’ home; JSP places Burroughs at Seneca Falls, Seneca County, New York, a few miles northeast of the Whitmer farm."
+    }
+  ],
+  "newPeople": [
+    {
+      "id": "philip-burroughs",
+      "name": "Philip Burroughs",
+      "why": "named in v. 10; a Seneca County, New York, farmer (1794–1865) whose home hosted early preaching; his wife appears to have joined the church."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/30?lang=eng",
+    "jsp": {
+      "title": "Revelation, September 1830–C [D&C 30:1–4]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-september-1830-c-dc-301-4",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 11 verses. Official heading gives Fayette, September 1830, after the three-day conference, three revelations combined in 1835. Section has three JSP documents; the schema allows one, so 30:1–4 is cited. Also read Revelation, September 1830–D [D&C 30:5–8] (https://www.josephsmithpapers.org/paperSummary/revelation-september-1830-d-dc-305-8) and –E [D&C 30:9–11] (https://www.josephsmithpapers.org/paperSummary/revelation-september-1830-e-dc-309-11), which supplied the Burroughs and Seneca Falls details. Fact-check 2026-10-12: no changes"
+}

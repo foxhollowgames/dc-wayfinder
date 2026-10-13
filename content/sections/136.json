@@ -1,0 +1,53 @@
+{
+  "section": 136,
+  "title": "The westward camp must move as a covenant people",
+  "dateLabel": "14 January 1847",
+  "month": "1847-01",
+  "receivedAt": "winter-quarters",
+  "setting": "The Saints had left Nauvoo in 1846 and wintered on the Missouri River. Brigham Young gave this revelation at Winter Quarters on 14 January 1847. The camp was near Council Bluffs, on Omaha land, and planning the spring trek west. The revelation set out how the companies would be organized and prepared.",
+  "summary": "The revelation calls itself “the Word and Will of the Lord” for the camp traveling west. It orders the people into companies with captains of hundreds, fifties, and tens, under the Twelve Apostles. Each company covenants to keep the commandments, gathers supplies, and cares for the poor and widows. Pioneers are to go ahead and plant crops for those who follow. It names Ezra T. Benson, Erastus Snow, Orson Pratt, Wilford Woodruff, Amasa Lyman, and George A. Smith to organize companies. Then it gives rules for daily conduct: keep pledges, stop quarreling, return what is borrowed, and praise the Lord. It says the people must be tried, and calls Joseph Smith’s death needed to seal his testimony.",
+  "contextNote": {
+    "title": "Hardship as preparation for glory",
+    "text": "The camp had been driven out, and many wondered why. Verse 31 gives an answer: “My people must be tried in all things”. The purpose is stated in the same verse, to prepare them for “the glory of Zion”. Verse 37 adds that they are “not yet pure” and cannot yet bear that glory. That is why the practical rules in verses 20–27 matter: honesty and peace are part of the preparation. In this passage, being tried means a testing that shapes a people for what is promised."
+  },
+  "studyVerse": 31,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 135–136 treats this revelation as counsel for the Saints’ journey and for personal trials. Which of the rules in verses 20–29 would most help the people you travel through life with?",
+  "placeIds": [
+    "winter-quarters",
+    "nauvoo"
+  ],
+  "personIds": [
+    "brigham-young",
+    "orson-pratt",
+    "wilford-woodruff",
+    "joseph-smith"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "ezra-t-benson",
+      "name": "Ezra T. Benson",
+      "why": "named in v. 12; apostle (ordained 1846) assigned to organize a company; great-grandfather of the later Church president"
+    },
+    {
+      "id": "erastus-snow",
+      "name": "Erastus Snow",
+      "why": "named in v. 12; assigned with Ezra T. Benson to organize a company; later an apostle"
+    },
+    {
+      "id": "amasa-lyman",
+      "name": "Amasa Lyman",
+      "why": "named in v. 14; apostle assigned to organize a company"
+    },
+    {
+      "id": "george-a-smith",
+      "name": "George A. Smith",
+      "why": "named in v. 14; apostle and cousin of Joseph Smith, assigned to organize a company"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/136?lang=eng",
+    "jsp": null
+  },
+  "reviewNote": "Read all 42 verses. Official heading gives Winter Quarters, 14 January 1847, through Brigham Young, near Council Bluffs in the Omaha Nation. No JSP document (after Joseph Smith's death). Verse 8 'families of those who have gone into the army' refers to the Mormon Battalion; not named in the summary to stay with the text. Nauvoo included because the setting requires the departure from it."
+}

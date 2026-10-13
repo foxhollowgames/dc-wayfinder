@@ -1,0 +1,43 @@
+{
+  "section": 41,
+  "title": "Disciples are those who receive the law and do it",
+  "dateLabel": "4 February 1831",
+  "month": "1831-02",
+  "receivedAt": "kirtland",
+  "setting": "Joseph Smith arrived in Kirtland, Ohio, from New York on 4 February 1831 and dictated this revelation that day. Leman Copley, a recent convert, had offered Joseph and Sidney Rigdon houses and provisions on his farm in Thompson. John Whitmer’s heading links the revelation to that offer, though later histories tie it to excesses among new converts. The revelation also named Edward Partridge bishop, the first known use of that title in the Church.",
+  "summary": "The revelation addresses the elders as people the Lord delights to bless. It commands them to assemble and agree on his word. By the prayer of faith they will receive his law to govern the Church. Whoever receives the law and does it is a disciple; whoever claims it but does not is not. It says Joseph should have a house built in which to live and translate. Sidney Rigdon may live as he thinks best while he keeps the commandments. Edward Partridge is to be appointed by the Church’s voice and ordained a bishop. He is to leave his business, for his heart is pure like Nathanael’s, a man without guile.",
+  "contextNote": {
+    "title": "What makes someone a disciple",
+    "text": "The Kirtland converts had gone months without settled leaders or rules. Verses 2–3 promise a law that will show “how to govern my church”. Verse 5 sets the test before the law even arrives. A disciple is one who “receiveth my law and doeth it”. Claiming the law without doing it marks a person as “not my disciple”. Verse 6 gives the reason, since holy things should not go to the unworthy. In this passage, discipleship is measured by doing, not by professing."
+  },
+  "studyVerse": 5,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 41–44 uses verses 1–6 to ask how disciples prepare to receive the Lord’s law. Verse 2 tells the elders to “agree upon my word” before the law comes; why might agreement come first?",
+  "placeIds": [
+    "kirtland",
+    "thompson"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "edward-partridge",
+    "leman-copley",
+    "nathanael"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "nathanael",
+      "name": "Nathanael",
+      "why": "Named in v. 11; the disciple Jesus called an Israelite “in whom is no guile” (John 1:47)."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/41?lang=eng",
+    "jsp": {
+      "title": "Revelation, 4 February 1831 [D&C 41]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-4-february-1831-dc-41",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 12 verses. Official heading gives Kirtland, 4 February 1831, with Leman Copley’s offer and Partridge’s call as first bishop. JSP confirms the arrival date (from the Painesville Telegraph) and notes Whitmer’s headnote linking the revelation to Copley’s offer was written months later; Joseph’s and Whitmer’s later histories link it instead to excesses among converts. Neither Joseph nor Rigdon accepted Copley’s offer. Fact-check 2026-10-12: no changes."
+}

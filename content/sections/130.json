@@ -1,0 +1,42 @@
+{
+  "section": 130,
+  "title": "Joseph teaches that God is embodied and knowledge survives death",
+  "dateLabel": "2 April 1843",
+  "month": "1843-04",
+  "receivedAt": "ramus",
+  "setting": "On Sunday, 2 April 1843, Joseph Smith was in Ramus, also called Macedonia, Illinois. He had spent the night at the home of Benjamin and Melissa Johnson. Orson Hyde preached that morning, and Joseph later corrected parts of his sermon. Some followers of William Miller expected Christ to return the next day, and Joseph addressed that interest. William Clayton recorded the teachings, which were drawn out by questions from those present. Parts of Willard Richards’s version became section 130 in 1876.",
+  "summary": "In separate teachings, Joseph says the Savior will appear as “a man like ourselves”. He says the same “sociality” will continue there, joined with eternal glory. He calls the idea that the Father and Son dwell in a person’s heart false. He says angels who minister to this earth belong or have belonged to it, and God’s dwelling is “a great Urim and Thummim”. He repeats a prophecy from 25 December 1832 that bloodshed before Christ’s coming will begin in South Carolina, probably over “the slave question”. He recalls a voice saying he would see the Son of Man if he lived to eighty-five. Knowledge gained in this life rises in the resurrection, and every blessing comes by obeying a law. The Father and Son have bodies of flesh and bones, but the Holy Ghost is a personage of Spirit.",
+  "contextNote": {
+    "title": "Blessings built on laws",
+    "text": "Verses 14–17 decline to fix a date for Christ’s coming. Verses 20–21 turn instead to how blessings come. Every blessing rests on a law “irrevocably decreed in heaven before the foundations of this world”. A person obtains a blessing by obeying the law on which it is “predicated”. Verses 18–19 apply the same logic to learning, gained “through his diligence and obedience”. Both passages tie future reward to present conduct rather than to timing. In this passage, “predicated” means each blessing is built on its own specific law."
+  },
+  "studyVerse": 21,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 129–132 uses verses 20–21 to teach that God blesses those who obey His laws. According to verses 18–19, what advantage carries into the world to come, and what does verse 19 say produces it?",
+  "placeIds": [
+    "ramus",
+    "south-carolina"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "orson-hyde",
+    "willard-richards",
+    "jesus-christ"
+  ],
+  "newPlaces": [
+    {
+      "id": "south-carolina",
+      "name": "South Carolina",
+      "why": "v. 12; named as where the conflict before the Second Coming would begin (compare section 87)"
+    }
+  ],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/130?lang=eng",
+    "jsp": {
+      "title": "Instruction, 2 April 1843, as Reported by William Clayton [D&C 130]",
+      "url": "https://www.josephsmithpapers.org/paper-summary/instruction-2-april-1843-as-reported-by-william-clayton-dc-130",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 23 verses. Official heading gives Ramus, Illinois, 2 April 1843, items of instruction. JSP historical introduction read: stay at the Benjamin F. Johnson home, Orson Hyde’s sermon corrected, Millerite expectations for 3 April, Clayton’s notes, Richards’s reconstructed journal version canonized in 1876. Verse 13 dates the South Carolina prophecy to 25 December 1832 (section 87). South Carolina added as a newPlace because the text names it; drop it if regions are out of scope."
+}

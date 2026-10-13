@@ -1,0 +1,45 @@
+{
+  "section": 63,
+  "title": "Zion must be bought, gathered slowly, and spoken of with care",
+  "dateLabel": "30 August 1831",
+  "month": "1831-08",
+  "receivedAt": "kirtland",
+  "setting": "Joseph Smith, Sidney Rigdon, and Oliver Cowdery reached Kirtland from Missouri on 27 August 1831. They found that many members had left the Church while they were away. Joseph Smith later called the land of Zion the most important temporal concern of the time. He asked the Lord about gathering the Saints and buying land. He dictated this revelation on 30 August, probably at the Isaac Morley farm. Cowdery wrote the earliest surviving copy.",
+  "summary": "The revelation opens with a warning to the wicked and rebellious. It says signs follow faith rather than create it, and it rebukes sign seekers and adulterers. The Saints are to gather to Zion, but not in haste. Zion can be gained only by purchase or by blood, and they are forbidden to shed blood. So Titus Billings is to sell the farm, and Newel K. Whitney and Oliver Cowdery are to raise money. The revelation describes the resurrection and the separation of the wicked at Christ’s coming. It rejects Sidney Rigdon’s written description of Zion and tells him to write another. It warns against using the Lord’s name without authority.",
+  "contextNote": {
+    "title": "Signs follow faith",
+    "text": "The revelation addresses people among the Saints who wanted signs. Verse 9 reverses their order: faith does not come by signs, but signs follow believers. Verse 10 adds that signs come by God’s will, not as people please. Verse 7 says sign seekers will see signs, “but not unto salvation,” as verse 11 explains. Verse 12 names the fault as seeking signs for faith rather than for the good of others. In this passage, a sign is a result of faith used to bless people, not a proof that produces belief."
+  },
+  "studyVerse": 9,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 60–63 teaches that signs follow faith. Verse 64 says sacred things must be spoken “with care, and by constraint of the Spirit” through prayer. How might that verse shape the way you share a spiritual experience?",
+  "placeIds": [
+    "kirtland",
+    "independence"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "oliver-cowdery",
+    "newel-k-whitney",
+    "titus-billings",
+    "isaac-morley",
+    "jesus-christ"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "titus-billings",
+      "name": "Titus Billings",
+      "why": "named in v. 39; caretaker of the Kirtland farm (the Morley farm) told to sell it and move to Zion"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/63?lang=eng",
+    "jsp": {
+      "title": "Revelation, 30 August 1831 [D&C 63]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-30-august-1831-dc-63",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 66 verses. Official heading gives Kirtland, 30 August 1831, after the 27 August return, and Joseph Smith’s request about the gathering and land purchase. JSP historical introduction gave the apostasy found on return, Cowdery as scribe, and the Morley farm as the probable place (inferred from “this farm” in v. 38). Whitney’s copy is dated 31 August, which JSP thinks is an error. Fact-check 2026-10-12: setting no longer calls Cowdery the scribe of dictation; JSP says his copy is likely a fair copy."
+}

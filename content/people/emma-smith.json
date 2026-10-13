@@ -1,0 +1,25 @@
+{
+  "id": "emma-smith",
+  "name": "Emma Hale Smith",
+  "role": "Wife of Joseph Smith, early scribe, and Relief Society president",
+  "life": "1804–1879",
+  "dateNote": "She was baptized at Colesville on 28 June 1830, and section 25 was given for her that July.",
+  "locations": [
+    "harmony",
+    "colesville",
+    "kirtland",
+    "nauvoo"
+  ],
+  "importance": "Emma Hale married Joseph Smith in 1827 and wrote for him during the early Book of Mormon translation. Section 25 addresses her by name, calls her an “elect lady”, and asks her to select sacred hymns. She edited the Church’s 1835 hymnal and became president of the Nauvoo Female Relief Society in 1842. Section 132 of 1843 commands her to accept plural marriage, and she rejected that document.",
+  "connections": "Daughter of Isaac and Elizabeth Hale of Harmony, Pennsylvania, and wife of Joseph Smith. After his death she married Lewis Bidamon in 1847 and joined the Reorganized Church in 1860.",
+  "linkNames": [
+    "Emma Smith"
+  ],
+  "sources": [
+    {
+      "title": "Emma Hale Smith, Joseph Smith Papers",
+      "url": "https://www.josephsmithpapers.org/person/emma-hale-smith"
+    }
+  ],
+  "reviewNote": "Dates, baptism, marriages, hymnal, and Relief Society role checked on the JSP person page (death date 30 April 1879 shown in a citation fragment). She is named in the text only in sections 25 and 132; sections 3, 89, 99, and 121 involve her only through their settings."
+}

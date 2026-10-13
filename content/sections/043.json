@@ -1,0 +1,32 @@
+{
+  "section": 43,
+  "title": "Only one man is appointed to receive revelations for the Church",
+  "dateLabel": "February 1831",
+  "month": "1831-02",
+  "receivedAt": "kirtland",
+  "setting": "In February 1831 Joseph Smith was newly settled in Kirtland, Ohio. The Ohio converts had gone months without experienced leaders. A woman remembered as Mrs. Hubble, probably Louisa Hubbell, claimed to receive commandments for the Church, and some members believed her. Joseph inquired of the Lord, and this revelation was the reply. The Joseph Smith Papers date it between 9 February and the end of the month.",
+  "summary": "The revelation tells the elders they have received a law through the one appointed to receive revelations. No one else is appointed to that gift while he abides in the Lord. If it is taken from him, his only power is to appoint another in his place. The elders are not to accept anyone else’s teachings as revelations. When assembled, they are to instruct and edify each other and sanctify themselves. They are to uphold Joseph and provide his food and clothing. Then it turns to the coming day of the Lord, when thunders, lightnings, and God’s voice call the nations to repent. It describes the Millennium, Satan bound, and the earth passing away, and ends, “Be sober”.",
+  "contextNote": {
+    "title": "One channel for commandments",
+    "text": "Members in Kirtland were hearing a woman announce new commandments, and some accepted them. Verse 3 answers that there is “none other appointed unto you” to receive commandments and revelations. Verse 5 turns that into a rule: do not receive others’ teachings as revelations. Verse 6 gives the purpose, “that you may not be deceived”. The appointment is conditional, since it lasts only “if he abide in me”. In this passage, being appointed means holding a single, recognized office for revelation to the whole Church."
+  },
+  "studyVerse": 3,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 41–44 uses verses 1–16 to teach that God guides his Church through his prophet. Verses 8–9 tell members to “instruct and edify each other”; how does that fit with verse 3’s single channel for revelation?",
+  "placeIds": [
+    "kirtland"
+  ],
+  "personIds": [
+    "joseph-smith"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/43?lang=eng",
+    "jsp": {
+      "title": "Revelation, February 1831–A [D&C 43]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-february-1831-a-dc-43",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 35 verses. Official heading gives Kirtland, February 1831, after members were troubled by false revelators. JSP identifies the woman as probably Louisa Hubbell (Laura Fuller Hubbell possible) and dates the text between 9 February and month’s end. She is not named in the text, so no person id was added. Fact-check 2026-10-12: no changes."
+}

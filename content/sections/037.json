@@ -1,0 +1,43 @@
+{
+  "section": 37,
+  "title": "The first command to gather sends the Church to Ohio",
+  "dateLabel": "About 30 December 1830",
+  "month": "1830-12",
+  "receivedAt": "canandaigua",
+  "setting": "In late December 1830 Joseph Smith and Sidney Rigdon were working on Joseph’s revision of the Bible. The Joseph Smith Papers place this revelation at Canandaigua, New York, about 30 December, soon after they arrived there. The official heading places it near Fayette in December 1830. Opposition to the Church was growing in New York, especially in Colesville. Oliver Cowdery was then leading the mission to the Lamanites, bound for western Missouri.",
+  "summary": "The revelation tells Joseph and Sidney to stop translating until they go to the Ohio. It gives two reasons: “because of the enemy” and “for your sakes”. First they must preach and strengthen the branches, especially in Colesville. It says the Colesville members pray in much faith. Then it commands the Church to assemble in the Ohio before Oliver Cowdery returns. It ends by telling every man to choose for himself.",
+  "contextNote": {
+    "title": "Gathering becomes a command with a place",
+    "text": "Earlier revelations had spoken of gathering, but none had told the Church where to move. Verse 3 names one: the Church should “assemble together at the Ohio”. Verse 1 gives the reason, “because of the enemy and for your sakes”. The Joseph Smith Papers tie this to rising opposition in New York. Verse 2 sets an order, though, since the branches must be strengthened before anyone leaves. Verse 4 then leaves the choice to each person. In this passage, to assemble means to move and settle together in one region."
+  },
+  "studyVerse": 3,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 37–40 cites this section to teach that God gathers his people to bless them. Verse 2 says the Colesville Saints “pray unto me in much faith”; why might the Lord send leaders to strengthen them before the move?",
+  "placeIds": [
+    "canandaigua",
+    "fayette",
+    "colesville",
+    "kirtland"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "oliver-cowdery"
+  ],
+  "newPlaces": [
+    {
+      "id": "canandaigua",
+      "name": "Canandaigua",
+      "why": "Seat of Ontario County, New York; the Joseph Smith Papers place D&C 37 here about 30 December 1830."
+    }
+  ],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/37?lang=eng",
+    "jsp": {
+      "title": "Revelation, 30 December 1830 [D&C 37]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-30-december-1830-dc-37",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 4 verses. Official heading: December 1830, near Fayette, to Joseph Smith and Sidney Rigdon. JSP title dates it 30 December 1830 (day and month bracketed, i.e. supplied by editors) and places it at Canandaigua. I used JSP’s Canandaigua for receivedAt; reviewer may prefer Fayette per the heading. Kirtland stands in for “the Ohio”, which the text names only as a region. Fact-check 2026-10-12: setting no longer places the Lamanite mission in Missouri on 30 December 1830 (missionaries reached Independence in January 1831); contextNote opening softened, since section 28:9 had already placed Zion on the borders by the Lamanites. Also: ldsText no longer says the lesson cites verses 3–4; it cites section 37 as a whole."
+}

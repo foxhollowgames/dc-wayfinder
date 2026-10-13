@@ -1,0 +1,40 @@
+{
+  "section": 45,
+  "title": "Signs of Christ’s coming are promises kept, not reasons for fear",
+  "dateLabel": "7 March 1831",
+  "month": "1831-03",
+  "receivedAt": "kirtland",
+  "setting": "Joseph Smith dictated this revelation at Kirtland, Ohio, around 7 March 1831. Two early copies date it 6 March instead. His later history says false newspaper reports were then circulating to discourage interest in the Church. He described the revelation as a source of joy to the Saints. It is addressed to the whole Church.",
+  "summary": "The revelation opens with the voice of the Creator calling the Church to listen. It presents Christ as an advocate pleading with the Father for those who believe. It then repeats what Jesus told his disciples about the coming fall of the Jerusalem temple. It describes wars, sickness, earthquakes, and a gospel light that many reject. The disciples are told not to be troubled, and a fig tree parable shows how to read the signs. It describes Christ’s return, the Jews seeing his wounds, and the wise who abide the day. It then tells Joseph to translate the New Testament. Finally, it calls the elders to gather west and build the New Jerusalem, a city of refuge called Zion.",
+  "contextNote": {
+    "title": "Signs given to steady, not to frighten",
+    "text": "Verses 26–33 list wars, sickness, earthquakes, and failing hearts. A list like that could easily cause alarm. Verse 34 says the disciples who first heard it “were troubled”. Verse 35 answers that fear directly: these same events show that the promises will be fulfilled. Verses 37–38 add the fig tree, whose tender leaves mean summer is near. Verse 57 then names who will “abide the day”: those who took the Holy Spirit for their guide. In this passage, a sign marks a promise coming due, not only a danger."
+  },
+  "studyVerse": 35,
+  "ldsText": "The 2025 Come, Follow Me lesson for section 45, “The Promises … Shall Be Fulfilled,” reads these signs as reasons for hope in Christ. According to verses 32 and 57, what helps disciples “stand in holy places” and avoid deception?",
+  "placeIds": [
+    "kirtland",
+    "jerusalem"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "jesus-christ"
+  ],
+  "newPlaces": [
+    {
+      "id": "jerusalem",
+      "name": "Jerusalem",
+      "why": "vv. 18–24 name the temple in Jerusalem and the city’s coming destruction"
+    }
+  ],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/45?lang=eng",
+    "jsp": {
+      "title": "Revelation, circa 7 March 1831 [D&C 45]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-circa-7-march-1831-dc-45",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 75 verses. Official heading gives Kirtland, 7 March 1831, to the Church, amid false published reports. JSP dates it circa 7 March; the Edward Partridge and William McLellin copies give 6 March. JSP notes the New Testament revision began the day after this revelation. Jerusalem added as a real place named in the text; drop it if the map should stay in North America."
+}

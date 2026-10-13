@@ -1,0 +1,38 @@
+{
+  "section": 78,
+  "title": "Equality in earthly things prepares Saints for heavenly things",
+  "dateLabel": "1 March 1832",
+  "month": "1832-03",
+  "receivedAt": "kirtland",
+  "setting": "Joseph Smith came to Kirtland, Ohio, from his home in Hiram on 1 March 1832. He met with high priests about the Church’s publishing and store businesses and dictated this revelation there. Sidney Gilbert had opened a store in Independence, partly funded by Newel K. Whitney of Kirtland. It led to the United Firm, organized in April 1832 and dissolved in 1834. Later editions replaced “firm” and the business terms with “order” and the storehouse for the poor.",
+  "summary": "The revelation tells high priests in council that the time has come to organize the storehouse for the poor in Kirtland and Zion. It states that if they are not equal in earthly things, they cannot be equal in obtaining heavenly things. It names Newel K. Whitney, Joseph Smith, and Sidney Rigdon to sit in council with the Saints in Zion. It commands them to bind themselves by an everlasting covenant, and whoever breaks it loses office and standing. It names Michael as prince, holding keys under the Holy One. It calls them little children who cannot bear all things yet. Still, it promises to lead them along. It closes by promising that the faithful and wise steward will inherit all things.",
+  "contextNote": {
+    "title": "Why stores and printing became a covenant",
+    "text": "The council needed a reason to tie stores and printing to a religious covenant. Verse 6 gives it: unequal earthly things block equality in heavenly things. Verse 5 states the goal as being “equal in the bonds” of both. Verse 3 names the means, a storehouse for the poor in Kirtland and Zion. Verse 7 adds that a place in the celestial world requires preparation now. In this passage, being “equal” is a condition of the order, built through shared resources for the poor."
+  },
+  "studyVerse": 6,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 77–80, “I Will Lead You Along,” takes its title from verse 18. According to verses 5–7, how does organizing to care for the poor prepare people for heavenly things?",
+  "placeIds": [
+    "kirtland",
+    "hiram",
+    "independence"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "newel-k-whitney",
+    "sidney-rigdon",
+    "sidney-gilbert",
+    "adam"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/78?lang=eng",
+    "jsp": {
+      "title": "Revelation, 1 March 1832 [D&C 78]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-1-march-1832-dc-78",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 22 verses. Heading gives Kirtland, 1 March 1832, the United Firm (April 1832 to 1834), and the later wording changes. JSP historical introduction (read on the paper-summary page 1 view) gives the Gilbert and Whitney stores and the November 1831 stewardship over the revelations. Adam is listed because verse 16 names Michael, whom D&C 27:11 identifies as Adam. Adam-ondi-Ahman (v. 15) is left out of placeIds because the Missouri site was not named until 1838; reviewers may want to add it. Fact-check 2026-10-12: no changes"
+}

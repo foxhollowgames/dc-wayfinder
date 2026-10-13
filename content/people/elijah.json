@@ -1,0 +1,27 @@
+{
+  "id": "elijah",
+  "name": "Elijah",
+  "role": "Old Testament prophet who restored sealing keys",
+  "life": "Dates not known",
+  "dateNote": "The D&C reports his appearance in the Kirtland temple on 3 April 1836.",
+  "locations": [
+    "kirtland"
+  ],
+  "importance": "Section 2 quotes a promise that the Lord will reveal the priesthood by Elijah’s hand before the day of the Lord. Section 27 says he holds keys to turn the hearts of fathers and children to each other. In section 110 Joseph Smith and Oliver Cowdery report that Elijah appeared and committed those keys. Section 128 ties his mission to baptism for the dead, and section 138 repeats Malachi’s promise.",
+  "connections": "The D&C sets him beside Moses and Elias in section 110 and quotes Malachi about him. The messenger in section 2 is identified as Moroni.",
+  "linkNames": [
+    "Elijah",
+    "Elijah the prophet"
+  ],
+  "sources": [
+    {
+      "title": "Doctrine and Covenants 110",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=eng"
+    },
+    {
+      "title": "Doctrine and Covenants 27",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=eng"
+    }
+  ],
+  "reviewNote": "Described only as the D&C presents him. “Elias” is treated as a separate figure and not linked here."
+}

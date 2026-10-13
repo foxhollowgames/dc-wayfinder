@@ -1,0 +1,25 @@
+{
+  "id": "george-a-smith",
+  "name": "George A. Smith",
+  "role": "Apostle, cousin of Joseph Smith, and Church historian",
+  "life": "1817–1875",
+  "dateNote": "He was ordained an apostle at Far West on 26 April 1839 and named in section 136 in January 1847.",
+  "locations": [
+    "kirtland",
+    "far-west",
+    "nauvoo",
+    "salt-lake-city"
+  ],
+  "importance": "He marched with Zion’s Camp in 1834 and became a Seventy in 1835. Section 124 lists him among the Twelve. Section 136 tells him and Amasa Lyman to organize a company for the trek west. In Utah he became Church historian and later first counselor to Brigham Young.",
+  "connections": "Son of John Smith and Clarissa Lyman, which made him Joseph Smith’s first cousin. He served with Amasa Lyman and the other apostles.",
+  "linkNames": [
+    "George A. Smith"
+  ],
+  "sources": [
+    {
+      "title": "George A. Smith, Joseph Smith Papers",
+      "url": "https://www.josephsmithpapers.org/person/george-albert-smith"
+    }
+  ],
+  "reviewNote": "Birth (26 June 1817, Potsdam, New York), parents, baptism, Zion’s Camp, ordinations, mission, historian, and First Presidency checked on JSP; death date 1 September 1875 shown in a fragment. Cousin relationship inferred from his father John Smith, brother of Joseph Smith Sr."
+}

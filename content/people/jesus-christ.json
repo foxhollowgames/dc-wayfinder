@@ -1,0 +1,25 @@
+{
+  "id": "jesus-christ",
+  "name": "Jesus Christ",
+  "role": "The Lord who speaks in most D&C revelations",
+  "life": "Dates not known",
+  "dateNote": "Section 76 reports a vision of him on 16 February 1832, and section 110 one on 3 April 1836.",
+  "locations": [
+    "hiram",
+    "kirtland"
+  ],
+  "importance": "Most D&C revelations present their speaker as Jesus Christ, and section 45 has him plead as an advocate with the Father. Section 76 reports that Joseph Smith and Sidney Rigdon saw him at the right hand of God. Section 110 reports that he appeared in the Kirtland temple and accepted the house. Section 138 describes his visit to the spirits of the dead.",
+  "connections": "He addresses Joseph Smith and many early members by name. The revelations present him as sending John the Baptist, Peter, James, John, Moses, Elias, and Elijah.",
+  "linkNames": [
+    "Jesus Christ",
+    "Jesus",
+    "Christ"
+  ],
+  "sources": [
+    {
+      "title": "Doctrine and Covenants 110",
+      "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/110?lang=eng"
+    }
+  ],
+  "reviewNote": "Checked D&C 110:1–4 on the official page and the other sections in the local text. Described only as the revelations present him. Section 19 is outside this person’s section list but is cited for his description of suffering. linkNames: “Christ” also appears in phrases such as “church of Christ”; the linker may want to limit matches."
+}

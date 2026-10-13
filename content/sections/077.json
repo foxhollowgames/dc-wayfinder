@@ -1,0 +1,47 @@
+{
+  "section": 77,
+  "title": "John’s symbols in Revelation are explained as beings and eras",
+  "dateLabel": "About March 1832",
+  "month": "1832-03",
+  "receivedAt": "hiram",
+  "setting": "Joseph Smith was revising the New Testament in early 1832 and reached the book of Revelation. He was living at Hiram, Ohio, in the home of John and Elsa Johnson. His later history says he received an explanation of John’s Revelation about the start of March. The Joseph Smith Papers date the document to between about 4 and 20 March 1832. Sidney Rigdon or Jesse Gause probably wrote it down.",
+  "summary": "The section is a list of fifteen questions and answers about Revelation chapters 4 to 11. It says the sea of glass is the earth in its sanctified, eternal state. It says the four beasts were four individual beasts shown to John, representing classes of beings in their glory. Their eyes stand for knowledge and their wings for power. The book with seven seals holds God’s works for the earth’s seven thousand years, one seal for each thousand. The angel from the east and the little book John ate are both tied to Elias, who gathers Israel and restores all things. The trumpets prepare the way for Christ’s coming at the start of the seventh thousand years. The two witnesses are two prophets sent to the Jews after they rebuild Jerusalem.",
+  "contextNote": {
+    "title": "A sealed book read as history",
+    "text": "Revelation 5 describes a book sealed with seven seals, and readers had long asked what it held. Verse 6 answers that it holds God’s will, mysteries, and works for this earth. It covers the seven thousand years of the earth’s temporal existence. Verse 7 then assigns each seal to one thousand years. This turns John’s vision into a timeline that the later answers use. Verses 10 and 13 place events at the sixth and seventh seals. Here a “seal” marks a span of time, not only a hidden secret."
+  },
+  "studyVerse": 6,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 77–80, “I Will Lead You Along,” presents this section as a key for reading John’s Revelation. How does verse 2, on spirit in “the likeness” of the body, change how you picture the four beasts?",
+  "placeIds": [
+    "hiram",
+    "jerusalem"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "john-the-revelator",
+    "elias"
+  ],
+  "newPlaces": [
+    {
+      "id": "jerusalem",
+      "name": "Jerusalem",
+      "why": "v. 15 names the city of Jerusalem, rebuilt by the gathered Jews"
+    }
+  ],
+  "newPeople": [
+    {
+      "id": "john-the-revelator",
+      "name": "John the Revelator",
+      "why": "named throughout (vv. 1–15) as the author of the book of Revelation; the apostle John"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/77?lang=eng",
+    "jsp": {
+      "title": "Answers to Questions, between circa 4 and circa 20 March 1832 [D&C 77]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/answers-to-questions-between-circa-4-and-circa-20-march-1832-dc-77",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 15 verses. Heading gives Hiram, about March 1832, during the Bible revision. JSP historical introduction gives ca. 4–20 March 1832, likely scribes Rigdon or Gause, and the earliest copy by John Whitmer titled “Revelation Explained.” Hiram as place is from the heading; JSP does not state it directly. Added john-the-revelator rather than using the group id peter-james-john. Fact-check 2026-10-12: summary called the beasts \"real beings,\" which the text does not say (verse 2 calls them figurative expressions; verse 3 says four individual beasts shown to John); reworded to follow verse 3."
+}

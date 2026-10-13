@@ -1,0 +1,29 @@
+{
+  "id": "newel-knight",
+  "name": "Newel Knight",
+  "role": "President of the Colesville branch",
+  "life": "1800–1847",
+  "dateNote": "He was baptized in late May 1830 and led the Colesville Saints to Ohio and Missouri in 1831.",
+  "locations": [
+    "colesville",
+    "thompson",
+    "independence",
+    "nauvoo"
+  ],
+  "importance": "Joseph Smith’s history reports that he cast an evil spirit out of Newel Knight in 1830, before his baptism. Section 52 calls him to be ordained and to travel with Selah J. Griffin. Section 54 answers his question when the Colesville Saints lost their place at Thompson, telling them to flee to Missouri. Section 56 then lets him stay with them and lead them west, and section 124 names him to the Nauvoo high council.",
+  "connections": "Son of Joseph Knight Sr. and a leader of the Colesville families. He married Lydia Goldthwaite Bailey in 1835, and he died at Ponca on the trek west.",
+  "linkNames": [
+    "Newel Knight"
+  ],
+  "sources": [
+    {
+      "title": "Newel Knight, Joseph Smith Papers",
+      "url": "https://www.josephsmithpapers.org/person/newel-knight"
+    },
+    {
+      "title": "Newel Knight, Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Newel_Knight"
+    }
+  ],
+  "reviewNote": "Birth, baptism, branch leadership, and high council service checked on JSP; death date (11 January 1847, Ponca, Nebraska), the 1830 exorcism account, and marriage from Wikipedia. Parentage (Joseph Knight Sr.) is well established but was not on the loaded pages."
+}

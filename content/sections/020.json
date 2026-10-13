@@ -1,0 +1,24 @@
+{
+  "section": 20,
+  "title": "A new church sets out its beliefs, offices, and ordinances",
+  "dateLabel": "circa April 1830",
+  "month": "1830-04",
+  "receivedAt": "fayette",
+  "setting": "This document was known in Joseph Smith’s day as the Articles and Covenants. Joseph may have begun it in summer 1829, near the time Oliver Cowdery drafted his own articles. The earliest copies already describe the Church as organized on 6 April 1830, so parts were written or revised afterward. It was likely composed at or near Fayette, New York. At the first Church conference on 9 June 1830, Joseph read it and members approved it unanimously.",
+  "summary": "The document opens by dating the Church’s organization to 6 April 1830. It names Joseph Smith as first elder and Oliver Cowdery as second elder. It recounts Joseph’s forgiveness, his return to worldly vanities, an angel’s visit, and the translation of the Book of Mormon. It then states core beliefs about God, the Fall, Christ’s atonement, justification, and sanctification. It sets the requirements for baptism. It lists the duties of apostles and elders, priests, teachers, and deacons. It gives the exact words for baptism and for blessing the bread and wine. It closes with rules for conferences, records, licenses, and members who move.",
+  "contextNote": {
+    "title": "Proof of change before baptism",
+    "text": "A new church had to decide who could join, and verse 37 gives the rule. Applicants must humble themselves, come with broken hearts, and witness before the church that they have repented. They must also be willing to take Christ’s name and serve him to the end. The final test is that they “truly manifest by their works” the Spirit of Christ. Verse 69 applies the same standard after baptism, asking for “a godly walk and conversation” before the church. JSP notes that Oliver Cowdery questioned part of this wording in summer 1830, and Joseph defended it. In this passage, readiness for baptism is shown by changed conduct, not only by belief."
+  },
+  "studyVerse": 37,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 20–22, “The Rise of the Church of Christ,” highlights baptism and the sacrament as covenants. Compare the baptism requirements in verse 37 with the sacrament prayers in verses 77 and 79; which promises appear in both?",
+  "placeIds": ["fayette"],
+  "personIds": ["joseph-smith", "oliver-cowdery"],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/20?lang=eng",
+    "jsp": {"title": "Articles and Covenants, circa April 1830 [D&C 20]", "url": "https://www.josephsmithpapers.org/paperSummary/articles-and-covenants-circa-april-1830-dc-20", "checked": true}
+  },
+  "reviewNote": "Read all 84 verses. Official heading says portions may date to summer 1829, the full text likely recorded soon after 6 April 1830, at or near Fayette. JSP historical introduction read for dating (Revelation Book 1 copy dated 10 April 1830), the 9 June 1830 conference vote, and the summer 1830 dispute over the baptism wording. JSP does not say exactly which words Cowdery questioned; the contextNote ties it to verse 37 only generally. Verses 66–67 mention later offices (high councilors, high priests), suggesting later additions; not discussed."
+}

@@ -1,0 +1,27 @@
+{
+ "id": "moroni",
+ "name": "Moroni",
+ "role": "Angel who revealed the Book of Mormon record",
+ "life": "Dates not known",
+ "dateNote": "The official heading to section 2 dates his visit to Joseph Smith to the evening of 21 September 1823.",
+ "locations": [
+  "palmyra",
+  "hill-cumorah"
+ ],
+ "importance": "The heading to section 2 identifies the messenger who spoke to Joseph Smith in 1823 as Moroni. Section 27 says Moroni was sent to reveal the Book of Mormon and holds “the keys of the record of the stick of Ephraim”. In section 128 Joseph Smith recalls the voice of Moroni “from Cumorah”. Section 138 says Moroni spoke to Joseph Smith of Elijah’s coming.",
+ "connections": "The revelations present him as the last keeper of the Book of Mormon record. Section 27 lists him with Elias, Elijah, and Peter, James, and John.",
+ "linkNames": [
+  "Moroni"
+ ],
+ "sources": [
+  {
+   "title": "Doctrine and Covenants 2 (official text and heading)",
+   "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/2?lang=eng"
+  },
+  {
+   "title": "Doctrine and Covenants 27 (official text)",
+   "url": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/27?lang=eng"
+  }
+ ],
+ "reviewNote": "Described only as the D&C presents him. Checked D&C 2 heading (21 Sept. 1823, Palmyra) and 27:5; 128:20 and 138:46 checked in local text. “Moroni” occurs in 27, 128, and 138, always for this figure."
+}

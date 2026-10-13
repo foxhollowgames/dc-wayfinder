@@ -1,0 +1,26 @@
+{
+  "section": 68,
+  "title": "Words spoken by the Holy Ghost are scripture",
+  "dateLabel": "1 November 1831",
+  "month": "1831-11",
+  "receivedAt": "hiram",
+  "setting": "This revelation is dated 1 November 1831, at Hiram, Ohio, during the conference on publishing the revelations. Orson Hyde, Luke Johnson, Lyman Johnson, and William McLellin asked Joseph Smith to learn the Lord’s will for them. The first part answers them, and the rest speaks to the whole church. It may first have been two revelations later copied together. In 1835 Joseph Smith expanded the text for the Doctrine and Covenants. The added passages concern who may serve as bishop and how bishops are appointed.",
+  "summary": "The revelation begins with Orson Hyde’s call to preach by the Spirit. It makes his call a pattern for all who are ordained to go forth. Whatever they speak when moved by the Holy Ghost will be scripture. It sends Hyde, Luke Johnson, Lyman Johnson, and William McLellin into all the world to preach and baptize. It then gives rules for bishops, including the rights of literal descendants of Aaron. Parents in Zion must teach their children faith, repentance, baptism, and the Holy Ghost by age eight. The Lord says he is displeased with idlers and greed in Zion. Oliver Cowdery is to carry these sayings there.",
+  "contextNote": {
+    "title": "What makes spoken words scripture",
+    "text": "The four men had asked what the Lord wanted of them. Verse 3 gives a standard, not a script: speak “as they are moved upon by the Holy Ghost” wherever they go. Verse 4 says such speech is scripture, and the will, mind, word, and voice of the Lord. Verse 2 widens this from Orson Hyde to all who are sent out. Verse 6 gives the reason they need not fear: the Lord will “stand by” them. In this passage, scripture is defined by its source in the Holy Ghost, not by a printed book."
+  },
+  "studyVerse": 4,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 67–70 draws on this revelation’s teaching about speaking by the Holy Ghost and teaching children. What do verses 25–28 ask parents in Zion to teach, and by what age?",
+  "placeIds": ["hiram", "independence"],
+  "personIds": ["joseph-smith", "orson-hyde", "luke-johnson", "lyman-johnson", "william-mclellin", "oliver-cowdery"],
+  "newPlaces": [],
+  "newPeople": [
+    {"id": "luke-johnson", "name": "Luke S. Johnson", "why": "named in v. 7; son of John Johnson of Hiram, later one of the first Twelve Apostles (1835)"}
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/68?lang=eng",
+    "jsp": {"title": "Revelation, 1 November 1831–A [D&C 68]", "url": "https://www.josephsmithpapers.org/paperSummary/revelation-1-november-1831-a-dc-68", "checked": true}
+  },
+  "reviewNote": "Read all 35 verses. Official heading gives Hiram, 1 November 1831, an answer to prayer about Hyde, the Johnsons, and McLellin, and the 1835 expansion. JSP: the title is the 1 November 1831–A revelation (the –B one is D&C 1). The full historical introduction (incl. the 1835 revision) was read on the Church Historian’s Press study-companion mirror; the JSP page itself loaded only briefly. Zion in v. 32 is mapped to Independence, Missouri."
+}

@@ -1,0 +1,48 @@
+{
+  "section": 90,
+  "title": "Two counselors share the keys and the work of presiding",
+  "dateLabel": "8 March 1833",
+  "month": "1833-03",
+  "receivedAt": "kirtland",
+  "setting": "Joseph Smith dictated this revelation in Kirtland, Ohio, on 8 March 1833. Jesse Gause, one of his counselors, had been excommunicated in December 1832. Frederick G. Williams was called in January 1833 to take his place. The revelation advanced the presidency of the high priesthood, and the counselors were ordained on 18 March. Leaders in Kirtland and Missouri were also in tension over Zion at the time.",
+  "summary": "The revelation forgives Joseph Smith and confirms his keys, through which “the oracles” go to the church. Sidney Rigdon and Frederick G. Williams are forgiven and made equal with Joseph in holding these keys. The three are to finish translating the prophets, then preside over the church and school, study, and learn languages. Joseph Smith Sr. and Sidney Rigdon stay where they live, Williams needs a home, and the bishop must find an agent to clear debts. Vienna Jaques is to receive money for her journey and an inheritance in Zion. The Lord is displeased with William E. McLellin and Sidney Gilbert, and the bishop and others must repent. Zion will be chastened, yet not removed from her place.",
+  "contextNote": {
+    "title": "Keys shared without losing the order",
+    "text": "After Jesse Gause left, the presidency needed to be settled. Verse 6 says Rigdon and Williams are “equal with thee in holding the keys”. Verse 4 shows that an order remains: the oracles come “through you” to the church. Verses 12–16 then give the three a shared task, to preside in council and set the church in order. The JSP notes that Joseph Smith kept the presiding role after this revelation. Here, equal in the keys means sharing authority to lead in council, while revelation still comes through Joseph."
+  },
+  "studyVerse": 6,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 89–92 includes this revelation on the presidency of the Church. What warning does verse 5 give to those who receive “the oracles of God,” and what storms does it name?",
+  "placeIds": [
+    "kirtland",
+    "independence",
+    "boston"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "frederick-g-williams",
+    "joseph-smith-sr",
+    "vienna-jaques",
+    "william-mclellin",
+    "sidney-gilbert",
+    "edward-partridge",
+    "newel-k-whitney"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "vienna-jaques",
+      "name": "Vienna Jaques",
+      "why": "Named in v. 28; a convert from Boston who consecrated money in Kirtland and was sent to Zion in Missouri."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/90?lang=eng",
+    "jsp": {
+      "title": "Revelation, 8 March 1833 [D&C 90]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-8-march-1833-dc-90",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 37 verses. Official heading gives Kirtland, 8 March 1833, as a step toward the First Presidency, with counselors ordained 18 March. JSP introduction read for Gause’s excommunication, Williams’s call, Kirtland–Missouri tensions, and Vienna Jaques arriving from Boston. “The bishop” in v. 35 is taken as Edward Partridge in Zion; the bishop seeking an agent in v. 22 is taken as Newel K. Whitney, based on Whitney’s docket. Both readings are inferences. Fact-check 2026-10-12: summary said the Lord is displeased with the bishop; verse 35 says the bishop and others have many things to repent of. Added the chastening of Zion (v. 36)."
+}

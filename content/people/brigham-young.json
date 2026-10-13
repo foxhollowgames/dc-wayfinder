@@ -1,0 +1,26 @@
+{
+  "id": "brigham-young",
+  "name": "Brigham Young",
+  "role": "President of the Twelve and later President of the Church",
+  "life": "1801–1877",
+  "dateNote": "He was baptized in April 1832, ordained an apostle on 14 February 1835, and gave section 136 on 14 January 1847.",
+  "locations": [
+    "kirtland",
+    "nauvoo",
+    "winter-quarters",
+    "salt-lake-city"
+  ],
+  "importance": "He later gave the account linking section 89 to tobacco use at the school of the prophets. Section 124 names him president of the Twelve in 1841. Section 126, given at his Nauvoo home after his mission to England, releases him from leaving his family again. After Joseph Smith’s death he led the Church, and section 136 is the revelation he gave at Winter Quarters for the trek west.",
+  "connections": "Husband of Mary Ann Angell Young, named in the setting of section 126. He served with Heber C. Kimball and the other apostles, and Joseph F. Smith saw him among the spirits in section 138.",
+  "linkNames": [
+    "Brigham Young",
+    "Brigham"
+  ],
+  "sources": [
+    {
+      "title": "Brigham Young, Joseph Smith Papers",
+      "url": "https://www.josephsmithpapers.org/person/brigham-young"
+    }
+  ],
+  "reviewNote": "Birth, baptism (Mendon, New York), apostle ordination, presidency of the Twelve (1840), England mission, 1845 recognition as Church president, and governorship checked on JSP; death date 29 August 1877 shown in a citation fragment. His section 89 account comes from that section’s setting."
+}

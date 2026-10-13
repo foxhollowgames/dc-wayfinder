@@ -1,0 +1,1424 @@
+[
+ {
+  "id": "joseph-smith",
+  "name": "Joseph Smith Jr.",
+  "sections": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12,
+   13,
+   14,
+   15,
+   16,
+   17,
+   18,
+   19,
+   20,
+   21,
+   22,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   29,
+   30,
+   31,
+   32,
+   33,
+   34,
+   35,
+   36,
+   37,
+   38,
+   39,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52,
+   53,
+   54,
+   55,
+   56,
+   57,
+   58,
+   59,
+   60,
+   61,
+   62,
+   63,
+   64,
+   65,
+   66,
+   67,
+   68,
+   69,
+   70,
+   71,
+   72,
+   73,
+   74,
+   75,
+   76,
+   77,
+   78,
+   79,
+   80,
+   81,
+   82,
+   83,
+   84,
+   85,
+   86,
+   87,
+   88,
+   89,
+   90,
+   91,
+   92,
+   93,
+   94,
+   95,
+   96,
+   97,
+   98,
+   99,
+   100,
+   101,
+   102,
+   103,
+   104,
+   105,
+   106,
+   107,
+   108,
+   109,
+   110,
+   111,
+   112,
+   113,
+   114,
+   115,
+   116,
+   117,
+   118,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124,
+   125,
+   126,
+   127,
+   128,
+   129,
+   130,
+   131,
+   132,
+   133,
+   134,
+   135,
+   136,
+   137,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "emma-smith",
+  "name": "Emma Hale Smith",
+  "sections": [
+   3,
+   25,
+   89,
+   99,
+   121,
+   132
+  ],
+  "note": ""
+ },
+ {
+  "id": "oliver-cowdery",
+  "name": "Oliver Cowdery",
+  "sections": [
+   1,
+   6,
+   7,
+   8,
+   9,
+   12,
+   13,
+   14,
+   17,
+   18,
+   20,
+   21,
+   23,
+   24,
+   25,
+   26,
+   27,
+   28,
+   30,
+   31,
+   32,
+   35,
+   37,
+   47,
+   52,
+   55,
+   57,
+   58,
+   60,
+   61,
+   63,
+   68,
+   69,
+   70,
+   82,
+   97,
+   101,
+   102,
+   104,
+   106,
+   107,
+   109,
+   110,
+   111,
+   124,
+   134
+  ],
+  "note": ""
+ },
+ {
+  "id": "hyrum-smith",
+  "name": "Hyrum Smith",
+  "sections": [
+   11,
+   23,
+   52,
+   62,
+   75,
+   94,
+   95,
+   103,
+   111,
+   112,
+   115,
+   120,
+   121,
+   124,
+   132,
+   135,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "joseph-smith-sr",
+  "name": "Joseph Smith Sr.",
+  "sections": [
+   4,
+   23,
+   90,
+   102,
+   104,
+   124,
+   137
+  ],
+  "note": ""
+ },
+ {
+  "id": "lucy-mack-smith",
+  "name": "Lucy Mack Smith",
+  "sections": [
+   137
+  ],
+  "note": ""
+ },
+ {
+  "id": "samuel-smith",
+  "name": "Samuel H. Smith",
+  "sections": [
+   11,
+   23,
+   52,
+   61,
+   66,
+   75,
+   102,
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "martin-harris",
+  "name": "Martin Harris",
+  "sections": [
+   3,
+   5,
+   10,
+   17,
+   19,
+   52,
+   58,
+   70,
+   82,
+   102,
+   104
+  ],
+  "note": ""
+ },
+ {
+  "id": "david-whitmer",
+  "name": "David Whitmer",
+  "sections": [
+   6,
+   14,
+   17,
+   18,
+   30,
+   31,
+   52,
+   62
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-whitmer",
+  "name": "John Whitmer",
+  "sections": [
+   14,
+   15,
+   16,
+   26,
+   30,
+   34,
+   35,
+   38,
+   47,
+   69,
+   70,
+   82,
+   85
+  ],
+  "note": ""
+ },
+ {
+  "id": "peter-whitmer-jr",
+  "name": "Peter Whitmer Jr.",
+  "sections": [
+   14,
+   15,
+   16,
+   30,
+   32
+  ],
+  "note": ""
+ },
+ {
+  "id": "joseph-knight-sr",
+  "name": "Joseph Knight Sr.",
+  "sections": [
+   12,
+   23,
+   59
+  ],
+  "note": ""
+ },
+ {
+  "id": "hiram-page",
+  "name": "Hiram Page",
+  "sections": [
+   28
+  ],
+  "note": ""
+ },
+ {
+  "id": "thomas-b-marsh",
+  "name": "Thomas B. Marsh",
+  "sections": [
+   31,
+   52,
+   56,
+   75,
+   112,
+   118
+  ],
+  "note": ""
+ },
+ {
+  "id": "orson-pratt",
+  "name": "Orson Pratt",
+  "sections": [
+   34,
+   52,
+   75,
+   103,
+   124,
+   129,
+   136
+  ],
+  "note": ""
+ },
+ {
+  "id": "parley-p-pratt",
+  "name": "Parley P. Pratt",
+  "sections": [
+   32,
+   34,
+   49,
+   50,
+   52,
+   97,
+   103,
+   124,
+   129
+  ],
+  "note": ""
+ },
+ {
+  "id": "ziba-peterson",
+  "name": "Ziba Peterson",
+  "sections": [
+   32,
+   58
+  ],
+  "note": ""
+ },
+ {
+  "id": "sidney-rigdon",
+  "name": "Sidney Rigdon",
+  "sections": [
+   1,
+   35,
+   36,
+   37,
+   40,
+   41,
+   42,
+   44,
+   49,
+   52,
+   53,
+   55,
+   58,
+   60,
+   61,
+   63,
+   70,
+   71,
+   72,
+   73,
+   76,
+   78,
+   81,
+   82,
+   86,
+   90,
+   92,
+   93,
+   95,
+   100,
+   102,
+   103,
+   104,
+   109,
+   111,
+   112,
+   115,
+   116,
+   117,
+   120,
+   124,
+   134
+  ],
+  "note": ""
+ },
+ {
+  "id": "edward-partridge",
+  "name": "Edward Partridge",
+  "sections": [
+   35,
+   36,
+   41,
+   42,
+   48,
+   50,
+   51,
+   52,
+   57,
+   58,
+   60,
+   64,
+   72,
+   82,
+   90,
+   98,
+   101,
+   115,
+   119,
+   120,
+   121,
+   122,
+   123,
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "james-covel",
+  "name": "James Covel",
+  "sections": [
+   39,
+   40
+  ],
+  "note": ""
+ },
+ {
+  "id": "leman-copley",
+  "name": "Leman Copley",
+  "sections": [
+   41,
+   49,
+   54
+  ],
+  "note": ""
+ },
+ {
+  "id": "newel-k-whitney",
+  "name": "Newel K. Whitney",
+  "sections": [
+   63,
+   64,
+   72,
+   78,
+   82,
+   84,
+   85,
+   89,
+   90,
+   93,
+   96,
+   104,
+   117
+  ],
+  "note": ""
+ },
+ {
+  "id": "frederick-g-williams",
+  "name": "Frederick G. Williams",
+  "sections": [
+   56,
+   64,
+   81,
+   84,
+   87,
+   88,
+   90,
+   92,
+   93,
+   95,
+   102,
+   103,
+   104,
+   108
+  ],
+  "note": ""
+ },
+ {
+  "id": "william-w-phelps",
+  "name": "William W. Phelps",
+  "sections": [
+   55,
+   57,
+   58,
+   61,
+   70,
+   82,
+   85,
+   88,
+   134
+  ],
+  "note": ""
+ },
+ {
+  "id": "sidney-gilbert",
+  "name": "Algernon Sidney Gilbert",
+  "sections": [
+   53,
+   57,
+   61,
+   64,
+   78,
+   82,
+   90,
+   101
+  ],
+  "note": ""
+ },
+ {
+  "id": "isaac-morley",
+  "name": "Isaac Morley",
+  "sections": [
+   52,
+   63,
+   64
+  ],
+  "note": ""
+ },
+ {
+  "id": "lyman-wight",
+  "name": "Lyman Wight",
+  "sections": [
+   52,
+   103,
+   116,
+   121,
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "william-mclellin",
+  "name": "William E. McLellin",
+  "sections": [
+   1,
+   65,
+   66,
+   67,
+   68,
+   75,
+   90,
+   118
+  ],
+  "note": ""
+ },
+ {
+  "id": "orson-hyde",
+  "name": "Orson Hyde",
+  "sections": [
+   68,
+   75,
+   100,
+   101,
+   102,
+   103,
+   112,
+   124,
+   130
+  ],
+  "note": ""
+ },
+ {
+  "id": "jesse-gause",
+  "name": "Jesse Gause",
+  "sections": [
+   81,
+   82
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-murdock",
+  "name": "John Murdock",
+  "sections": [
+   52,
+   62,
+   99
+  ],
+  "note": ""
+ },
+ {
+  "id": "brigham-young",
+  "name": "Brigham Young",
+  "sections": [
+   89,
+   124,
+   126,
+   136,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "heber-c-kimball",
+  "name": "Heber C. Kimball",
+  "sections": [
+   112,
+   124,
+   126
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-taylor",
+  "name": "John Taylor",
+  "sections": [
+   118,
+   124,
+   126,
+   135,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "willard-richards",
+  "name": "Willard Richards",
+  "sections": [
+   110,
+   118,
+   124,
+   126,
+   129,
+   130,
+   135
+  ],
+  "note": ""
+ },
+ {
+  "id": "wilford-woodruff",
+  "name": "Wilford Woodruff",
+  "sections": [
+   118,
+   124,
+   136,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "warren-cowdery",
+  "name": "Warren A. Cowdery",
+  "sections": [
+   106,
+   110
+  ],
+  "note": ""
+ },
+ {
+  "id": "oliver-granger",
+  "name": "Oliver Granger",
+  "sections": [
+   117
+  ],
+  "note": ""
+ },
+ {
+  "id": "william-marks",
+  "name": "William Marks",
+  "sections": [
+   117,
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "david-w-patten",
+  "name": "David W. Patten",
+  "sections": [
+   112,
+   114,
+   123,
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-c-bennett",
+  "name": "John C. Bennett",
+  "sections": [
+   124,
+   127
+  ],
+  "note": ""
+ },
+ {
+  "id": "robert-b-thompson",
+  "name": "Robert B. Thompson",
+  "sections": [
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "vinson-knight",
+  "name": "Vinson Knight",
+  "sections": [
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "george-miller",
+  "name": "George Miller",
+  "sections": [
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "alvin-smith",
+  "name": "Alvin Smith",
+  "sections": [
+   137
+  ],
+  "note": ""
+ },
+ {
+  "id": "joseph-f-smith",
+  "name": "Joseph F. Smith",
+  "sections": [
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-the-baptist",
+  "name": "John the Baptist",
+  "sections": [
+   13,
+   27,
+   35,
+   84
+  ],
+  "note": ""
+ },
+ {
+  "id": "peter-james-john",
+  "name": "Peter, James, and John",
+  "sections": [
+   7,
+   13,
+   27,
+   128
+  ],
+  "note": ""
+ },
+ {
+  "id": "moroni",
+  "name": "Moroni",
+  "sections": [
+   2,
+   27,
+   128
+  ],
+  "note": ""
+ },
+ {
+  "id": "elijah",
+  "name": "Elijah",
+  "sections": [
+   2,
+   27,
+   35,
+   110,
+   128,
+   133,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "moses",
+  "name": "Moses",
+  "sections": [
+   8,
+   28,
+   84,
+   107,
+   110,
+   124,
+   132,
+   133,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "elias",
+  "name": "Elias",
+  "sections": [
+   27,
+   77,
+   110,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "adam",
+  "name": "Adam",
+  "sections": [
+   27,
+   29,
+   78,
+   84,
+   107,
+   116,
+   128,
+   137,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "jesus-christ",
+  "name": "Jesus Christ",
+  "sections": [
+   6,
+   7,
+   10,
+   11,
+   27,
+   29,
+   45,
+   62,
+   63,
+   66,
+   76,
+   79,
+   80,
+   81,
+   84,
+   109,
+   110,
+   122,
+   129,
+   130,
+   133,
+   137,
+   138
+  ],
+  "note": ""
+ },
+ {
+  "id": "ezra-thayre",
+  "name": "Ezra Thayre",
+  "sections": [
+   33,
+   52,
+   56,
+   75
+  ],
+  "note": ""
+ },
+ {
+  "id": "northrop-sweet",
+  "name": "Northrop Sweet",
+  "sections": [
+   33
+  ],
+  "note": ""
+ },
+ {
+  "id": "stephen-burnett",
+  "name": "Stephen Burnett",
+  "sections": [
+   75,
+   80
+  ],
+  "note": ""
+ },
+ {
+  "id": "lyman-johnson",
+  "name": "Lyman E. Johnson",
+  "sections": [
+   68,
+   75,
+   118
+  ],
+  "note": ""
+ },
+ {
+  "id": "william-law",
+  "name": "William Law",
+  "sections": [
+   124
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-corrill",
+  "name": "John Corrill",
+  "sections": [
+   50,
+   52
+  ],
+  "note": ""
+ },
+ {
+  "id": "john-johnson",
+  "name": "John Johnson",
+  "sections": [
+   65,
+   96,
+   102,
+   104
+  ],
+  "note": ""
+ },
+ {
+  "id": "enoch",
+  "name": "Enoch",
+  "sections": [
+   38
+  ],
+  "note": "Named in v. 4 (“the Zion of Enoch”); the ancient patriarch of Genesis 5 whose city was taken to God."
+ },
+ {
+  "id": "nathanael",
+  "name": "Nathanael",
+  "sections": [
+   41
+  ],
+  "note": "Named in v. 11; the disciple Jesus called an Israelite “in whom is no guile” (John 1:47)."
+ },
+ {
+  "id": "joseph-wakefield",
+  "name": "Joseph Wakefield",
+  "sections": [
+   50,
+   52
+  ],
+  "note": "named in 50:37 and 52:35; elder sent to strengthen the churches and later to the eastern lands"
+ },
+ {
+  "id": "newel-knight",
+  "name": "Newel Knight",
+  "sections": [
+   52,
+   54,
+   56
+  ],
+  "note": "named in 52:32 and addressed in 54:2; leader of the Colesville Saints"
+ },
+ {
+  "id": "ezra-booth",
+  "name": "Ezra Booth",
+  "sections": [
+   52,
+   64
+  ],
+  "note": "named in 52:23; former Methodist minister who traveled to Missouri and later left the Church"
+ },
+ {
+  "id": "harvey-whitlock",
+  "name": "Harvey Whitlock",
+  "sections": [
+   52
+  ],
+  "note": "named in 52:25; ordained a high priest at the June 1831 conference"
+ },
+ {
+  "id": "levi-w-hancock",
+  "name": "Levi W. Hancock",
+  "sections": [
+   52
+  ],
+  "note": "named in 52:29; his autobiography is a key source for the June 1831 conference"
+ },
+ {
+  "id": "zebedee-coltrin",
+  "name": "Zebedee Coltrin",
+  "sections": [
+   52
+  ],
+  "note": "named in 52:29; elder sent to Missouri"
+ },
+ {
+  "id": "reynolds-cahoon",
+  "name": "Reynolds Cahoon",
+  "sections": [
+   52,
+   61,
+   75,
+   94
+  ],
+  "note": "named in 52:30; elder sent to Missouri"
+ },
+ {
+  "id": "simonds-ryder",
+  "name": "Simonds Ryder",
+  "sections": [
+   52
+  ],
+  "note": "named in 52:37; received the office taken from Heman Basset"
+ },
+ {
+  "id": "joseph-coe",
+  "name": "Joseph Coe",
+  "sections": [
+   55,
+   102
+  ],
+  "note": "named in 55:6; told to travel to Missouri with Joseph Smith and Sidney Rigdon"
+ },
+ {
+  "id": "selah-griffin",
+  "name": "Selah J. Griffin",
+  "sections": [
+   56
+  ],
+  "note": "named in vv. 5–6; early elder sent to Missouri with Thomas B. Marsh"
+ },
+ {
+  "id": "titus-billings",
+  "name": "Titus Billings",
+  "sections": [
+   63
+  ],
+  "note": "named in v. 39; caretaker of the Kirtland farm (the Morley farm) told to sell it and move to Zion"
+ },
+ {
+  "id": "luke-johnson",
+  "name": "Luke S. Johnson",
+  "sections": [
+   68,
+   75,
+   102
+  ],
+  "note": "named in v. 7; son of John Johnson of Hiram, later one of the first Twelve Apostles (1835)"
+ },
+ {
+  "id": "asa-dodds",
+  "name": "Asa Dodds",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 15; early elder sent to the western countries"
+ },
+ {
+  "id": "calves-wilson",
+  "name": "Calves Wilson",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 15; early elder sent west with Asa Dodds"
+ },
+ {
+  "id": "major-n-ashley",
+  "name": "Major N. Ashley",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 17; early elder sent to the south country"
+ },
+ {
+  "id": "burr-riggs",
+  "name": "Burr Riggs",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 17; early Ohio elder sent south with Major N. Ashley"
+ },
+ {
+  "id": "simeon-carter",
+  "name": "Simeon Carter",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 30; early Ohio convert, brother of Gideon Carter"
+ },
+ {
+  "id": "emer-harris",
+  "name": "Emer Harris",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 30; older brother of Martin Harris"
+ },
+ {
+  "id": "daniel-stanton",
+  "name": "Daniel Stanton",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 33; early elder paired with Seymour Brunson"
+ },
+ {
+  "id": "seymour-brunson",
+  "name": "Seymour Brunson",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 33; early elder, later on the Nauvoo high council"
+ },
+ {
+  "id": "sylvester-smith",
+  "name": "Sylvester Smith",
+  "sections": [
+   75,
+   102
+  ],
+  "note": "named in v. 34; early elder, later in Zion’s Camp and the Kirtland high council"
+ },
+ {
+  "id": "gideon-carter",
+  "name": "Gideon Carter",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 34; early elder, killed at Crooked River, Missouri, in 1838"
+ },
+ {
+  "id": "ruggles-eames",
+  "name": "Ruggles Eames",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 35; early elder paired with Stephen Burnett"
+ },
+ {
+  "id": "micah-b-welton",
+  "name": "Micah B. Welton",
+  "sections": [
+   75
+  ],
+  "note": "named in v. 36; early elder paired with Eden Smith"
+ },
+ {
+  "id": "eden-smith",
+  "name": "Eden Smith",
+  "sections": [
+   75,
+   80
+  ],
+  "note": "named in v. 36; early elder paired with Micah B. Welton"
+ },
+ {
+  "id": "john-the-revelator",
+  "name": "John the Revelator",
+  "sections": [
+   77
+  ],
+  "note": "named throughout (vv. 1–15) as the author of the book of Revelation; the apostle John"
+ },
+ {
+  "id": "jared-carter",
+  "name": "Jared Carter",
+  "sections": [
+   79,
+   94,
+   102
+  ],
+  "note": "named in vv. 1 and 4; early convert from Amherst, Ohio, and missionary to the eastern states"
+ },
+ {
+  "id": "aaron",
+  "name": "Aaron",
+  "sections": [
+   84
+  ],
+  "note": "named in vv. 18, 26–34; brother of Moses, through whose line the lesser priesthood continued"
+ },
+ {
+  "id": "abraham",
+  "name": "Abraham",
+  "sections": [
+   84,
+   132,
+   137,
+   138
+  ],
+  "note": "named in vv. 13–14 and 34; received the priesthood from Melchizedek"
+ },
+ {
+  "id": "vienna-jaques",
+  "name": "Vienna Jaques",
+  "sections": [
+   90
+  ],
+  "note": "Named in v. 28; a convert from Boston who consecrated money in Kirtland and was sent to Zion in Missouri."
+ },
+ {
+  "id": "john-gould",
+  "name": "John Gould",
+  "sections": [
+   100,
+   101
+  ],
+  "note": "Named in v. 14; elder sent with Orson Hyde to Missouri in 1833, who returned with news of the Jackson County violence."
+ },
+ {
+  "id": "john-smith",
+  "name": "John Smith (1781–1854)",
+  "sections": [
+   102
+  ],
+  "note": "Named in vv. 3 and 34 as a high councilor; brother of Joseph Smith Sr. and uncle of Joseph Smith Jr."
+ },
+ {
+  "id": "john-s-carter",
+  "name": "John S. Carter",
+  "sections": [
+   102
+  ],
+  "note": "Named in vv. 3 and 34 as a member of the first Kirtland high council."
+ },
+ {
+  "id": "lyman-sherman",
+  "name": "Lyman R. Sherman",
+  "sections": [
+   108
+  ],
+  "note": "Addressed as “Lyman” in v. 1; one of the seven presidents of the Seventy, called February 1835."
+ },
+ {
+  "id": "elias-higbee",
+  "name": "Elias Higbee",
+  "sections": [
+   113
+  ],
+  "note": "Named in v. 7 as asking the questions on Isaiah 52; a Caldwell County judge and Far West high councilor."
+ },
+ {
+  "id": "john-e-page",
+  "name": "John E. Page",
+  "sections": [
+   118
+  ],
+  "note": "named in v. 6; called to fill a vacancy in the Quorum of the Twelve in 1838"
+ },
+ {
+  "id": "john-snider",
+  "name": "John Snider",
+  "sections": [
+   124
+  ],
+  "note": "named in vv. 22, 62, 70; one of the Nauvoo House building committee"
+ },
+ {
+  "id": "peter-haws",
+  "name": "Peter Haws",
+  "sections": [
+   124
+  ],
+  "note": "named in vv. 62, 70; one of the Nauvoo House building committee"
+ },
+ {
+  "id": "isaac-galland",
+  "name": "Isaac Galland",
+  "sections": [
+   124
+  ],
+  "note": "named in vv. 78–79; land agent who sold the Church land at Commerce and in Iowa, later baptized"
+ },
+ {
+  "id": "almon-babbitt",
+  "name": "Almon W. Babbitt",
+  "sections": [
+   124
+  ],
+  "note": "named in v. 84; rebuked for setting up his own counsel against the First Presidency"
+ },
+ {
+  "id": "henry-g-sherwood",
+  "name": "Henry G. Sherwood",
+  "sections": [
+   124
+  ],
+  "note": "named in vv. 81, 132; Nauvoo House stockholder and high council member"
+ },
+ {
+  "id": "robert-d-foster",
+  "name": "Robert D. Foster",
+  "sections": [
+   124
+  ],
+  "note": "named in vv. 115–118; Nauvoo physician told to repent and build a house for Joseph Smith"
+ },
+ {
+  "id": "amos-davies",
+  "name": "Amos Davies",
+  "sections": [
+   124
+  ],
+  "note": "named in vv. 111–114; Commerce/Nauvoo merchant told to buy Nauvoo House stock"
+ },
+ {
+  "id": "don-carlos-smith",
+  "name": "Don Carlos Smith",
+  "sections": [
+   124
+  ],
+  "note": "named in v. 133; Joseph Smith's youngest brother, called as president of the high priests quorum"
+ },
+ {
+  "id": "peter-whitmer-sr",
+  "name": "Peter Whitmer Sr.",
+  "sections": [
+   128
+  ],
+  "note": "v. 21, “old Father Whitmer”; father of the Whitmer family; his log home in Fayette, New York, was where Book of Mormon translation was finished in 1829 and several early revelations came"
+ },
+ {
+  "id": "philip-burroughs",
+  "name": "Philip Burroughs",
+  "sections": [
+   30
+  ],
+  "note": "named in v. 10; a Seneca County, New York, farmer (1794–1865) whose home hosted early preaching; his wife appears to have joined the church."
+ },
+ {
+  "id": "ezra-t-benson",
+  "name": "Ezra T. Benson",
+  "sections": [
+   136
+  ],
+  "note": "named in v. 12; apostle (ordained 1846) assigned to organize a company; great-grandfather of the later Church president"
+ },
+ {
+  "id": "erastus-snow",
+  "name": "Erastus Snow",
+  "sections": [
+   136
+  ],
+  "note": "named in v. 12; assigned with Ezra T. Benson to organize a company; later an apostle"
+ },
+ {
+  "id": "amasa-lyman",
+  "name": "Amasa Lyman",
+  "sections": [
+   136
+  ],
+  "note": "named in v. 14; apostle assigned to organize a company"
+ },
+ {
+  "id": "george-a-smith",
+  "name": "George A. Smith",
+  "sections": [
+   136
+  ],
+  "note": "named in v. 14; apostle and cousin of Joseph Smith, assigned to organize a company"
+ },
+ {
+  "id": "eve",
+  "name": "Eve",
+  "sections": [
+   138
+  ],
+  "note": "named in v. 39 among the righteous dead"
+ }
+]

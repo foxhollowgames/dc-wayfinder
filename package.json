@@ -1,0 +1,11 @@
+{
+  "name": "dc-wayfinder",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "python3 scripts/build.py",
+    "check": "python3 content/check_section.py 1-138 && node scripts/check.mjs"
+  }
+}

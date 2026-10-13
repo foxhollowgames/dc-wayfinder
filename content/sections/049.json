@@ -1,0 +1,42 @@
+{
+  "section": 49,
+  "title": "Shaker beliefs are answered on baptism, marriage, and Christ’s return",
+  "dateLabel": "7 May 1831",
+  "month": "1831-05",
+  "receivedAt": "kirtland",
+  "setting": "This revelation came at Kirtland, Ohio, on 7 May 1831. Leman Copley, a recent convert, had once belonged to the Shakers and kept some of their beliefs. Shakers taught that Christ had already returned in a woman, Ann Lee, and they practiced celibacy. Copley wanted his former community at North Union, near Cleveland, to hear the gospel. Joseph Smith asked the Lord about these questions. Sidney Rigdon read the revelation to the Shakers the next day, and they rejected it.",
+  "summary": "The revelation sends Sidney Rigdon and Parley P. Pratt to preach to the Shakers. Leman Copley is to go too, teaching only what the other two teach him. It says the Shakers want part of the truth, but not all, and must repent. It restates Peter’s message: believe, repent, be baptized, and receive the Holy Ghost. It says marriage is ordained of God and that meat is given for human use. It warns against wasting flesh and against one person possessing more than another. It says the Son of Man will not come as a woman or as a man traveling the earth. It ends with signs before Christ’s coming and a promise to go before them.",
+  "contextNote": {
+    "title": "Answering a claim about the Second Coming",
+    "text": "The Shakers believed Christ had already returned in Ann Lee. Verse 22 answers that claim directly. The Son of Man will not come “in the form of a woman,” nor as a traveling man. Verse 7 adds that no one knows the hour or day of his coming. Verse 23 tells the hearers what to watch for instead: heavens shaken and the earth reeling. So the revelation treats the coming as public and cosmic, not hidden in one person. In this passage, being “not deceived” means waiting for signs no one could miss."
+  },
+  "studyVerse": 22,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 49–50 uses this revelation to teach truths about marriage and the Savior’s coming. What reasons do verses 15–17 give for why marriage is “ordained of God”?",
+  "placeIds": [
+    "kirtland",
+    "north-union"
+  ],
+  "personIds": [
+    "sidney-rigdon",
+    "parley-p-pratt",
+    "leman-copley",
+    "joseph-smith"
+  ],
+  "newPlaces": [
+    {
+      "id": "north-union",
+      "name": "North Union (Shaker community)",
+      "why": "Shaker settlement near Cleveland, Ohio, about eighteen miles from Kirtland; destination of the mission in vv. 1–4 and the setting"
+    }
+  ],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/49?lang=eng",
+    "jsp": {
+      "title": "Revelation, 7 May 1831 [D&C 49]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-7-may-1831-dc-49",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 28 verses. Official heading gives Kirtland, May 1831, to Rigdon, Pratt, and Copley, and lists the Shaker beliefs. JSP fixes the date at 7 May 1831 (Book of Commandments and 1835 D&C wrongly say March) and gives Ashbel Kitchell’s account of the 8 May reading and rejection."
+}

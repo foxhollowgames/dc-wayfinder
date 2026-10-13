@@ -1,0 +1,26 @@
+{
+  "id": "oliver-cowdery",
+  "name": "Oliver Cowdery",
+  "role": "Book of Mormon scribe and Second Elder of the Church",
+  "life": "1806–1850",
+  "dateNote": "He began writing for Joseph Smith in April 1829 and is named second elder when the Church was organized on 6 April 1830.",
+  "locations": [
+    "harmony",
+    "fayette",
+    "independence",
+    "kirtland"
+  ],
+  "importance": "Oliver Cowdery was Joseph Smith’s main scribe for the Book of Mormon at Harmony in 1829. Early revelations speak to his wish to translate, and sections 13 and 27 say he and Joseph received priesthood from heavenly messengers. He was one of the Three Witnesses, led the 1830–31 mission to the Lamanites, and helped print the revelations in Missouri. Section 110 reports that he shared Joseph’s visions in the Kirtland temple in 1836; he was excommunicated in 1838 and readmitted in 1848.",
+  "connections": "He married Elizabeth Ann Whitmer, sister of David Whitmer, in 1832. He works closely with Joseph Smith, David Whitmer, Martin Harris, John Whitmer, Sidney Rigdon, and William W. Phelps.",
+  "linkNames": [
+    "Oliver Cowdery",
+    "Oliver"
+  ],
+  "sources": [
+    {
+      "title": "Oliver Cowdery, Joseph Smith Papers biography",
+      "url": "https://www.josephsmithpapers.org/person/oliver-cowdery"
+    }
+  ],
+  "reviewNote": "Dates, offices, excommunication (12 Apr. 1838) and 1848 readmission checked on the JSP page. linkNames: bare “Oliver” also appears inside “Oliver Granger” (D&C 117:12, 15), so the linker must prefer the longer name there."
+}

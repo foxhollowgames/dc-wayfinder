@@ -1,0 +1,47 @@
+{
+  "section": 128,
+  "title": "Records and ordinances weld the living and the dead together",
+  "dateLabel": "7 September 1842",
+  "month": "1842-09",
+  "receivedAt": "nauvoo",
+  "setting": "A week after his first letter, Joseph Smith was still hiding from officers sent to arrest him. He dictated this second letter on 7 September 1842 at the Nauvoo home of Edward Hunter. Officers from Adams County and an agent from Missouri had come for him on 3 September. The letter was read to the Saints at the grove near the temple on 11 September. That evening the general church recorder began a new book following its instructions. It was printed in the Times and Seasons on 1 October 1842.",
+  "summary": "Joseph Smith resumes the subject of baptism for the dead in a second letter. He revises his earlier instruction so each ward may have its own recorder and witnesses. A general recorder will then copy these certified records into a church book. Citing Revelation 20 and Matthew 16, he says what is recorded on earth is recorded in heaven. He calls the baptismal font a likeness of the grave, placed beneath where the living meet. Quoting Paul and Malachi, he says the living and the dead cannot be made perfect without each other. He then recalls voices from heaven: Moroni at Cumorah, Michael, Peter, James, and John, and others. He calls for courage and asks the Saints to present “a book containing the records of our dead” in the temple.",
+  "contextNote": {
+    "title": "The “welding link” between generations",
+    "text": "Verse 17 quotes Malachi: the earth will be cursed unless the hearts of fathers and children turn. Verse 18 asks what could link the generations and answers, “It is the baptism for the dead”. Verse 15 gives the reason: “they without us cannot be made perfect—neither can we without our dead”. Verse 18 then widens the idea into a “welding together of dispensations, and keys”. Verses 8–9 explain what makes such a link hold: priesthood authority and a faithful record. In this passage, the “welding link” is an ordinance, done and recorded, that joins the living and the dead."
+  },
+  "studyVerse": 18,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 125–128 teaches from verses 15–18 that the salvation of ancestors is essential to our own. According to verse 18, what “welding link” is needed, and why does verse 24 ask for a book of records?",
+  "placeIds": [
+    "nauvoo",
+    "hill-cumorah",
+    "fayette",
+    "harmony",
+    "colesville"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "moroni",
+    "adam",
+    "peter-james-john",
+    "elijah",
+    "peter-whitmer-sr"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "peter-whitmer-sr",
+      "name": "Peter Whitmer Sr.",
+      "why": "v. 21, “old Father Whitmer”; father of the Whitmer family; his log home in Fayette, New York, was where Book of Mormon translation was finished in 1829 and several early revelations came"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/128?lang=eng",
+    "jsp": {
+      "title": "Letter to the Church, 7 September 1842 [D&C 128]",
+      "url": "https://www.josephsmithpapers.org/paper-summary/letter-to-the-church-7-september-1842-dc-128",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 25 verses. Official heading gives 7 September 1842, Nauvoo, an epistle continuing the earlier letter. JSP historical introduction read: written at Edward Hunter’s home while hiding; read at the grove on 11 September; James Sloan’s new record book began that evening; printed 1 October 1842 Times and Seasons and in the 1844 D&C. Copies are dated 6 September but Joseph’s journal indicates 7 September. Gabriel, Raphael, Paul, Malachi, John the Revelator, and Peter are also named but are not in people-ids and were not added; Michael is mapped to adam per verse 21."
+}

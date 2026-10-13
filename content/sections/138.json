@@ -1,0 +1,50 @@
+{
+  "section": 138,
+  "title": "Christ organized the righteous dead to preach to all spirits",
+  "dateLabel": "3 October 1918",
+  "month": "1918-10",
+  "receivedAt": "salt-lake-city",
+  "setting": "Joseph F. Smith, President of the Church, reported this vision in Salt Lake City on 3 October 1918. The next day he told general conference he had received divine communications in recent months. The account was written down right after the conference. On 31 October 1918, his counselors, the Twelve, and the Church Patriarch accepted it unanimously.",
+  "summary": "This is a vision told in the first person by Joseph F. Smith. While pondering 1 Peter 3 and 4, he saw the faithful dead waiting for the Son of God. Christ appeared to them and preached the gospel, but he did not go to the wicked. Smith wondered how so much could be done in so short a time. He saw that Christ organized faithful spirits as messengers to teach the rest. He names many in that assembly, from Adam and Eve to Malachi, and saw Joseph and Hyrum Smith and other latter-day leaders among the dead. He saw that faithful elders continue this preaching after death. The dead who repent will be redeemed through temple ordinances.",
+  "contextNote": {
+    "title": "How the gospel reached the disobedient dead",
+    "text": "Peter said Christ preached to spirits who had been disobedient, yet his time among the dead was brief. Verse 28 voices this puzzle directly. Verse 29 answers that the Lord “went not in person” among the wicked. Verse 30 explains the method: he “organized his forces and appointed messengers” from among the righteous. Verse 57 extends the same work to faithful elders who die in this dispensation. In this passage, the key action is organizing: Christ reaches all the dead by sending authorized servants."
+  },
+  "studyVerse": 30,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 137–138 presents this vision as evidence of Christ’s reach to all the dead. How do verses 29–30 and 57 change the way you think about missionary work and temple work?",
+  "placeIds": [
+    "salt-lake-city"
+  ],
+  "personIds": [
+    "joseph-f-smith",
+    "jesus-christ",
+    "adam",
+    "joseph-smith",
+    "hyrum-smith",
+    "brigham-young",
+    "john-taylor",
+    "wilford-woodruff",
+    "elijah",
+    "moses",
+    "elias",
+    "eve"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "eve",
+      "name": "Eve",
+      "why": "named in v. 39 among the righteous dead"
+    },
+    {
+      "id": "abraham",
+      "name": "Abraham",
+      "why": "named in v. 41; also added in section 137"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/138?lang=eng",
+    "jsp": null
+  },
+  "reviewNote": "Read all 60 verses. Official heading gives 3 October 1918, Salt Lake City; announced at general conference on 4 October; written right after the conference; accepted unanimously on 31 October 1918 by the counselors, the Twelve, and the Patriarch. dateLabel '3 October 1918' is supported by the heading and by v. 1. No JSP document (twentieth century). Many other biblical figures named (Abel, Seth, Noah, Shem, Isaac, Jacob, Isaiah, Ezekiel, Daniel, Malachi, Peter) were not added as newPeople; add them if the gazetteer wants every named figure. Fact-check 2026-10-12: summary implied Joseph and Hyrum Smith were among the messengers Christ organized; verses 53–56 place them in the spirit world as spirits reserved for the latter days. Corrected."
+}

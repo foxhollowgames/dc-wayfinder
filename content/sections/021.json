@@ -1,0 +1,34 @@
+{
+  "section": 21,
+  "title": "The new church must receive the prophet’s word as the Lord’s",
+  "dateLabel": "6 April 1830",
+  "month": "1830-04",
+  "receivedAt": "fayette",
+  "setting": "On 6 April 1830 Joseph Smith and others met at Peter Whitmer Sr.’s home in Fayette, New York, to organize the Church. The group voted unanimously to accept Joseph and Oliver Cowdery as their teachers. Joseph ordained Oliver an elder, and Oliver ordained Joseph. They took bread and wine and laid hands on those present to confirm them. While the group was still together, Joseph dictated this revelation. Some early sources placed the event in Manchester, but the earliest manuscript and eyewitnesses support Fayette.",
+  "summary": "The revelation commands that a record be kept. In it Joseph Smith is to be called a seer, translator, prophet, apostle, and elder. It dates the Church’s organization to 6 April 1830. It tells the Church to heed Joseph’s words as if from the Lord’s own mouth, in patience and faith. If they do, the gates of hell will not prevail against them. It says the Lord has seen Joseph’s weeping for Zion and has forgiven him. It directs Oliver Cowdery to ordain Joseph. It calls Oliver an elder under Joseph’s hand and the Church’s first preacher.",
+  "contextNote": {
+    "title": "How to hear a prophet’s words",
+    "text": "The new members had to know how to treat Joseph’s revelations within the Church. Verse 4 tells them to heed “all his words and commandments” as he receives them. Verse 5 says to receive his word “as if from mine own mouth,” that is, as the Lord’s. The same verse adds the manner: “in all patience and faith,” not in haste. Verse 6 states the result, that the gates of hell will not prevail against them. In this passage, receiving the prophet’s word means accepting it with patience over time, not only with quick assent."
+  },
+  "studyVerse": 5,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 20–22, “The Rise of the Church of Christ,” teaches about following the Lord’s prophet. Verse 5 asks for “patience and faith”; why might patience be needed to receive a prophet’s counsel, and what does verse 6 promise?",
+  "placeIds": [
+    "fayette",
+    "manchester"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "oliver-cowdery"
+  ],
+  "newPlaces": [],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/21?lang=eng",
+    "jsp": {
+      "title": "Revelation, 6 April 1830 [D&C 21]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-6-april-1830-dc-21",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 12 verses. Official heading gives Fayette, 6 April 1830, at Peter Whitmer Sr.’s home, with six baptized men participating. JSP historical introduction read for the Fayette vs. Manchester question; JSP concludes Fayette. Manchester is in placeIds only because the setting mentions the competing tradition. Peter Whitmer Sr. is not in people-ids and is not named in the text, so he was not added. Fact-check 2026-10-12: summary no longer implies that ordaining Joseph made Oliver an elder; verse 11 says Oliver is an elder under Joseph’s hand. Setting confirmed against JSP."
+}

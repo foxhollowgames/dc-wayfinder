@@ -1,0 +1,45 @@
+{
+  "section": 125,
+  "title": "Scattered Iowa Saints are told to gather and build Zarahemla",
+  "dateLabel": "Early March 1841",
+  "month": "1841-03",
+  "receivedAt": "nauvoo",
+  "setting": "After leaving Missouri in 1839, most Latter-day Saints settled in Hancock County, Illinois. Smaller groups lived in scattered settlements across the river in Iowa Territory. In early March 1841, Joseph Smith dictated this answer at Nauvoo to a question about those Iowa Saints. It may relate to an 11 March visit by John Smith, who led the Iowa stake, to learn the Lord’s will. The exact day is uncertain because the first copy was made later without a date.",
+  "summary": "The section opens with a question about the Lord’s will for the Saints in Iowa Territory. The answer sets a condition: if they will do his will, they should gather. They are to gather to places the Lord appoints through Joseph Smith. They are to build cities so they will be ready for what is coming. The revelation names a city to be built across the river from Nauvoo, called Zarahemla. People arriving from every direction may settle there. They may also take inheritances in Nashville, in Nauvoo, or in the appointed stakes.",
+  "contextNote": {
+    "title": "Gathering instead of scattering",
+    "text": "The Iowa Saints were spread across small, isolated settlements. Verse 2 answers by telling them to gather to appointed places and build cities. The gathering is conditional: it applies to those who “will do my will”. Verse 3 then makes the order concrete by naming one city, Zarahemla, opposite Nauvoo. Verse 4 opens it to newcomers “from the east, and the west, and the north, and the south”. The stated purpose in verse 2 is to be “prepared for that which is in store”. In this passage, gathering means building together in named places, not settling alone."
+  },
+  "studyVerse": 2,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 125–128 includes this revelation but centers its study on sections 126–128. Why might verse 2 tie gathering to being “prepared for that which is in store,” and what does verse 4 add?",
+  "placeIds": [
+    "nauvoo",
+    "zarahemla",
+    "nashville-iowa"
+  ],
+  "personIds": [
+    "joseph-smith"
+  ],
+  "newPlaces": [
+    {
+      "id": "zarahemla",
+      "name": "Zarahemla, Iowa Territory",
+      "why": "v. 3; Latter-day Saint town in Lee County, Iowa Territory, opposite Nauvoo, about a mile west of the Mississippi near Montrose"
+    },
+    {
+      "id": "nashville-iowa",
+      "name": "Nashville, Iowa Territory",
+      "why": "v. 4; town in Lee County, Iowa Territory, bought by the Church in 1839 and a branch of the Iowa stake"
+    }
+  ],
+  "newPeople": [],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/125?lang=eng",
+    "jsp": {
+      "title": "Revelation, circa Early March 1841, as Recorded in Pettegrew, “History of David Pettegrew” [D&C 125]",
+      "url": "https://www.josephsmithpapers.org/paper-summary/revelation-circa-early-march-1841-as-recorded-in-pettegrew-history-of-david-pettegrew-dc-125/",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 4 verses. Official heading gives Nauvoo, March 1841, concerning Saints in Iowa Territory. The JSP page loaded is the Pettegrew copy; its historical introduction points to the base document, which I read through the JSP Doctrine and Covenants Study Companion (churchofjesuschrist.org jsp-revelations dc-125). That introduction gives early March 1841, notes Robert B. Thompson copied it undated around 20 March, and links it possibly to John Smith’s 11 March visit. Who posed the question is not certain. John Smith (Joseph’s uncle, Iowa stake president) is not in people-ids and not named in the text, so not added. Fact-check 2026-10-12: no changes."
+}

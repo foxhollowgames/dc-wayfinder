@@ -1,0 +1,41 @@
+{
+  "section": 80,
+  "title": "Where to preach matters less than what one knows",
+  "dateLabel": "7 March 1832",
+  "month": "1832-03",
+  "receivedAt": "hiram",
+  "setting": "Stephen Burnett was a young Ohio convert, ordained a high priest at seventeen in October 1831. A January 1832 revelation paired him with Ruggles Eames, but it is unclear whether they served. On 7 March 1832, at Hiram, Ohio, Joseph Smith dictated this new call. Eden Smith fell ill that same day, so the two did not preach together until August 1832. One manuscript copy dates it 17 March, but editors favor 7 March.",
+  "summary": "The revelation tells Stephen Burnett to go into the world and preach to all who hear his voice. Because he wants a companion, it gives him Eden Smith. It says they “cannot go amiss” whether they go north, south, east, or west. It tells them to declare what they have heard, believe, and know to be true. It closes by naming the one who calls them as Jesus Christ.",
+  "contextNote": {
+    "title": "Preaching from what one knows",
+    "text": "A new missionary might worry most about where to go. Verse 3 sets that worry aside: any direction will do. Verse 4 moves the weight to the message itself. They must declare what they have heard, believe, and know to be true. The three verbs move from hearing to belief to knowledge. In this passage, the call rests on personal witness, not on a chosen route."
+  },
+  "studyVerse": 4,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 77–80, “I Will Lead You Along,” includes this short call to two missionaries. What have you heard, believed, and come to know that verse 4 would invite you to declare?",
+  "placeIds": [
+    "hiram"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "stephen-burnett",
+    "eden-smith",
+    "jesus-christ"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "eden-smith",
+      "name": "Eden Smith",
+      "why": "named in v. 2 as Stephen Burnett’s companion; son of John Smith of Ohio"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/80?lang=eng",
+    "jsp": {
+      "title": "Revelation, 7 March 1832 [D&C 80]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-7-march-1832-dc-80",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 5 verses. Heading gives Hiram, 7 March 1832. JSP historical introduction gives Burnett’s age and October 1831 call, the January 1832 assignment, Eden Smith’s illness, and the 7 vs. 17 March date question. The JSP page text loaded with some names and places missing, so “Ohio convert” and the January companion are stated generally. Fact-check 2026-10-12: setting said Burnett was called to a mission in October 1831; JSP says he was ordained a high priest at the October 1831 Orange conference. Named Ruggles Eames as the January 1832 companion (JSP; D&C 75:35). ldsText no longer calls both men young (Eden Smith was born in 1806)."
+}

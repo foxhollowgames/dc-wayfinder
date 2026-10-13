@@ -1,0 +1,40 @@
+{
+  "section": 108,
+  "title": "A troubled Seventy is told to rest and wait",
+  "dateLabel": "26 December 1835",
+  "month": "1835-12",
+  "receivedAt": "kirtland",
+  "setting": "Lyman Sherman joined the church in New York in 1832 and moved to Kirtland in 1833. He marched with Zion’s Camp and was called in February 1835 as one of seven presidents of the Seventy. On 26 December 1835 he visited Joseph Smith, who was studying Hebrew. Sherman said he had been promised a revelation that would make known his duty. Joseph dictated this response that day, likely with Frederick G. Williams as scribe.",
+  "summary": "The revelation tells Lyman that his sins are forgiven because he came that morning to seek counsel. It tells him to let his soul rest about his spiritual standing and to resist the Lord’s voice no more. He should keep his vows more carefully and will be greatly blessed. He is to wait for the solemn assembly. Then he will be remembered with the first elders and ordained with them. From that time he will have right to preach wherever he is sent. He is to strengthen his brethren in conversation, prayer, exhortation, and action. The Lord promises to be with him to bless and deliver him.",
+  "contextNote": {
+    "title": "Rest that comes from obeying a prompting",
+    "text": "Sherman came worried about his standing and his duty. Verse 1 links forgiveness to a simple act: he obeyed “in coming up hither this morning”. Verse 2 then tells him to “let your soul be at rest”. The same verse adds “resist no more my voice,” suggesting he had held back before. Verse 7 turns that rest outward, asking him to strengthen his brethren. In this passage, rest is settled confidence about his standing, given so he can serve others."
+  },
+  "studyVerse": 2,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 106–108 cites verse 7 to teach that the Lord supports those he calls to serve. What does verse 7 ask of Lyman, and how might it follow from the peace offered in verse 2?",
+  "placeIds": [
+    "kirtland"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "lyman-sherman",
+    "frederick-g-williams"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "lyman-sherman",
+      "name": "Lyman R. Sherman",
+      "why": "Addressed as “Lyman” in v. 1; one of the seven presidents of the Seventy, called February 1835."
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/108?lang=eng",
+    "jsp": {
+      "title": "Revelation, 26 December 1835 [D&C 108]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-26-december-1835-dc-108",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 8 verses. Official heading gives Kirtland, 26 December 1835, to Lyman Sherman at his request. JSP introduction read for his background, the Hebrew study with Frederick G. Williams and Warren Parrish, and Williams as likely scribe. Middle initial R. for Sherman is from general knowledge, not the pages read. Fact-check 2026-10-12: ldsText adjusted to the lesson’s actual teaching (the Lord supports those he calls to serve, citing 108:7)."
+}

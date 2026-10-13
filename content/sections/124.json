@@ -1,0 +1,36 @@
+{
+  "section": 124,
+  "title": "Nauvoo must build a temple where sacred ordinances belong",
+  "dateLabel": "19 January 1841",
+  "month": "1841-01",
+  "receivedAt": "nauvoo",
+  "setting": "Joseph Smith dictated this revelation at Nauvoo, Illinois, on 19 January 1841. The Saints had been forced out of Missouri after Governor Lilburn Boggs’s order of 27 October 1838. They settled at Commerce, Illinois, renamed it Nauvoo, and made it Church headquarters. Joseph Smith Sr., David Patten, and Edward Partridge had died since 1838. Church clerk Robert Thompson copied the revelation into the Book of the Law of the Lord.",
+  "summary": "The revelation accepts Joseph’s offering and calls for a proclamation to the kings and rulers of the earth. It names helpers, including Robert Thompson and John Bennett, and praises Hyrum Smith and George Miller. It commands the Saints to bring their wealth and skill and build a temple in Nauvoo. Baptisms for the dead outside the temple are accepted only for a set time. If the Saints do not build, they will be rejected as a church with their dead. The Lord accepts the offering of those hindered in Jackson County and tells the Saints to build again. A boarding house called the Nauvoo House is to be funded by stock under set rules. The revelation then counsels many individuals, calls Hyrum as patriarch, adds William Law to the First Presidency, and names the Church’s quorum leaders.",
+  "contextNote": {
+    "title": "When enemies stop the work",
+    "text": "The Saints had been told to build a city and temple in Jackson County, but mobs drove them out in 1833. That left a question: had they failed a command? Verse 49 says that when people work with all their might and enemies hinder them, God no longer requires the work. Instead he accepts “their offerings”. Verse 51 applies this rule directly to Jackson County. Verse 55 then gives a new command to build in Nauvoo. In this passage, accepting an offering means the effort counts even when the result was blocked."
+  },
+  "studyVerse": 49,
+  "ldsText": "The 2025 Come, Follow Me lesson for section 124, “A House unto My Name,” presents the temple as the place for sacred ordinances. According to verses 39–41, what were the Saints to receive in a house built to the Lord’s name?",
+  "placeIds": ["nauvoo", "independence", "kirtland", "warsaw", "carthage", "burlington", "fort-madison"],
+  "personIds": ["joseph-smith", "robert-b-thompson", "hyrum-smith", "john-c-bennett", "lyman-wight", "david-w-patten", "edward-partridge", "joseph-smith-sr", "george-miller", "vinson-knight", "william-marks", "william-law", "sidney-rigdon", "oliver-cowdery", "moses", "brigham-young", "heber-c-kimball", "parley-p-pratt", "orson-pratt", "orson-hyde", "john-taylor", "wilford-woodruff", "willard-richards", "samuel-smith", "john-snider", "peter-haws", "isaac-galland", "almon-babbitt", "henry-g-sherwood", "robert-d-foster", "amos-davies", "don-carlos-smith"],
+  "newPlaces": [
+    {"id": "burlington", "name": "Burlington, Iowa Territory", "why": "v. 88: William Law is sent to preach to its inhabitants"},
+    {"id": "fort-madison", "name": "Fort Madison, Iowa Territory", "why": "v. 88: 'Madison', listed with Warsaw, Carthage, and Burlington as a place for William Law to preach; identified as Fort Madison, Iowa"}
+  ],
+  "newPeople": [
+    {"id": "john-snider", "name": "John Snider", "why": "named in vv. 22, 62, 70; one of the Nauvoo House building committee"},
+    {"id": "peter-haws", "name": "Peter Haws", "why": "named in vv. 62, 70; one of the Nauvoo House building committee"},
+    {"id": "isaac-galland", "name": "Isaac Galland", "why": "named in vv. 78–79; land agent who sold the Church land at Commerce and in Iowa, later baptized"},
+    {"id": "almon-babbitt", "name": "Almon W. Babbitt", "why": "named in v. 84; rebuked for setting up his own counsel against the First Presidency"},
+    {"id": "henry-g-sherwood", "name": "Henry G. Sherwood", "why": "named in vv. 81, 132; Nauvoo House stockholder and high council member"},
+    {"id": "robert-d-foster", "name": "Robert D. Foster", "why": "named in vv. 115–118; Nauvoo physician told to repent and build a house for Joseph Smith"},
+    {"id": "amos-davies", "name": "Amos Davies", "why": "named in vv. 111–114; Commerce/Nauvoo merchant told to buy Nauvoo House stock"},
+    {"id": "don-carlos-smith", "name": "Don Carlos Smith", "why": "named in v. 133; Joseph Smith's youngest brother, called as president of the high priests quorum"}
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/124?lang=eng",
+    "jsp": {"title": "Revelation, 19 January 1841 [D&C 124]", "url": "https://www.josephsmithpapers.org/paperSummary/revelation-19-january-1841-dc-124", "checked": true}
+  },
+  "reviewNote": "Read all 145 verses. Official heading gives Nauvoo, 19 January 1841, with background on Boggs's order and the settling of Commerce. JSP historical introduction read for Robert B. Thompson's copy in the Book of the Law of the Lord, the proclamation (later written by Parley P. Pratt, published 1845), the Nauvoo House, and John C. Bennett reading the revelation at the 7 April 1841 conference. The 1833 Jackson County expulsion is general history. Many people named only in the quorum lists (vv. 129–142) were not added as newPeople. 'Madison' in v. 88 is identified as Fort Madison, Iowa; this should be verified. Short descriptions of Galland, Davies, Foster, and Babbitt are from general knowledge, not JSP."
+}

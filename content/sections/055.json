@@ -1,0 +1,42 @@
+{
+  "section": 55,
+  "title": "A printer’s skills are called into the Church’s work",
+  "dateLabel": "14 June 1831",
+  "month": "1831-06",
+  "receivedAt": "kirtland",
+  "setting": "William W. Phelps was a newspaper editor and printer from Canandaigua, New York. He bought a Book of Mormon in 1830 and met Joseph Smith that December. In spring 1831 he spent thirty days in jail at Lyons, apparently over a debt. After his release, he moved his family to Ohio. He reached Kirtland by 14 June 1831, and Joseph Smith asked the Lord about him.",
+  "summary": "The revelation tells William Phelps that he is called and chosen. If baptized with an eye single to God’s glory, he will receive forgiveness and the Holy Spirit. Then Joseph Smith is to ordain him an elder to preach repentance and baptism. He may give the Holy Spirit to those who are contrite. He is to help Oliver Cowdery with printing and with writing books for schools. He is to travel with Joseph Smith and Sidney Rigdon to the land of inheritance. Joseph Coe is to go with them as well.",
+  "contextNote": {
+    "title": "Printing and schoolbooks as Church work",
+    "text": "Phelps arrived in Kirtland with years of experience as a printer and editor. Verse 4 puts that experience to use for the Church. He is to help Oliver Cowdery print, and to select and write books for schools. The reason given is that “little children also may receive instruction”. Verse 5 ties this work to a place, the land of inheritance. In this passage, printing belongs to the Church’s teaching mission, reaching even children."
+  },
+  "studyVerse": 4,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 51–57 includes this call to William W. Phelps. According to verse 4, why were schoolbooks to be written, and who were they meant to help?",
+  "placeIds": [
+    "kirtland"
+  ],
+  "personIds": [
+    "william-w-phelps",
+    "joseph-smith",
+    "oliver-cowdery",
+    "sidney-rigdon",
+    "joseph-coe"
+  ],
+  "newPlaces": [],
+  "newPeople": [
+    {
+      "id": "joseph-coe",
+      "name": "Joseph Coe",
+      "why": "named in 55:6; told to travel to Missouri with Joseph Smith and Sidney Rigdon"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/55?lang=eng",
+    "jsp": {
+      "title": "Revelation, 14 June 1831 [D&C 55]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-14-june-1831-dc-55",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 6 verses. Official heading gives Kirtland, 14 June 1831, to W. W. Phelps after his arrival. JSP adds his Canandaigua newspaper, the 1830 purchase of the Book of Mormon, the December 1830 visit to Fayette, and the Lyons jailing. Uncertain: Phelps later dated his baptism 16 June 1831, yet Minute Book 2 lists him among elders ordained from 6 June; JSP footnotes discuss this. Fact-check 2026-10-12: no changes."
+}

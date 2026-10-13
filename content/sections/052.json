@@ -1,0 +1,104 @@
+{
+  "section": 52,
+  "title": "Elders go to Missouri two by two with a pattern against deception",
+  "dateLabel": "6 June 1831",
+  "month": "1831-06",
+  "receivedAt": "kirtland",
+  "setting": "This revelation came at Kirtland, Ohio, on 6 June 1831. It followed a Church conference held there in early June. At that conference, men were first ordained to the office of high priest. Participants also reported discerning and rebuking false spirits. Joseph Smith dictated the revelation that night and later said it came by vision.",
+  "summary": "The revelation names Missouri as the site of the next conference. Joseph Smith and Sidney Rigdon are to travel there soon. If faithful, they will learn where the land of inheritance is. It pairs many other elders and sends them by different routes, preaching on the way. It warns Lyman Wight that Satan desires to sift him. It gives a pattern for knowing which spirits are of God. It sends Joseph Wakefield and Solomon Humphrey east and moves Heman Basset’s office to Simonds Ryder. It tells all elders to remember the poor, needy, sick, and afflicted.",
+  "contextNote": {
+    "title": "A pattern for judging spirits",
+    "text": "The June conference included spiritual displays that leaders judged false. Verse 14 promises a pattern “that ye may not be deceived”. Verse 15 starts with the one who prays with a contrite spirit. Verse 16 adds the speaker whose language is “meek and edifieth”. Both are accepted only if they “obey mine ordinances”. Verse 18 gives the contrast: one who is overcome and bears no fruit is not of God. In this passage, the pattern joins inner humility, edifying speech, and obedience."
+  },
+  "studyVerse": 16,
+  "ldsText": "The 2025 Come, Follow Me lesson for sections 51–57 points to the pattern in verses 14–19 for avoiding deception. How could you use verses 15–17 to judge whether a message you hear is of God?",
+  "placeIds": [
+    "kirtland",
+    "independence",
+    "detroit"
+  ],
+  "personIds": [
+    "joseph-smith",
+    "sidney-rigdon",
+    "lyman-wight",
+    "john-corrill",
+    "john-murdock",
+    "hyrum-smith",
+    "thomas-b-marsh",
+    "ezra-thayre",
+    "isaac-morley",
+    "ezra-booth",
+    "edward-partridge",
+    "martin-harris",
+    "david-whitmer",
+    "harvey-whitlock",
+    "parley-p-pratt",
+    "orson-pratt",
+    "levi-w-hancock",
+    "zebedee-coltrin",
+    "reynolds-cahoon",
+    "samuel-smith",
+    "newel-knight",
+    "joseph-wakefield",
+    "simonds-ryder",
+    "oliver-cowdery"
+  ],
+  "newPlaces": [
+    {
+      "id": "detroit",
+      "name": "Detroit",
+      "why": "v. 8 sends John Murdock and Hyrum Smith to Missouri by way of Detroit"
+    }
+  ],
+  "newPeople": [
+    {
+      "id": "newel-knight",
+      "name": "Newel Knight",
+      "why": "named in 52:32 and addressed in 54:2; leader of the Colesville Saints"
+    },
+    {
+      "id": "joseph-wakefield",
+      "name": "Joseph Wakefield",
+      "why": "named in 52:35 and 50:37; sent to the eastern lands"
+    },
+    {
+      "id": "ezra-booth",
+      "name": "Ezra Booth",
+      "why": "named in 52:23; former Methodist minister who traveled to Missouri and later left the Church"
+    },
+    {
+      "id": "harvey-whitlock",
+      "name": "Harvey Whitlock",
+      "why": "named in 52:25; ordained a high priest at the June 1831 conference"
+    },
+    {
+      "id": "levi-w-hancock",
+      "name": "Levi W. Hancock",
+      "why": "named in 52:29; his autobiography is a key source for the June 1831 conference"
+    },
+    {
+      "id": "zebedee-coltrin",
+      "name": "Zebedee Coltrin",
+      "why": "named in 52:29; elder sent to Missouri"
+    },
+    {
+      "id": "reynolds-cahoon",
+      "name": "Reynolds Cahoon",
+      "why": "named in 52:30; elder sent to Missouri"
+    },
+    {
+      "id": "simonds-ryder",
+      "name": "Simonds Ryder",
+      "why": "named in 52:37; received the office taken from Heman Basset"
+    }
+  ],
+  "sources": {
+    "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/52?lang=eng",
+    "jsp": {
+      "title": "Revelation, 6 June 1831 [D&C 52]",
+      "url": "https://www.josephsmithpapers.org/paperSummary/revelation-6-june-1831-dc-52",
+      "checked": true
+    }
+  },
+  "reviewNote": "Read all 44 verses. Official heading gives Kirtland, 6 June 1831, to the elders, after the 3–6 June conference with the first high priest ordinations and rebuking of false spirits. JSP adds that Joseph dictated it that night and later described it as received by vision. Independence is not named in the text; it stands for the Missouri destination (the August 1831 conference was in Jackson County). Named elders not given ids: Solomon Hancock, Simeon Carter, Edson Fuller, Jacob Scott, Wheeler Baldwin, William Carter, Selah J. Griffin, Solomon Humphrey, Heman Basset, Jared Carter, George James. Fact-check 2026-10-12: no changes. Setting checked against the official heading and JSP historical introduction."
+}

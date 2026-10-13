@@ -1,0 +1,12 @@
+{
+  "id": "od1",
+  "title": "The Church ends the public practice of plural marriage",
+  "dateLabel": "24 September 1890",
+  "month": "1890-09",
+  "receivedAt": "salt-lake-city",
+  "setting": "In the 1880s, federal laws made plural marriage a crime and targeted the Church’s property. The Edmunds-Tucker Act of 1887 disincorporated the Church and allowed seizure of its assets. Many Church leaders were jailed or went into hiding, and temples were at risk. In 1890 the Supreme Court upheld the seizure law. President Wilford Woodruff issued this statement on 24 September 1890.",
+  "summary": "This is an official statement, often called the Manifesto, issued by President Wilford Woodruff. It denies reports that the Church was still teaching or performing plural marriages. Woodruff says he will submit to the federal laws against plural marriage and urges members to do the same. On 6 October 1890, general conference voted to accept it as authoritative and binding. Excerpts from three of Woodruff’s later addresses follow it. In them he says the Lord showed him that, without the change, temple work would stop and leaders would be jailed.",
+  "ldsText": "The 2025 Come, Follow Me lesson “We Believe”: Articles of Faith and Official Declarations 1 and 2 asks what Woodruff’s reasons teach about God’s work. In the 1891 excerpt, what two outcomes does Woodruff ask members to weigh, and why does he say the change was needed?",
+  "officialUrl": "https://www.churchofjesuschrist.org/study/scriptures/dc-testament/od/1?lang=eng",
+  "reviewNote": "Fact-check 2026-10-12: ldsText did not name the Come, Follow Me 2025 lesson; added the 8–14 December lesson (it is missing from cfm-2025.json). Setting and summary checked against the official OD1 page and found accurate."
+}

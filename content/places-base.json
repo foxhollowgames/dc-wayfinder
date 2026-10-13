@@ -1,0 +1,240 @@
+[
+ {
+  "id": "palmyra",
+  "name": "Palmyra",
+  "lat": 43.0637,
+  "lng": -77.2333,
+  "summary": "Village in Wayne County, New York, near the Smith family farm."
+ },
+ {
+  "id": "manchester",
+  "name": "Manchester",
+  "lat": 43.036,
+  "lng": -77.24,
+  "summary": "Smith family farm in Manchester Township, just south of Palmyra."
+ },
+ {
+  "id": "hill-cumorah",
+  "name": "Hill Cumorah",
+  "lat": 42.9946,
+  "lng": -77.2236,
+  "summary": "Drumlin hill south of the Smith farm."
+ },
+ {
+  "id": "harmony",
+  "name": "Harmony",
+  "lat": 41.9617,
+  "lng": -75.6103,
+  "summary": "Township on the Susquehanna River in Susquehanna County, Pennsylvania; now Oakland."
+ },
+ {
+  "id": "fayette",
+  "name": "Fayette",
+  "lat": 42.866,
+  "lng": -76.858,
+  "summary": "Peter Whitmer Sr. farm in Fayette Township, Seneca County, New York."
+ },
+ {
+  "id": "colesville",
+  "name": "Colesville",
+  "lat": 42.21,
+  "lng": -75.6,
+  "summary": "Broome County, New York, home of the Joseph Knight Sr. family."
+ },
+ {
+  "id": "perrysburg",
+  "name": "Perrysburg",
+  "lat": 42.4567,
+  "lng": -79.0006,
+  "summary": "Town in Cattaraugus County, New York."
+ },
+ {
+  "id": "freedom",
+  "name": "Freedom",
+  "lat": 42.49,
+  "lng": -78.36,
+  "summary": "Town in Cattaraugus County, New York."
+ },
+ {
+  "id": "new-york-city",
+  "name": "New York City",
+  "lat": 40.7128,
+  "lng": -74.006,
+  "summary": "Largest city in the United States in the 1830s."
+ },
+ {
+  "id": "albany",
+  "name": "Albany",
+  "lat": 42.6526,
+  "lng": -73.7562,
+  "summary": "Capital of New York State."
+ },
+ {
+  "id": "boston",
+  "name": "Boston",
+  "lat": 42.3601,
+  "lng": -71.0589,
+  "summary": "Capital of Massachusetts."
+ },
+ {
+  "id": "salem",
+  "name": "Salem",
+  "lat": 42.5195,
+  "lng": -70.8967,
+  "summary": "Port town in Essex County, Massachusetts."
+ },
+ {
+  "id": "kirtland",
+  "name": "Kirtland",
+  "lat": 41.6259,
+  "lng": -81.3615,
+  "summary": "Township in Geauga County (now Lake County), Ohio; Church headquarters 1831–1838."
+ },
+ {
+  "id": "hiram",
+  "name": "Hiram",
+  "lat": 41.3125,
+  "lng": -81.143,
+  "summary": "Portage County, Ohio; the John and Elsa Johnson farm."
+ },
+ {
+  "id": "thompson",
+  "name": "Thompson",
+  "lat": 41.6795,
+  "lng": -81.0497,
+  "summary": "Township in Geauga County, Ohio, where Colesville Saints first settled."
+ },
+ {
+  "id": "amherst",
+  "name": "Amherst",
+  "lat": 41.3978,
+  "lng": -82.2224,
+  "summary": "Town in Lorain County, Ohio."
+ },
+ {
+  "id": "cincinnati",
+  "name": "Cincinnati",
+  "lat": 39.1031,
+  "lng": -84.512,
+  "summary": "Ohio River city on the route between Kirtland and Missouri."
+ },
+ {
+  "id": "st-louis",
+  "name": "St. Louis",
+  "lat": 38.627,
+  "lng": -90.1994,
+  "summary": "Mississippi River city near the mouth of the Missouri."
+ },
+ {
+  "id": "independence",
+  "name": "Independence",
+  "lat": 39.0911,
+  "lng": -94.4155,
+  "summary": "Seat of Jackson County, Missouri, on the western edge of the United States."
+ },
+ {
+  "id": "indian-lands",
+  "name": "Lands west of Missouri",
+  "lat": 39.08,
+  "lng": -94.8,
+  "summary": "Delaware and Shawnee lands just west of the Missouri state line, then outside any state."
+ },
+ {
+  "id": "chariton",
+  "name": "Chariton",
+  "lat": 39.2275,
+  "lng": -92.8463,
+  "summary": "Former river town at the mouth of the Chariton River, Missouri."
+ },
+ {
+  "id": "mcilwaines-bend",
+  "name": "McIlwaine’s Bend",
+  "lat": 39.3217,
+  "lng": -93.2277,
+  "summary": "A bend of the Missouri River upstream from Chariton."
+ },
+ {
+  "id": "fishing-river",
+  "name": "Fishing River",
+  "lat": 39.3392,
+  "lng": -94.2261,
+  "summary": "Stream in Clay County, Missouri, near present Excelsior Springs."
+ },
+ {
+  "id": "liberty",
+  "name": "Liberty",
+  "lat": 39.2461,
+  "lng": -94.4191,
+  "summary": "Seat of Clay County, Missouri; site of the county jail."
+ },
+ {
+  "id": "far-west",
+  "name": "Far West",
+  "lat": 39.7578,
+  "lng": -94.0461,
+  "summary": "Latter-day Saint town in Caldwell County, Missouri, founded 1836."
+ },
+ {
+  "id": "adam-ondi-ahman",
+  "name": "Adam-ondi-Ahman",
+  "lat": 39.978,
+  "lng": -93.975,
+  "summary": "Settlement at Spring Hill on the Grand River, Daviess County, Missouri."
+ },
+ {
+  "id": "quincy",
+  "name": "Quincy",
+  "lat": 39.9356,
+  "lng": -91.4099,
+  "summary": "Illinois river town that sheltered Saints expelled from Missouri."
+ },
+ {
+  "id": "nauvoo",
+  "name": "Nauvoo",
+  "lat": 40.5503,
+  "lng": -91.3849,
+  "summary": "Hancock County, Illinois; formerly Commerce; Church headquarters 1839–1846."
+ },
+ {
+  "id": "montrose",
+  "name": "Montrose",
+  "lat": 40.5311,
+  "lng": -91.4146,
+  "summary": "Lee County, Iowa Territory, across the Mississippi from Nauvoo."
+ },
+ {
+  "id": "ramus",
+  "name": "Ramus",
+  "lat": 40.45,
+  "lng": -91.0,
+  "summary": "Settlement in Hancock County, Illinois, later called Macedonia and now Webster."
+ },
+ {
+  "id": "carthage",
+  "name": "Carthage",
+  "lat": 40.4142,
+  "lng": -91.1363,
+  "summary": "Seat of Hancock County, Illinois."
+ },
+ {
+  "id": "warsaw",
+  "name": "Warsaw",
+  "lat": 40.3592,
+  "lng": -91.4346,
+  "summary": "Mississippi River town in Hancock County, Illinois."
+ },
+ {
+  "id": "winter-quarters",
+  "name": "Winter Quarters",
+  "lat": 41.3366,
+  "lng": -95.9621,
+  "summary": "Camp on the west bank of the Missouri River, now in Omaha, Nebraska."
+ },
+ {
+  "id": "salt-lake-city",
+  "name": "Salt Lake City",
+  "lat": 40.7608,
+  "lng": -111.891,
+  "summary": "Church headquarters from 1847."
+ }
+]

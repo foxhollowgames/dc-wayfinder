@@ -1,3 +1,4 @@
+// Shared Wayfinder viewer file. Edit Wayfinder/viewer/chapter-map.js, then run npm run sync-viewer. Hash 54e65f35dd3e.
 // Pure helpers shared by the map and the chapter geography checks.
 export function chapterFocus(data, chapter) {
   return data.chapterMaps?.find(item => item.chapter === Number(chapter));

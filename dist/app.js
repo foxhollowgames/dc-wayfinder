@@ -1,19 +1,20 @@
-import { initChapterPicker } from './chapter-picker.js?v=20261013.1';
-import { people, featurePortraits, wordPortraits, personProfileHtml, personIdForLabel, setPeople, setPortraitMode, webpCopy, webpSourceHtml } from './portraits.js?v=20261013.1';
-import { initMenu, readPreferences, savePreferences } from './settings-menu.js?v=20261013.1';
-import { initModalDragging } from './modal-drag.js?v=20261013.1';
-import { chapterFocus, chapterRoutes, chapterPoints, movementStyle } from './chapter-map.js?v=20261013.1';
+// Shared Wayfinder viewer file. Edit Wayfinder/viewer/app.js, then run npm run sync-viewer. Hash 4daf317120ee.
+import { initChapterPicker } from './chapter-picker.js?v=20261016.2';
+import { people, featurePortraits, wordPortraits, personProfileHtml, personIdForLabel, setPeople, setPortraitMode, webpCopy, webpSourceHtml } from './portraits.js?v=20261016.2';
+import { initMenu, readPreferences, savePreferences } from './settings-menu.js?v=20261016.2';
+import { initModalDragging } from './modal-drag.js?v=20261016.2';
+import { chapterFocus, chapterRoutes, chapterPoints, movementStyle } from './chapter-map.js?v=20261016.2';
 const $ = (s, root = document) => root.querySelector(s);
 const $$ = (s, root = document) => [...root.querySelectorAll(s)];
-const releaseVersion = '20261013.1';
+const releaseVersion = '20261016.2';
 // One reader serves every book. native-book.js names the book. The book's content file supplies its settings.
 const book = { id: '', name: '', bibleCode: '', chapterCount: 0, chapterDigits: 2, ...globalThis.studyBook };
 const storageKey = `${book.id}-native-study-state`;
 const dataFile = part => `data/books/${book.id}-${part}.json`;
 let chapters = [];
-// Sections with a path, story area, or place of loss on the map. The event buttons step through these.
+// Chapters or sections with a path, story area, or place of loss on the map. The scrubber and the event buttons step through these.
 let mapEvents = [];
-// The dated map snaps to these dates: each event section's date and the start of each drawn path.
+// A dated map snaps to these dates: each map event's date, the start of each drawn path, and the book's dated milestones.
 let mapEventDates = [];
 // A book with dated events has a date timeline. Other books use chapter order.
 const defaults = { chapter: 1, verse: 1, studyMode: 'read', view: 'map', perspective: 'historical', portraitMode: 'generated', date: 1, layers: { places: true, regions: true, campaigns: true, roads: false, history: false }, sidebar: 'scripture', map: { center: [32.1, 35.0], zoom: 7 } };
@@ -172,7 +173,7 @@ async function load() {
   Object.assign(book, data.book);
   chapters = Array.from({ length: book.chapterCount }, (_, i) => i + 1);
   mapEvents = chapters.filter(isEventChapter);
-  if (book.timeline) mapEventDates = [...new Set([...mapEvents.map(c => data.passages.find(p => Number(p.chapter) === c)?.year), ...data.campaigns.map(c => c.start)].map(Number))]
+  if (book.timeline) mapEventDates = [...new Set([...mapEvents.map(c => data.passages.find(p => Number(p.chapter) === c)?.year), ...data.campaigns.map(c => c.start), ...milestones().map(e => e.year)].map(Number))]
     .filter(d => Number.isFinite(d) && d >= book.timeline.start && d <= book.timeline.end).sort((a, b) => a - b);
   if (book.timeline) {
     defaults.date = book.timeline.default;
@@ -425,7 +426,7 @@ function renderScripture() {
   if (state.sidebar === 'word') return renderWord();
   const verses = scripture.chapters?.[state.chapter] || [];
   const body = verses.length ? verses.map(v => renderVerse(v)).join('') : `<div class="word-view"><h2>${esc(book.name)} ${state.chapter}</h2><p>The text for this ${unit()} is not available.</p></div>`;
-  $('#sidebarContent').innerHTML = `<div class="scripture-heading">${mapEventButtonHtml(-1, adjacentMapEvent(-1))}<button class="sidebar-next" data-action="chapter-prev" aria-label="${esc(chapterStepLabel(true))}" ${chapterStepDisabled(true)}>‹</button><div class="chapter-picker-block"><h1 class="chapter-picker"><button type="button" class="chapter-picker-trigger" aria-label="${chapters.length > 1 ? `Choose ${esc(book.name)} ${unit()}, current ${unit()} ${state.chapter}` : `${esc(book.name)} ${state.chapter}, the only ${unit()}`}" aria-haspopup="listbox" aria-expanded="false" aria-controls="chapterPickerMenu" ${chapters.length > 1 ? '' : 'disabled'}>${esc(book.name)} ${state.chapter}<svg aria-hidden="true" width="16" height="16" viewBox="0 0 16 16"><path d="m4 6 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/></svg></button></h1>${chapterDateHtml()}</div><div id="chapterPickerMenu" class="chapter-picker-menu" popover="auto" role="listbox" aria-label="Choose ${esc(book.name)} ${unit()}">${chapters.map(c => `<button type="button" role="option" aria-label="${esc(book.name)} ${unit()} ${c}" aria-selected="${c === state.chapter}" tabindex="-1" data-value="${c}"><span>${c}</span><span class="chapter-picker-check" aria-hidden="true">${c === state.chapter ? '✓' : ''}</span></button>`).join('')}</div><button class="sidebar-next" data-action="chapter-next" aria-label="${esc(chapterStepLabel(false))}" ${chapterStepDisabled(false)}>›</button>${mapEventButtonHtml(1, adjacentMapEvent(1))}</div>${body}`;
+  $('#sidebarContent').innerHTML = `<div class="scripture-heading">${mapEventButtonHtml(-1, adjacentMapEvent(-1))}<button class="sidebar-next" data-action="chapter-prev" aria-label="${esc(chapterStepLabel(true))}" title="${esc(chapterStepLabel(true))}" ${chapterStepDisabled(true)}>‹</button><div class="chapter-picker-block"><h1 class="chapter-picker"><button type="button" class="chapter-picker-trigger" aria-label="${chapters.length > 1 ? `Choose ${esc(book.name)} ${unit()}, current ${unit()} ${state.chapter}` : `${esc(book.name)} ${state.chapter}, the only ${unit()}`}" aria-haspopup="listbox" aria-expanded="false" aria-controls="chapterPickerMenu" ${chapters.length > 1 ? '' : 'disabled'}>${esc(book.name)} ${state.chapter}<svg aria-hidden="true" width="16" height="16" viewBox="0 0 16 16"><path d="m4 6 4 4 4-4" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/></svg></button></h1>${chapterDateHtml()}</div><div id="chapterPickerMenu" class="chapter-picker-menu" popover="auto" role="listbox" aria-label="Choose ${esc(book.name)} ${unit()}">${chapters.map(c => `<button type="button" role="option" aria-label="${esc(book.name)} ${unit()} ${c}" aria-selected="${c === state.chapter}" tabindex="-1" data-value="${c}"><span>${c}</span><span class="chapter-picker-check" aria-hidden="true">${c === state.chapter ? '✓' : ''}</span></button>`).join('')}</div><button class="sidebar-next" data-action="chapter-next" aria-label="${esc(chapterStepLabel(false))}" title="${esc(chapterStepLabel(false))}" ${chapterStepDisabled(false)}>›</button>${mapEventButtonHtml(1, adjacentMapEvent(1))}</div>${body}`;
   initChapterPicker(document.querySelector('#sidebarContent'), state.chapter, chapters, selectChapter);
   $('#sidebarContent .verse')?.insertAdjacentHTML('beforebegin', passageContextHtml());
 }
@@ -539,8 +540,8 @@ function scrollVerse(verse, focus = true) {
   }
   renderTop(); persist();
 }
-// A map event is a section that draws a path, a story area, or a place of loss.
-// A section that only names towns is not a map event.
+// A map event is a chapter or section that draws a path, a story area, or a place of loss.
+// A chapter or section that only names towns is not a map event.
 function isEventChapter(chapter) {
   const focus = chapterFocus(data, chapter);
   if (!focus) return false;
@@ -551,7 +552,7 @@ function isEventChapter(chapter) {
 function adjacentMapEvent(direction, chapter = state.chapter) {
   return direction < 0 ? mapEvents.findLast(c => c < chapter) : mapEvents.find(c => c > chapter);
 }
-// A map pin beside a chevron marks a jump to the next map event, not the next section.
+// A map pin beside a chevron marks a jump to the next map event, not the next chapter or section.
 function mapEventButtonHtml(direction, target) {
   if (!mapEvents.length) return '';
   const label = `${direction < 0 ? 'Previous' : 'Next'} map event${target ? `: ${book.name} ${target}` : ''}`;
@@ -559,12 +560,16 @@ function mapEventButtonHtml(direction, target) {
   const pin = direction < 0 ? '<path d="M15.5 20s-5-4.3-5-8.5a5 5 0 0 1 10 0c0 4.2-5 8.5-5 8.5z"/><circle cx="15.5" cy="11.5" r="1.7"/>' : '<path d="M8.5 20s-5-4.3-5-8.5a5 5 0 0 1 10 0c0 4.2-5 8.5-5 8.5z"/><circle cx="8.5" cy="11.5" r="1.7"/>';
   return `<button class="sidebar-event" data-action="event-${direction < 0 ? 'prev' : 'next'}" aria-label="${esc(label)}" title="${esc(label)}" ${target ? '' : 'disabled'}><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">${chevron}${pin}</svg></button>`;
 }
-// The chapter-order scrubber steps through map events. A book without map events uses every section.
+// The chapter-order scrubber steps through map events. A book without map events uses every chapter or section.
 function scrubChapters() { return mapEvents.length ? mapEvents : chapters; }
-// A section or date between events keeps the handle on the event before it.
+// A chapter, section, or date between events keeps the handle on the event before it.
 function scrubIndex(chapter = state.chapter) { return Math.max(0, scrubChapters().findLastIndex(c => c <= chapter)); }
 function dateIndex(date = state.date) { return Math.max(0, mapEventDates.findLastIndex(d => d <= date)); }
 function scrubDate(value) { return mapEventDates.length ? mapEventDates[Number(value)] : Number(value); }
+// Dated milestones are the book's events. A book turns them off with timeline.milestones: false.
+function milestones() { return book.timeline?.milestones === false ? [] : data.events || []; }
+// A dated milestone names the map event at its date.
+function mapEventTitle(date = state.date) { const event = milestones().find(e => Number(e.year) === date); return event?.title || event?.name || ''; }
 function isPassageDate() { const p = activePassage(); return !p?.year || state.date === p.year; }
 function renderTimeline() {
   if (!book.timeline) {
@@ -578,11 +583,11 @@ function renderTimeline() {
     return;
   }
   const p = activePassage(), follow = isPassageDate();
-  const position = mapEventDates.indexOf(state.date);
+  const position = mapEventDates.indexOf(state.date), title = state.studyMode === 'map' && position >= 0 ? mapEventTitle() : '';
   $('#timelineRange').value = mapEventDates.length ? dateIndex() : state.date;
-  $('#timelineRange').setAttribute('aria-valuetext', formatDate(state.date));
+  $('#timelineRange').setAttribute('aria-valuetext', `${formatDate(state.date)}${title ? ` · ${title}` : ''}`);
   $('#timelineChapter').textContent = state.studyMode !== 'map' ? `${book.name} ${state.chapter}` : !mapEventDates.length ? 'Historical map' : position >= 0 ? `Map event ${position + 1} of ${mapEventDates.length}` : `Between map events · ${mapEventDates.length} in all`;
-  $('#dateLabel').value = state.studyMode === 'map' ? formatDate(state.date) : p?.year == null ? (p?.dateLabel || 'Date not known') : follow && p?.dateLabel ? p.dateLabel : formatDate(state.date);
+  $('#dateLabel').value = state.studyMode === 'map' ? `${formatDate(state.date)}${title ? ` · ${title}` : ''}` : p?.year == null ? (p?.dateLabel || 'Date not known') : follow && p?.dateLabel ? p.dateLabel : formatDate(state.date);
   $('#returnPassage').classList.toggle('hidden', follow || !p?.year);
   $('#timelineTooltip').textContent = formatDate(state.date);
 }
@@ -887,7 +892,8 @@ function initMap() {
     if (r[0].status === 'fulfilled') L.geoJSON(r[0].value, {pane:'base',interactive:false, style: { color: '#dfc990', weight: 1, fillColor: '#a4ac79', fillOpacity: 1 } }).addTo(map);
     if (r[1].status === 'fulfilled') L.geoJSON(r[1].value, {pane:'water',interactive:false, style: { color: '#81bbca', weight: 1.2, fillColor: '#155c80', fillOpacity: 1 } }).addTo(map);
     if (r[3].status === 'fulfilled') L.geoJSON(r[3].value, {pane:'water', interactive:false,
-      style: f => ({color:'#4b9fbd', weight:f.properties.rank <= 5 ? 3.2 : f.properties.rank <= 8 ? 2.2 : 1.1, opacity:f.properties.rank <= 8 ? 1 : .75})}).addTo(map);
+      // A book with many small rivers can draw the smallest ones thin and faint with map.fadeMinorRivers.
+      style: f => book.map?.fadeMinorRivers && f.properties.rank > 8 ? {color:'#4b9fbd', weight:1.1, opacity:.75} : ({color:'#4b9fbd', weight:f.properties.rank <= 5 ? 3.2 : 2.2, opacity:1})}).addTo(map);
     if (r[2].status === 'fulfilled') {
       L.imageOverlay('assets/relief.webp',r[2].value.bounds,{pane:'relief',opacity:1,interactive:false}).addTo(map);
       const [[south,west],[north,east]] = r[2].value.bounds;
@@ -1034,12 +1040,13 @@ function focusChapterMap(animate = true, keepCard = false) {
   mapHome = target && { zoom:target.zoom, center:map._limitCenter(target.center, target.zoom, map.options.maxBounds) };
   map.fitBounds(bounds, options);
 }
-// A map event date shows its paths. A date without a drawn path shows its event section.
+// A map event date shows its paths. A date without a drawn path shows its event chapter or milestone places.
 function focusMapEventDate() {
   if (!map || !mapEventDates.includes(state.date)) return;
   const section = mapEvents.find(c => data.passages.find(p => Number(p.chapter) === c)?.year === state.date);
   const paths = state.layers.campaigns ? data.campaigns.filter(visibleAt) : [];
-  const points = paths.length ? paths.flatMap(c => c.points) : section ? chapterPoints(data, section) : [];
+  const milestone = (milestones().find(e => Number(e.year) === state.date)?.placeIds || []).map(id => data.places.find(p => p.id === id)).filter(Boolean).map(p => [p.lat, p.lng]);
+  const points = paths.length ? paths.flatMap(c => c.points) : section ? chapterPoints(data, section) : milestone;
   if (!points.length) return;
   map.stop();
   const panel = $('.layers').getBoundingClientRect(), size = map.getSize();

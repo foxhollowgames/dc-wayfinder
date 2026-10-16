@@ -266,7 +266,7 @@ pmap = {p['id']: p for p in places_out}
 
 # ---------- passages, maps, studies ----------
 passages, chapter_maps, studies, bands, events = [], [], [], [], []
-TIMELINE = {'start': month_index('1823-09'), 'end': month_index('1847-12'), 'default': month_index('1831-02'), 'unit': 'month'}
+TIMELINE = {'start': month_index('1823-09'), 'end': month_index('1847-12'), 'default': month_index('1831-02'), 'unit': 'month', 'milestones': False}
 for n, d in sections.items():
     verses = chapters[str(n)]
     m = month_index(d['month'])
@@ -308,7 +308,7 @@ book = {'id': BOOK_ID, 'name': 'D&C', 'fullName': 'Doctrine and Covenants', 'bib
         'unitLabel': 'section', 'verseLinks': 'entities', 'mapLimits': True, 'wordLanguages': False, 'relief': False,
         'scriptureUrl': 'https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/{chapter}?lang=eng&id=p{verse}#p{verse}',
         'timeline': TIMELINE, 'portraitNote': PORTRAIT_NOTE,
-        'map': {'center': [40.6, -84.5], 'zoom': 5, 'bounds': [[22, -128], [55, -58]], 'minZoom': 4, 'maxZoom': 12},
+        'map': {'center': [40.6, -84.5], 'zoom': 5, 'bounds': [[22, -128], [55, -58]], 'minZoom': 4, 'maxZoom': 12, 'fadeMinorRivers': True},
         'geographyLabels': [['Lake Erie', 42.15, -81.3, 5, -18], ['Lake Ontario', 43.65, -77.9, 5, -5], ['Lake Michigan', 43.6, -87.05, 5, -82],
                             ['Lake Huron', 44.9, -82.5, 6, -55], ['Atlantic Ocean', 36.5, -70.5, 4, 0], ['Mississippi', 38.4, -90.25, 7, -75],
                             ['Missouri', 39.15, -92.9, 7, 15], ['Ohio River', 38.75, -84.9, 7, -10], ['Susquehanna', 41.2, -76.6, 8, -60],

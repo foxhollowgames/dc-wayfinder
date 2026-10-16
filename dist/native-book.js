@@ -1,4 +1,5 @@
-import { initBookCrumb } from './breadcrumbs.js?v=20261013.1';
+// Shared Wayfinder viewer file. Edit Wayfinder/viewer/native-book.js, then run npm run sync-viewer. Hash fbb22f867ae8.
+import { initBookCrumb } from './breadcrumbs.js?v=20261016.2';
 // Every book opens through this entry. The address names the book.
 // A book page names its book in data-book. The earlier address names it in the query.
 const slug=document.documentElement.dataset.book||new URLSearchParams(location.search).get('book');
